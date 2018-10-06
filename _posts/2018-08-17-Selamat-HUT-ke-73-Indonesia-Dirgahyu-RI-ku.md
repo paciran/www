@@ -1,13 +1,13 @@
 ---
 layout: post
 current: post
-cover:  assets/images/dirgahayuRI.jpg?resize=900,560
+cover:  assets/images/dirgahayuRI.jpg
 navigation: True
 title: "Selamat HUT ke-73, Dirgahayu RI-ku!"
-date: 2017-07-27 09:00:00
+date: 2018-08-17 00:00:00
 tags: [Getting started, Indonesia, Dirgahayu, HUT 73]
-class: post-template
-subclass: 'post tag-getting-started'
+#class: post-template
+#subclass: 'post tag-getting-started'
 author: mukidi
 ---
 Hari ulang tahun ke-73 Negara Kesatuan Republik Indonesia, cuma bisa mengucap: **Dirgahayu Negriku!** dalam sepi warung kopi ber-wifi. Sementara itu, tangan masih menempel di layar smartphone, tak ada kepalan tangan.

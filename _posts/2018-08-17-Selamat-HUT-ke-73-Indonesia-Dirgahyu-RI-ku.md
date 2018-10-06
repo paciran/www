@@ -2,7 +2,7 @@
 layout: post
 current: post
 cover:  assets/images/dirgahayuRI.jpg
-navigation: True
+#navigation: 
 title: "Selamat HUT ke-73, Dirgahayu RI-ku!"
 date: 2018-08-17 00:00:00
 tags: [Getting started, Indonesia, Dirgahayu, HUT 73]

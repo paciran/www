@@ -72,7 +72,7 @@ username: paciran
 repo: www
 branch: master
 relative_source: ../www/
-destination: ../www-pages/
+destination: ../www/
 production_url:  https://paciran.github.io/www/
 source_url:  https://github.com/paciran/www/
 

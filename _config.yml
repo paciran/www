@@ -73,7 +73,11 @@ repo: www
 branch: master
 relative_source: ../www/
 destination: ../www-pages/
+<<<<<<< HEAD
+production_url:  https://paciran.github.io/www/
+=======
 production_url:  https://www.paciran.com
+>>>>>>> 5dd2c38a64495d9bbd01485a220a2684ec941b55
 source_url:  https://github.com/paciran/www/
 
 exclude:

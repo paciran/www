@@ -1,2 +1,0 @@
-# www
-Paciran[dot]com

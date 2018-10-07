@@ -10,33 +10,32 @@ baseurl: /
 # Website info
 title: Paciran 
 description: Truth, Faith and Fakes
-cover: False #assets/images/blog-cover.jpg
-logo: False #assets/images/blog-icon.png
-logo_dark: False #assets/images/favicon.png
-favicon: False #assets/images/favicon.png
+cover: assets/images/blog-cover.jpg
+logo: assets/images/ciran.jpg
+logo_dark: assets/images/ciran.jpg
+favicon: assets/images/box.jpg
 production_url: https://www.paciran.com
 source_url: https://github.com/paciran/www/
-CNAME: www.paciran.com #add cname for website to be created
-
+CNAME: www.paciran.com
 # Social info
-navigation: True # show the navbar links
-subscribers: True # you need to connect an external service for this to work,
+navigation: True
+subscribers: True
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: paciran # replace by your username
-facebook: paciran # replace by your username
+twitter: paciran
+facebook: paciran
 
 # Disqus
 disqus: true
-disqus_shortname: paciran1 # replace with your disqus username
+disqus_shortname: paciran1
 
 # Google Analytics
 # google_analytics: UA-69281367-1 # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
-permalink: /author/:author
-permalink: /tag/:tag
+#permalink: /author/:author
+#permalink: /tag/:tag
 
 # Authors' info in `_data/authors.yml`
 # Tags' info in `_data/tags_info.yml`
@@ -73,11 +72,8 @@ repo: www
 branch: master
 relative_source: ../www/
 destination: ../www-pages/
-<<<<<<< HEAD
-production_url:  https://paciran.github.io/www/
-=======
+
 production_url:  https://www.paciran.com
->>>>>>> 5dd2c38a64495d9bbd01485a220a2684ec941b55
 source_url:  https://github.com/paciran/www/
 
 exclude:

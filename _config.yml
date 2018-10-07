@@ -19,7 +19,7 @@ source_url: https://github.com/paciran/www/
 CNAME: www.paciran.com
 # Social info
 navigation: True
-subscribers: True
+subscribers: False
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 twitter: paciran
@@ -68,7 +68,7 @@ feed:
 safe: False
 lsi: False
 username: paciran
-repo: www
+repo: https://github.com/paciran/www.git
 branch: master
 relative_source: ../www/
 destination: ../www-pages/

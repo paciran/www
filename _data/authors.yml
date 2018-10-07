@@ -1,30 +1,50 @@
+mukidi:
+  username: mukidi
+  name: Jon Mukidi
+  url_full: https://www.paciran.com/author/mukidi
+  url: /author/mukidi
+  bio: nama fiktif. Tak ada kaitan apapun dengan dunia nyata. Sebuah nama samaran yang dipilih secara _random_. Tidak berada di institusi manapun di Paciran atau berafiliasi dengan kepentingan apapun. Juga tak berusaha untuk mewakili pihak manapun.
+  picture: assets/images/mukidi.jpg
+  facebook: nasyrih
+  twitter: idlohulhaq
+  cover: False
+sukadi:
+  username: sukadi
+  name: Kaji Sukadi
+  url_full: https://www.paciran.com/author/sukadi
+  url: /author/sukadi
+  bio: The professional publishing platform
+  picture: assets/images/sukadi.jpg
+  facebook: A1nu22ohman
+  twitter: False
+  cover: False
 ghost:
   username: ghost
   name: Ghost
-  url_full: http://jekyller.github.io/jasper2/
-  url: jekyller.github.io/jasper2
+  url_full: https://www.paciran.com
+  url: www.paciran.com
   bio: The professional publishing platform
-  picture: assets/images/ghost.png
-  facebook: ghost
-  twitter: tryghost
+  picture: assets/images/box.jpg
+  facebook: False
+  twitter: False
   cover: False
 hannah:
   username: hannah
   name: Hannah Wolfe
   location: London, UK
-  url_full: http://hannah.wf/
+  url_full: http://www.paciran.com
   url: hannah.wf
   bio: Hannah is the co-founder and lead developer at Ghost. She spends her days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
   picture: assets/images/hannah.jpg
   facebook: False
-  twitter: erisds
+  twitter: False
   cover: assets/images/hannah-cover.jpg
 john:
   username: john
   name: John O'Nolan
   location: On a plane
-  url_full: http://john.onolan.org/
-  url: john.onolan.org
+  url_full: http://www.paciran.com
+  url: www.paciran.com
   bio: Founder at Ghost.org. Writes about open source, startup life, non-profits, and publishing platforms. Travels the world with a bag of kites.
   picture: assets/images/john.jpg
   facebook: False

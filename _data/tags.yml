@@ -2,6 +2,14 @@ speeches:
   name: speeches
   description: Some of the greatest words ever spoken.
   cover: assets/images/speeches.jpg
+romansa:
+  name: romansa
+  description: False
+  cover: False
+politik:
+  name: politik
+  description: False
+  cover: False
 fiction:
   name: fiction
   description: False
@@ -13,4 +21,4 @@ fables:
 getting-started:
   name: getting-started
   description: False
-  cover: False
+  cover: assets/images/paciran.jpg

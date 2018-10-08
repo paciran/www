@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/tag/padi-band/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/" rel="alternate" type="text/html" />
-  <updated>2018-10-08T09:06:40+00:00</updated>
-  <id>/tag/padi-band/feed.xml</id>
+  <link href="https://www.paciran.com/tag/padi-band/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://www.paciran.com/" rel="alternate" type="text/html" />
+  <updated>2018-10-08T09:19:22+00:00</updated>
+  <id>https://www.paciran.com/tag/padi-band/feed.xml</id>
 
   
   
@@ -49,11 +49,11 @@
   
     <entry>
       <title type="html">Membunuh Waktu: Membuat Playlist Lagu-lagu Padi, Online Boss!</title>
-      <link href="/audio-player-html5-playlist" rel="alternate" type="text/html" title="Membunuh Waktu: Membuat Playlist Lagu-lagu Padi, Online Boss!" />
+      <link href="https://www.paciran.com/audio-player-html5-playlist" rel="alternate" type="text/html" title="Membunuh Waktu: Membuat Playlist Lagu-lagu Padi, Online Boss!" />
       <published>2018-08-08T09:00:00+00:00</published>
       <updated>2018-08-08T09:00:00+00:00</updated>
-      <id>/audio-player-html5-playlist</id>
-      <content type="html" xml:base="/audio-player-html5-playlist">&lt;p&gt;Seperti biasa, karena &lt;em&gt;saking nganggure&lt;/em&gt;, Saia butuh kegiatan yang membuat jari (secara spesifik: dua jempol) sibuk. Setelah dua hari tak ada hal baru dalam keseharian &lt;em&gt;saia&lt;/em&gt;; ngopi, &lt;em&gt;jandon&lt;/em&gt;, main game &lt;a href=&quot;https://warrobots.net/en&quot;&gt;War Robots&lt;/a&gt; atau &lt;a href=&quot;http://www.pubgmobile.com/en-US&quot;&gt;PUBG&lt;/a&gt; sambil tiduran tentu saja. Akhirnya ketemu juga yang belum pernah saya coba: &lt;strong&gt;Membuat sebuah &lt;em&gt;audio player&lt;/em&gt; sederhana dengan fitur playlist&lt;/strong&gt;.&lt;/p&gt;
+      <id>https://www.paciran.com/audio-player-html5-playlist</id>
+      <content type="html" xml:base="https://www.paciran.com/audio-player-html5-playlist">&lt;p&gt;Seperti biasa, karena &lt;em&gt;saking nganggure&lt;/em&gt;, Saia butuh kegiatan yang membuat jari (secara spesifik: dua jempol) sibuk. Setelah dua hari tak ada hal baru dalam keseharian &lt;em&gt;saia&lt;/em&gt;; ngopi, &lt;em&gt;jandon&lt;/em&gt;, main game &lt;a href=&quot;https://warrobots.net/en&quot;&gt;War Robots&lt;/a&gt; atau &lt;a href=&quot;http://www.pubgmobile.com/en-US&quot;&gt;PUBG&lt;/a&gt; sambil tiduran tentu saja. Akhirnya ketemu juga yang belum pernah saya coba: &lt;strong&gt;Membuat sebuah &lt;em&gt;audio player&lt;/em&gt; sederhana dengan fitur playlist&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Tujuannya tentu saja agar bisa memainkan beberapa file audio sekaligus sesuai dengan urutan yang ditentukan dalam playlist. Secara sederhana, jika hanya memakai tag &lt;code class=&quot;highlighter-rouge&quot;&gt;audio&lt;/code&gt; HTML5 saja hanya bisa &lt;a href=&quot;https://www.knoacc.org/2012/10/menambah-audio-ke-blog-web-dengan-html5.html&quot;&gt;memainkan satu file audio saja&lt;/a&gt; dalam satu tag. Dan harus menekan kembali tombol play lagi jika ingin memutar file audio lainnya. Tidak nyaman tentu saja.&lt;/p&gt;
 

@@ -1,13 +1,11 @@
 ---
 title: How to reset your Apple ID password
-description: Having trouble logging in? Here's how to reset your Apple ID password
-image: https://i0.wp.com/icdn2.digitaltrends.com/image/reset-apple-id-password-2508x1672.jpg?resize=1640,840
-banner_image: reset-apple-id-password-1200-700.jpg
+description: "Having trouble logging in? Here's how to reset your Apple ID password"
+cover: assets/images/reset-apple-id-password-1200-700.jpg
 tags: [ios account, reset iphone, apple id, forgot password]
 date: 2018-09-03 19:45:00 +7
 layout: post
 current: post
-cover:  assets/images/padi-reborn.jpg
 navigation: True
 date: 2018-08-08 09:00:00
 class: post-template

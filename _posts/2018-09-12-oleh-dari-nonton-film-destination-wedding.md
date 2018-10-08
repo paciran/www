@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: False
+cover: assets/images/film-destination-wedding.jpg
 navigation: True
 class: post-template
 subclass: 'post tag-film'
@@ -18,7 +18,7 @@ author: sukadi
 
 "Itu tidak diragukan. Hingga hidup pada dasarnja pengalaman jang mengerikan, dan kau tahu kita tak butuh kebingungan dan tekanan sematjam itu." Kata Suki menimpali djawaban Socja.
 
-![destination wedding](https://m.media-amazon.com/images/M/MV5BYzczNTliOTItZGQ1Yi00OGM4LWEyOTgtZWM0MmY0ZTliM2ZhXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY500_SX750_AL_.jpg)
+> Tentang [destination wedding](https://www.imdb.com/title/tt6987770/)
 
 “Kau mengekpresikan ketidak pertjajaan.” Tegas Socja. Dengan tjekatan.
 	

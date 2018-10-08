@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/Italia82.JPG
+cover: assets/images/Italia82.JPG
 navigation: True
 class: post-template
 subclass: 'post tag-kuliner'
@@ -15,7 +15,7 @@ Bangun tidur sore, Kamis (06/09) tak berapa lama kemudian listrik jang sedari si
 
 Langkah kaki berdjalan malas ke ruang tengah, tahu-tahu di medja dapur ada sekumpulan ikan Kembung AKA _Iwak Tiwu_ jang sudah digoreng bumbu Srepeh. Sungguh malam Djumat jang sangat beruntung.
 
-Baiklah, demi mendjaga kesehatan, rasanja tidak perlu mendjalankan strategi [pertahanan Grendel](https://id.wikipedia.org/wiki/Catenaccio) ala Italia atawa jang lebih kita kenal dengan istilah _Catenaccio_. _**Catenaccio**_ adalah sistem taktis dalam [permainan sepak bola](https://www.paciran.com/2018/08/19/aplikasi-streaming-bola-eropa-paling-lengkap.html) jang menitikberatkan kekuatan pada pertahanan.
+Baiklah, demi mendjaga kesehatan, rasanja tidak perlu mendjalankan strategi [pertahanan Grendel](https://id.wikipedia.org/wiki/Catenaccio) ala Italia atawa jang lebih kita kenal dengan istilah _Catenaccio_. _**Catenaccio**_ adalah sistem taktis dalam [permainan sepak bola](https://www.paciran.com/aplikasi-streaming-bola-eropa-paling-lengkap.html) jang menitikberatkan kekuatan pada pertahanan.
 
 ![Catenaccio Italia](https://upload.wikimedia.org/wikipedia/commons/2/21/Italia82.JPG)
 
@@ -25,7 +25,7 @@ Jach sudah kita tinggalkan sadja bahasan tentang taktik bermain sepak bola. lagi
 
 Atas dasar kondisi kestabilan pentjernaan, saja berharap kawan-kawan semua dalam keadaan sehat walafiat. sehingga bisa menikmati lezatnja masakan jang satu ini.
 
-[![tiwu goreng srepeh](//i2.wp.com/www.paciran.com/images/posts/tiwu-goreng-srepeh.jpg?resize=900,600)](/images/posts/tiwu-goreng-srepeh.jpg)
+[![tiwu goreng srepeh](//i2.wp.com/www.paciran.com/assets/images/tiwu-goreng-srepeh.jpg?resize=900,600)](/posts/images/tiwu-goreng-srepeh.jpg)
 
 Mari makan. Jang sabar, Jach.
 

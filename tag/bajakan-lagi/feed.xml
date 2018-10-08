@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/tag/bajakan-lagi/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2018-10-08T04:46:04+00:00</updated>
+  <id>/tag/bajakan-lagi/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Paciran Lamongan | </title>
+  
+
+  
+    <subtitle>The professional publishing platform</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Teman Tapi Menikah Itu Judul Film Indonesia Cak!</title>
+      <link href="/teman-tapi-menikah" rel="alternate" type="text/html" title="Teman Tapi Menikah Itu Judul Film Indonesia Cak!" />
+      <published>2018-08-08T09:00:00+00:00</published>
+      <updated>2018-08-08T09:00:00+00:00</updated>
+      <id>/teman-tapi-menikah</id>
+      <content type="html" xml:base="/teman-tapi-menikah">&lt;p&gt;Hanya catatan ringan: TTM, kalau dijamanku sekolah, ini singkatan dari rangkaian kata &lt;strong&gt;teman tapi mesra&lt;/strong&gt;. Lebih dipahami sebagai pertemanan antar dua remaja bejenis kelamin berbeda dengan tingkat intimasi yang lebih dari teman. Tanpa status “pacaran”, “&lt;em&gt;gendak-an&lt;/em&gt;”, atau &lt;em&gt;cem-cem-an&lt;/em&gt;. Tetapi &lt;em&gt;ngalor-ngidul&lt;/em&gt; ya berdua saja.&lt;/p&gt;
+
+&lt;p&gt;TTM dulu judul lagu yang dibawakan oleh &lt;a href=&quot;https://id.m.wikipedia.org/wiki/Ratu_(grup_musik)&quot;&gt;duo Ratu&lt;/a&gt;. Sekarang, TTM jadi judul film yang diperankan oleh… siapa ya?  Pokoknya, kali ini &lt;em&gt;saia&lt;/em&gt; cuma mau mencoba menyematkan sebuah film Indonesia, yang juga sudah pernah ditayangkan di penyedia layanan &lt;em&gt;streaming&lt;/em&gt; Viu dan Hooq. Dan kebablas di-bajak oleh bangsa sendiri, maklumlah, negara agraris.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i0.wp.com/cinemapoetica.com/wp-content/uploads/2018/04/teman-tapi-menikah_hlgh_.jpg&quot; alt=&quot;Cuplikan Film TTM 2018&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Karena sudah &lt;em&gt;kadung kevajak&lt;/em&gt; sekalian saja dijadikan bahan untuk mencoba fitur &lt;em&gt;embed&lt;/em&gt; (semat) video yang di-hosting di situs openload dengan memanfaatkan container &lt;a href=&quot;https://getbootstrap.com/docs/4.1/utilities/embed/&quot;&gt;video responsive bootstrapp&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Biasanya, kode semat yang diberikan oleh (misalnya) &lt;a href=&quot;https://www.youtube.com&quot;&gt;Youtube&lt;/a&gt;, perlu mencantumkan nilai &lt;code class=&quot;highlighter-rouge&quot;&gt;width&lt;/code&gt; dan &lt;code class=&quot;highlighter-rouge&quot;&gt;height&lt;/code&gt; agar tidak &lt;em&gt;mletot&lt;/em&gt; sana-sini. Sayangnya kalau ukuran layar lebih kecil, video sematan akan terpotong.&lt;/p&gt;
+
+&lt;p&gt;Ternyata element &lt;code class=&quot;highlighter-rouge&quot;&gt;iframe&lt;/code&gt; yang di berikan oleh situs video &lt;a href=&quot;https://www.paciran.com/2018/08/19/aplikasi-streaming-bola-eropa-paling-lengkap.html&quot;&gt;streaming&lt;/a&gt; (baik itu youtube atau lainnya) bisa dibuat &lt;em&gt;responsive&lt;/em&gt;, maksudnya menyesuaikan layar dan tidak harus merubah nilai &lt;code class=&quot;highlighter-rouge&quot;&gt;width&lt;/code&gt; dan &lt;code class=&quot;highlighter-rouge&quot;&gt;height&lt;/code&gt;. Tetapi hanya dengan membungkusnya saja seperti yang terlihat di bawah postingan.&lt;/p&gt;
+
+&lt;p&gt;Misalnya saja sudah mendapat kode embed seperti berikut:&lt;/p&gt;
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://link.sematan.situs/youtube/dan-lainya&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;scrolling=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;no&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;740&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;340&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;allowfullscreen=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;true&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;webkitallowfullscreen=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;true&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;mozallowfullscreen=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;true&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Maka kita tambahkan saja &lt;code class=&quot;highlighter-rouge&quot;&gt;class&lt;/code&gt; baru &lt;code class=&quot;highlighter-rouge&quot;&gt;embed-responsive-item&lt;/code&gt; dalam elemen &lt;code class=&quot;highlighter-rouge&quot;&gt;iframe&lt;/code&gt; dan hilangkan nilai &lt;code class=&quot;highlighter-rouge&quot;&gt;width&lt;/code&gt; dan &lt;code class=&quot;highlighter-rouge&quot;&gt;height&lt;/code&gt; sehingga menjadi:&lt;/p&gt;
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;embed-respomsive-item&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://link.sematan.situs/youtube/dan-lainya&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;scrolling=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;no&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;allowfullscreen=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;true&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;webkitallowfullscreen=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;true&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;mozallowfullscreen=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;true&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Kemudian dibungkus lagi dengan elemen &lt;code class=&quot;highlighter-rouge&quot;&gt;div&lt;/code&gt; dengan &lt;code class=&quot;highlighter-rouge&quot;&gt;class&lt;/code&gt; baru &lt;code class=&quot;highlighter-rouge&quot;&gt;embed-responsive embed-responsive-16by9&lt;/code&gt; Kurang lebih seperti ini:&lt;/p&gt;
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;embed-responsive embed-responsive-16by9&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;embed-responsive-item&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://link.sematan.situs/youtube/dan-lainya&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;scrolling=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;no&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;740&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;340&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;allowfullscreen=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;true&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;webkitallowfullscreen=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;true&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;mozallowfullscreen=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;true&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Jadi, jika situs atau blog sudah terdapat plug-in bootsrapp, bisa menjadikan video lebih enak dilihat, meskipun jika dilihat di ponsel tingginya tetap 340 pixel. seperti sematan berikut:&lt;/p&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+&lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://oload.stream/embed/T2p1vC2mzrQ&quot; scrolling=&quot;no&quot; width=&quot;740&quot; height=&quot;340&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Selain dipakai untuk membungkus kode sematan, container responsif ini bisa di pakai juga untuk element &lt;code class=&quot;highlighter-rouge&quot;&gt;video&lt;/code&gt; HTML 5 seperti yang pernah &lt;em&gt;saia&lt;/em&gt; pakai dipostinga blog untuk membungkus &lt;a href=&quot;https://www.paciran.com/2018/08/23/para-penerka-iwan-fals-noah.html&quot;&gt;video lagu Para Penerka-nya Iwan Fals&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;penutup&quot;&gt;Penutup&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;Teman Tapi Menikah&lt;/a&gt; bukan cuma ada di film! Koncoku yo akeh &lt;em&gt;mblo&lt;/em&gt;.. :D&lt;/p&gt;
+
+&lt;p&gt;Okay, karena sudah &lt;em&gt;kadung&lt;/em&gt; terpasang, kita nikmati bareng biar &lt;em&gt;gak mubazir&lt;/em&gt;. Mau nonton bareng teman? Teman yang mana?&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Jon Mukidi</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="nonton bareng" />
+      
+        <category term="TTM 2018" />
+      
+        <category term="streaming" />
+      
+        <category term="bajakan lagi" />
+      
+
+      
+        <summary type="html">Hanya catatan ringan: TTM, kalau dijamanku sekolah, ini singkatan dari rangkaian kata teman tapi mesra. Lebih dipahami sebagai pertemanan antar dua remaja bejenis kelamin berbeda dengan tingkat intimasi yang lebih dari teman. Tanpa status “pacaran”, “gendak-an”, atau cem-cem-an. Tetapi ngalor-ngidul ya berdua saja.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

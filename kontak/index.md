@@ -5,6 +5,7 @@ title: Formulir Kontak
 description: Hubungi redaksi Paciran Lamongan
 logo: assets/images/box.jpg
 cover: assets/images/writing.jpg
+navigation: True
 ---
 
 <form name="contact-form">

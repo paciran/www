@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: False #assets/images/Italia82.JPG
+cover: /assets/images/tiwu-goreng-srepeh.jpg
 navigation: True
 class: post-template
 subclass: 'post tag-kuliner'
@@ -25,8 +25,6 @@ Jach sudah kita tinggalkan sadja bahasan tentang taktik bermain sepak bola. lagi
 
 Atas dasar kondisi kestabilan pentjernaan, saja berharap kawan-kawan semua dalam keadaan sehat walafiat. sehingga bisa menikmati lezatnja masakan jang satu ini.
 
-![tiwu goreng srepeh](/assets/images/tiwu-goreng-srepeh.jpg)
-
-Mari makan. Jang sabar, Jach.
+Mari makan [tiwu goreng](/assets/images/tiwu-goreng-srepeh.jpg). Jang sabar, Jach.
 
 _editor: **jon mukidi**_

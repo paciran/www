@@ -6,7 +6,7 @@ date: 2018-09-07 18:23:00
 tags: [kuliner lokal, makna kenikmatan, potret makanan, dolar goyang, ]
 layout: post
 current: post
-cover:  assets/images/kopi-hitam-kental-paciran.jpg
+cover: False
 navigation: True
 class: post-template
 subclass: 'post tag-kuliner'
@@ -19,7 +19,7 @@ Nilai mata uwang kita memang sudah begitu nasipnja, bahasa anak sekarang "Labil"
 
 ## Patjiran Bergojang, sekuat Gojangan Dollar
 
-Di sini saja ingin berbagi ketjeriaan lain, jang mana untuk bisa [menikmati kehangatan](https://www.paciran.com/2018/08/24/teman-tapi-menikah.html) dan kenikmatannja harus terlebih dahulu melakukan meditasi tingkat tinggi, memindjam petuah para pini sepuh. "Tak ada kenikmatan tanpa bersusah pajah."
+Di sini saja ingin berbagi ketjeriaan lain, jang mana untuk bisa [menikmati kehangatan](https://www.paciran.com/teman-tapi-menikah.html) dan kenikmatannja harus terlebih dahulu melakukan meditasi tingkat tinggi, memindjam petuah para pini sepuh. "Tak ada kenikmatan tanpa bersusah pajah."
 
 Sebelumnja perlu kawan semua ketahui apa jang hendak saja bagikan ini adalah sesuatu jang tiap hari bisa kita temui. Terkadang karena sudah terbiasa ditemukan akal pikiran kita djuga mudah melalaikannja begitu sadja.
 

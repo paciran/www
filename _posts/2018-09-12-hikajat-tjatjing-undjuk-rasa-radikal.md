@@ -24,7 +24,7 @@ Posisi tjatjing demo menutup hampir seluruh badan djalan di dalam usus sehingga 
 
 Bagi para sedulur semuwa jang sudah ditanjai soal lowongan pekerjaan. Harap lebih waspada, karena kerumunan massa ini punja itikad tidak baik sama sekali. Pelbagai langkah taktis bisa sedulur lakukan untuk menangkal gelombang massa jang dalam aksinja sangat radikal ini.
 
-![menu makan siang, dok: Kaji Sukadi](https://i0.wp.com/www.paciran.com/images/posts/menu-makan-siang.jpg?resize=320,320){:.alignleft}
+![menu makan siang, dok: Kaji Sukadi](https://i0.wp.com/www.paciran.com/assets/images/menu-makan-siang.jpg?resize=320,320){:.alignleft}
 
 Salah satunja sedulur bisa menghindarkan diri dari rasa malas makan siang. Sedulur bisa makan apa sadja asal perut ada isinja. Isilah perut sedulur dengan makanan jang positif, djangan tjoba2 melakukan hal2 ektrem seperti makan Aspal, Sirtu, angan2 dan bajang2. Apalagi makan kenangan sangat tidak diandjurkan. Selain tak baik buat perut djuga tak baik untuk kelangsungan hidup sedulur. Monggo mangan sek, Luuur.
 

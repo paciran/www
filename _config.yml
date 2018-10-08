@@ -11,8 +11,8 @@ baseurl: /
 # Website info
 title: Paciran Lamongan
 description: The professional publishing platform
-cover: assets/images/blog-cover.jpg
-logo: assets/images/ciran.jpg
+cover: assets/images/paciran.png
+logo: assets/images/paciran.png
 logo_dark: assets/images/box.jpg
 favicon: assets/images/box.jpg
 production_url: https://www.paciran.com

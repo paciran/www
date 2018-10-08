@@ -3,23 +3,24 @@ mukidi:
   name: Jon Mukidi
   url_full: https://www.paciran.com/author/mukidi
   url: /author/mukidi
-  bio: nama fiktif. Tak ada kaitan apapun dengan dunia nyata. Sebuah nama samaran yang dipilih secara _random_. Tidak berada di institusi manapun di Paciran atau berafiliasi dengan kepentingan apapun. Juga tak berusaha untuk mewakili pihak manapun.
+  bio: Jon Mukidi is a real-designer, not-photographer, nyocot-er, author of a couple of blogs and the founder of the some-kind-of-stupidity
   picture: assets/images/mukidi.jpg
   facebook: nasyrih
   twitter: idlohulhaq
-  cover: False
+  cover: /assets/images/dirgahayuRI.jpg
+  
 sukadi:
   username: sukadi
   name: Kaji Sukadi
   url_full: https://www.paciran.com/author/sukadi
   url: /author/sukadi
-  bio: The professional publishing platform
+  bio: Generasi pesisir Paciran jang tidak soeka maboek laoet, njambi bakoel boekoe Ce-O-De-an
   picture: assets/images/koradi.jpg
   facebook: A1nu22ohman
   twitter: False
-  cover: False
-ghost:
-  username: ghost
+  cover: /assets/images/senja-laut-paciran.jpg
+  
+username: ghost
   name: Ghost
   url_full: https://www.paciran.com
   url: www.paciran.com

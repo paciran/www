@@ -1,3 +1,4 @@
+---
 layout: post
 current: post
 cover: assets/images/design.jpg

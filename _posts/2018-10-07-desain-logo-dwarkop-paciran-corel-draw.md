@@ -34,4 +34,4 @@ Gambar jpg dan cdr desain baru logo D Warkop Paciran menggunakan [CorelDraw 12] 
 
 <video controls poster="//www103.zippyshare.com/downloadM4V?key=tre0mIne&amp;poster=true&amp;time=215608" preload="auto" src="//www103.zippyshare.com/downloadM4V?key=tre0mIne&amp;res=720&amp;time=215608"><source src="//www103.zippyshare.com/downloadM4V?key=tre0mIne&amp;res=720&amp;time=215608" data-quality="hd" type="video/mp4"></video>
 
-Sematan video diatas adalah **Anime Sword Art Online: Alicization** Episode 1 dari [zippyshare](https://www103.zippyshare.com/v/tre0mIne/file.html){: target="_blank" rel="noreferer nofollow"}, yang kebetulan sudah _saia_ tunggu-tunggu.
+Sematan video diatas adalah **Anime Sword Art Online: Alicization** Episode 1 dari [zippyshare](http://corneey.com/wL8gfg){: target="_blank" rel="noreferer nofollow"}, yang kebetulan sudah _saia_ tunggu-tunggu.

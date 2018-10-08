@@ -10,7 +10,7 @@ tags: fables
 class: post-template
 subclass: 'post tag-fables'
 logo: assets/images/box.jpg
-author: koradi
+author: sukadi
 ---
 Suasana alam kemerdekaan republik Indonesia dalam beberapa bulan kedepan akan lebih sering di isi dengan gegap gembita gelaran pesta demokrasi. Kita² ini peduli atawa tidak peduli dengan tingkah polah para badut² politikus tersebut tetap sadja dampak negatifnja akan datang djuga menghampiri ke ruang hidup kita², walaupun tanpa kita undang sekalipun. Terimo nasip, apes to!
 

@@ -9,7 +9,7 @@ tags: [resensi djiwa, purwarupa tjinta, egoisme tjinta sejati]
 class: post-template
 subclass: 'post tag-romansa'
 logo: assets/images/box.jpg
-author: koradi
+author: sukadi
 description: Narasi deskriptif tentang bahasa djiwa, sebuah resensi tentang purwarupa tjinta
 ---
 Hampir setiap bunga apapun jang hidup atawa segala sesuatu jang kau anggap hidup pada akhirnja akan hilang hakekat kehidupannja ~alias telar dunjo~. Begitu djuga dimensi alam perasaan jang kau rasakan dengan segala matjam ungkapan jang kau muliakan dan kau agung-agungkan. Pada suatu waktu rasa kenikmatan itu akan berangsur-angsur hilang, itu kenistjajaan kawan, meskipun sulit kau akui.

@@ -10,7 +10,7 @@ date: 2018-09-09 18:34:00
 class: post-template
 subclass: 'post tag-romansa'
 logo: assets/images/box.jpg
-author: koradi
+author: sukadi
 ---
 Tidak semua manusia mempunjai keberanian untuk berbagi kesenangan dengan sukarela. Salah satunja adalah berbagi senjum, salah duanja adalah berbagi foto makanan. Mungkin karena chawatir dianggap pamer. Padahal aksi sosial jang mingsih termasuk dalam kategori amal ibadah ini bisa mendatangkan pundi² pahala jang berlipat ganda. (Bisa masuk partai ganda tjampuran atawa melipat gandakan uwang).
 

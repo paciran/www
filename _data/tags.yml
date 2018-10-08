@@ -4,21 +4,33 @@ speeches:
   cover: assets/images/speeches.jpg
 romansa:
   name: romansa
-  description: False
-  cover: False
+  description: Kisah cinta, romansa para bujang lapuk di Paciran
+  cover: assets/images/lips-paciran.jpg
 politik:
   name: politik
-  description: False
-  cover: False
+  description: Bukan artikel politik biasa, bisa lokal bisa interlokal.
+  cover: assets/images/the-first-purge-2018.jpg
+menulis:
+  name: menulis
+  description: Tentang membaca, menulis dan membaca. 
+  cover: assets/images/writing.jpg
+desain:
+  name: desain
+  description: Desain grafis, adalah menggambar. entah dengan pena dan kertas maupun lewat corel dan photoshop. 
+  cover: assets/images/design.jpg
 fiction:
   name: fiction
-  description: False
+  description: Artikel fiksi yang tidak dimaksudkan untuk hiburan semata
   cover: False
 fables:
   name: fables
-  description: A series of short stories that make you think.
+  description: Short stories that make you think.
   cover: assets/images/fables.jpg
 getting-started:
   name: getting-started
   description: False
   cover: assets/images/paciran.jpg
+tutorial:
+  name: tutorial
+  description: Apakah ini memang tutorial, kalian yang menentukan
+  cover: assets/images/advanced.jpg

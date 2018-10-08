@@ -10,7 +10,7 @@ tags: [crisis nalar, meradang, pesikologi, ritual purba]
 class: post-template
 subclass: 'post tag-romansa'
 logo: assets/images/box.jpg
-author: koradi
+author: sukadi
 ---
 
 Sekiranja bisa dituliskan dengan baik dan indah ingin rasanja aku menuliskan seperti jang kalian harap2kan, sungguh menjesal sekali aku tak mampu memenuhi impian dan harapan kalian, tapi ketahuilah kedalaman hati sedang katjau, perasaanku tjatjat. Bahkan saat menuliskan ini mingsih terbesit di angan untuk melempar laptop, padahal sedjatinja laptop itu sendiri buat nulis kisah ini. Kau boleh tak pertjaja, bahkan djika kau pertjaja, aku kira kita sedang dalam kondisi jang hampir sama. 

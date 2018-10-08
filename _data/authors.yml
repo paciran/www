@@ -8,7 +8,6 @@ mukidi:
   facebook: nasyrih
   twitter: idlohulhaq
   cover: /assets/images/dirgahayuRI.jpg
-  
 sukadi:
   username: sukadi
   name: Kaji Sukadi
@@ -19,8 +18,8 @@ sukadi:
   facebook: A1nu22ohman
   twitter: False
   cover: /assets/images/senja-laut-paciran.jpg
-  
-username: ghost
+ghost:
+  username: ghost
   name: Ghost
   url_full: https://www.paciran.com
   url: www.paciran.com

@@ -17,7 +17,7 @@ sukadi:
   picture: assets/images/koradi.jpg
   facebook: A1nu22ohman
   twitter: False
-  cover: /assets/images/senja-laut-paciran.jpg
+  cover: assets/images/senja-laut-paciran.jpg
 ghost:
   username: ghost
   name: Ghost

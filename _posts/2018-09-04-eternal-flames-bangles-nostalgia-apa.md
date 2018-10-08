@@ -9,13 +9,10 @@ current: post
 cover:  assets/images/kopi-hitam-kental-paciran.jpg
 navigation: True
 class: post-template
-
+---
 **Eternal Flames**, yang dilagukan the Bangles bagi _Saia_ adalah lagu yang penuh rasa. Manis, asam, asin, (_ ramai rasanya). Selayaknya, serupa lagu nostalgia lain, _Eternal Flames_ yang (harusnya) romantis malah terasa getir. _Lowah_ kok bisa?
 
-Tak ada alasan khusus. Lagu ini kebetulan pernah _Saia_ putar dibeberapa situasi. Misalnya; (1.a) menunggu pagi setelah _event_ bertukar _saliva_ [malam minggu](/2018/08/19/aplikasi-streaming-bola-eropa-paling-lengkap.html), (1.b) putus cinta, (2.a) diajak bos makan di **shabu-shabu**, (2.b) dipecat dari pekerjaan dan terlilit hutang yang harus dibayar keesokan harinya, juga (3) meresap
-subclass: 'post tag-fiction'
-author: mukidi
----i dingin malam dalam kakus, sebab salah makan dan [murus-murus](/2018/08/21/jangankan-criptocurrency-valas-saja-banyak-bangkrutnya.html).
+Tak ada alasan khusus. Lagu ini kebetulan pernah _Saia_ putar dibeberapa situasi. Misalnya; (1.a) menunggu pagi setelah _event_ bertukar _saliva_ [malam minggu](/2018/08/19/aplikasi-streaming-bola-eropa-paling-lengkap.html), (1.b) putus cinta, (2.a) diajak bos makan di **shabu-shabu**, (2.b) dipecat dari pekerjaan dan terlilit hutang yang harus dibayar keesokan harinya, juga (3) meresapi dingin malam dalam kakus, sebab salah makan dan [murus-murus](/2018/08/21/jangankan-criptocurrency-valas-saja-banyak-bangkrutnya.html).
 
 > Eternal Flames, adalah lagu yang jadi korban situasi. _ John Mukidi.
 

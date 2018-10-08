@@ -6,7 +6,6 @@ cover: assets/images/cover-eternal-flames.jpg
 tags: [the bangles, youtube embed, cover lagu, eternal flames, alexandra porat, you are the reason]
 layout: post
 current: post
-cover:  assets/images/kopi-hitam-kental-paciran.jpg
 navigation: True
 class: post-template
 ---

@@ -11,7 +11,7 @@
 	{% else %}
 	<meta property="og:type" content="website" />
 	{% endif %}
-    <meta property="og:title" content="{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta property="og:title" content="{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% if site.tagline %} ~ {{ site.tagline }}{% endif %}{% endif %}" />
     <meta property="og:description" content="{% if excerpt %}{{ excerpt }}{% elsif page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
     <meta property="og:url" content="https://www.paciran.com{{ page.url }}" />
     <meta property="og:image" content="https://www.paciran.com/{% if page.cover %}{{ page.cover }}{% else %}{{ site.cover }}{% endif %}" />
@@ -43,7 +43,7 @@
     <meta name="twitter:url" content="{{ site.url }}{{ site.baseurl }}" />
     <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% else %}{{ site.cover }}{% endif %}" />
     <meta name="twitter:label1" content="Written by" />
-    <meta name="twitter:data1" content="{{ site.title }}" />{% if page.tags.size > 0 %}
+    <meta name="twitter:data1" content="{{ site.title }}{% if site.tagline %} ~ {{ site.tagline }}{% endif %}" />{% if page.tags.size > 0 %}
     <meta name="twitter:label2" content="Filed under" />
     <meta name="twitter:data2" content="{{ page.tags | first | capitalizeall }}" />{% endif %}
     <meta name="twitter:site" content="@{{ site.twitter }}" />

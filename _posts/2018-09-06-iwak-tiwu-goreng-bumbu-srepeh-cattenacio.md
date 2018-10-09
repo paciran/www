@@ -9,7 +9,7 @@ title: Iwak Tiwu Goreng Bumbu Srepeh
 description: Tidak ada hubungannja dengan strategi tim Italia Catenaccio
 author: sukadi
 date: 2018-09-06 17:31:00
-tags: [kuliner, iwak tiwu, bumbu srepeh, kuliner rumahan, pemadaman listrik]
+tags: [kuliner, olahraga]
 ---
 Bangun tidur sore, Kamis (06/09) tak berapa lama kemudian listrik jang sedari siang tadi padam, kini mulai njala kembali. Alhamdulillah, listrik sudah njala. Demikian, berachir sudah masa penderitaan jang digilir oleh PLN sebagai pemasok energi dasar kehidupan manusia modern saat ini.
 

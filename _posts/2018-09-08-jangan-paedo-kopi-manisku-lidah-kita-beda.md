@@ -9,7 +9,7 @@ author: mukidi
 title: "Jangan Paedo Kopi Manisku, Lidah Kita Beda Bung!"
 description: "Cerita penghobi oleng, antara pemabuk tradisional dan pemadat modernis yang masing-masing lebih suka onani"
 date: 2018-09-08 03:30:00
-tags: [onani masturbasi, oleng nusantara, pemabuk tadisonal, pemadat modernis]
+tags: [sosial, politik]
 ---
 Kopi, harus dinikmati dengan olahan yang sepahit-pahitnya. Kalau ada yang _ngopi_ dengan takaran gula yang plus-plus lantas dikritik. _Layoh_, hidup sudah pahit kok masih _diploro nguyup_ kopi pahit. _Plis deh_, kita punya tingkat hajat yang berbeda, definisi kenikmatan yang berbeda.
 

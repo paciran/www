@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://www.paciran.com/tag/para-penerka/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://www.paciran.com/" rel="alternate" type="text/html" />
-  <updated>2018-10-09T16:03:39+00:00</updated>
+  <updated>2018-10-09T18:15:02+00:00</updated>
   <id>https://www.paciran.com/tag/para-penerka/feed.xml</id>
 
   
@@ -46,8 +46,8 @@
 &lt;p&gt;Ketika para pencela merajalela dan timeline media sosial dipenuhi dengan kepberpihakan yang keterlaluan.&lt;/p&gt;
 
 &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-&lt;video class=&quot;embed-respomsive-item&quot; poster=&quot;https://www.paciran.com/images/posts/&quot; controls=&quot;controls&quot;&gt;
-  &lt;source src=&quot;https://rawgit.com/knoacc/pcr/images/posts/iwanFals.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;video class=&quot;embed-respomsive-item&quot; poster=&quot;&quot; controls=&quot;controls&quot;&gt;
+  &lt;source src=&quot;https://cdn.rawgit.com/knoacc/pcr/9f60712c/images/posts/iwanFals.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;span&gt;your browser does not support the video tag.&lt;/span&gt;
 &lt;/video&gt;
 &lt;/div&gt;
@@ -59,7 +59,7 @@
 
 &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
 &lt;video class=&quot;embed-respomsive-item&quot; poster=&quot;https://i0.wp.com/cdn2.tstatic.net/medan/foto/bank/images/stuntman-jokowi-dan-deddy-corbuzier_20180821_100653.jpg&quot; controls=&quot;controls&quot;&gt;
-  &lt;source src=&quot;https://rawgit.com/knoacc/pcr/images/posts/dedi.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;source src=&quot;https://raw.githubusercontent.com/knoacc/pcr/images/posts/dedi.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;span&gt;your browser does not support the video tag.&lt;/span&gt;
 &lt;/video&gt;
 &lt;/div&gt;
@@ -68,13 +68,12 @@
 
 &lt;h3 id=&quot;pesta-sate&quot;&gt;Pesta Sate&lt;/h3&gt;
 
-&lt;p&gt;Sedangkan &lt;em&gt;saia&lt;/em&gt; mau menulis tentang &lt;em&gt;pulitik&lt;/em&gt;, takut kena sembelih. Ya sudah posting video saja sambil &lt;em&gt;ngemil&lt;/em&gt; sate kambing yang cuma bisa kita nikmati &lt;a href=&quot;https://www.bing.com/search?q=pesta+sate+kurban&quot; target=&quot;_blank&quot;&gt;setahun sekali ini&lt;/a&gt;.
-&amp;lt;!–
-&lt;em&gt;Video mentahnya disini:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Sedangkan &lt;em&gt;saia&lt;/em&gt; mau menulis tentang &lt;em&gt;pulitik&lt;/em&gt;, takut kena sembelih. Ya sudah posting video saja sambil &lt;em&gt;ngemil&lt;/em&gt; sate kambing yang cuma bisa kita nikmati &lt;a href=&quot;https://www.bing.com/search?q=pesta+sate+kurban&quot; target=&quot;_blank&quot;&gt;setahun sekali ini&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Video mentahnya disini:&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.paciran.com/images/posts/iwanFals.mp4&quot;&gt;Para Penerka&lt;/a&gt; &lt;a href=&quot;https://cdn.rawgit.com/knoacc/pcr/9f60712c/images/posts/iwanFals.mp4&quot;&gt;cermin&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.paciran.com/images/posts/dedi.mp4&quot;&gt;Deddy Corbuzier&lt;/a&gt; &lt;a href=&quot;https://cdn.rawgit.com/knoacc/pcr/19a5cbb9/images/posts/dedi.mp4&quot;&gt;cermin&lt;/a&gt;
-–&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.paciran.com/assets/video/iwanFals.mp4&quot;&gt;Para Penerka&lt;/a&gt; &lt;a href=&quot;https://cdn.rawgit.com/knoacc/pcr/9f60712c/images/posts/iwanFals.mp4&quot;&gt;cermin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.paciran.com/assets/video/dedi.mp4&quot;&gt;Deddy Corbuzier&lt;/a&gt; &lt;a href=&quot;https://cdn.rawgit.com/knoacc/pcr/19a5cbb9/images/posts/dedi.mp4&quot;&gt;cermin&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
 
       
@@ -92,15 +91,9 @@
       
 
       
-        <category term="indonesia" />
+        <category term="politik" />
       
         <category term="para penerka" />
-      
-        <category term="iwan fals" />
-      
-        <category term="stunt-man" />
-      
-        <category term="deddy corbuzier" />
       
 
       
@@ -108,9 +101,6 @@
       
 
       
-      
-        
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.paciran.com/images/posts/" />
       
     </entry>
   

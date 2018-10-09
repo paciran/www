@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://www.paciran.com/tag/apple-id/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://www.paciran.com/" rel="alternate" type="text/html" />
-  <updated>2018-10-09T16:03:39+00:00</updated>
+  <updated>2018-10-09T18:15:02+00:00</updated>
   <id>https://www.paciran.com/tag/apple-id/feed.xml</id>
 
   
@@ -38,8 +38,8 @@
     <entry>
       <title type="html">How to reset your Apple ID password</title>
       <link href="https://www.paciran.com/how-to-reset-your-apple-id-password" rel="alternate" type="text/html" title="How to reset your Apple ID password" />
-      <published>2018-08-08T09:00:00+00:00</published>
-      <updated>2018-08-08T09:00:00+00:00</updated>
+      <published>2018-09-03T12:45:00+00:00</published>
+      <updated>2018-09-03T12:45:00+00:00</updated>
       <id>https://www.paciran.com/how-to-reset-your-apple-id-password</id>
       <content type="html" xml:base="https://www.paciran.com/how-to-reset-your-apple-id-password">&lt;p&gt;Everyone with an iPhone, iPad, iPod, or Apple Watchhas an Apple ID. It’s essential to getting the most out of Apple’s services, including the iTunes Store, the App Store, Apple Music, and iCloud. An Apple ID isn’t the only account with credentials you need to be keeping track of these days, however, and as such, there’s always the possibility that you may forget certain login information — like your all-important password.&lt;!--more--&gt;&lt;/p&gt;
 
@@ -63,11 +63,11 @@
 
 &lt;p&gt;In the event you forget your security questions, changing them is a simple process. First, go to &lt;em&gt;iforgot.apple.com&lt;/em&gt; and enter your &lt;strong&gt;Apple ID&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://icdn2.digitaltrends.com/image/how-to-change-apple-id-questions-1-720x720.jpg&quot;&gt;How to change AppleID questions 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://icdn2.digitaltrends.com/image/how-to-change-apple-id-questions-1-720x720.jpg&quot; alt=&quot;How to change AppleID questions 1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Select &lt;em&gt;I need to reset my security questions&lt;/em&gt; and click &lt;em&gt;Continue&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://icdn3.digitaltrends.com/image/how-to-change-appleid-questions-2-720x720.jpg&quot;&gt;How to change AppleID questions 2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://icdn3.digitaltrends.com/image/how-to-change-appleid-questions-2-720x720.jpg&quot; alt=&quot;How to change AppleID questions 2&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Enter your password, then click &lt;em&gt;Continue&lt;/em&gt;.&lt;/p&gt;
 
@@ -77,7 +77,7 @@
 
 &lt;h3 id=&quot;if-you-use-two-factor-authentication&quot;&gt;If you use two-factor authentication&lt;/h3&gt;
 
-&lt;p&gt;If you set up and enabled two-factor authentication— which is different from two-step verification — resetting your password will be even easier, as you’ll be able to reset your password directly from your trusted iPhone, iPad, iPod Touch, or from the Apple ID account page. If you’re unsure if you have any trusted devices, don’t be; when you set up two-factor authentication, you created trusted devices. All iOS devices will also need to have a passcode enabled.&lt;/p&gt;
+&lt;p&gt;If you set up and enabled two-factor authentication— which is different from two-step verification — resetting your password will be even easier, as you’ll be able to reset your password directly from your trusted iPhone, iPad, iPod Touch, or from the &lt;a href=&quot;https://www.paciran.com/tag/apple-id/&quot;&gt;Apple ID&lt;/a&gt; account page. If you’re unsure if you have any trusted devices, don’t be; when you set up two-factor authentication, you created trusted devices. All iOS devices will also need to have a passcode enabled.&lt;/p&gt;
 
 &lt;h4 id=&quot;usingyour-ios-device&quot;&gt;Using your iOS device&lt;/h4&gt;
 
@@ -131,9 +131,7 @@
 
 &lt;h4 id=&quot;after-resetting-your-password&quot;&gt;After resetting your password&lt;/h4&gt;
 
-&lt;p&gt;After you’ve reset your password using any of the methods detailed above, you’ll be prompted to sign in again with the new password. You may also need to sign in with the new password on Apple’s various services, including iTunes, the App Store, iCloud, and Find my iPhone. You can find the steps to do so for all the services that require it on Apple’s &lt;a href=&quot;https://support.apple.com/en-us/HT204071&quot;&gt;support page&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Editor: Pesan saya untuk pembaca lokal: &lt;strong&gt;“Gak usah nyocot!”&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</content>
+&lt;p&gt;After you’ve reset your password using any of the methods detailed above, you’ll be prompted to sign in again with the new password. You may also need to sign in with the new password on Apple’s various services, including iTunes, the App Store, iCloud, and Find my iPhone. You can find the steps to do so for all the services that require it on Apple’s &lt;a href=&quot;https://support.apple.com/en-us/HT204071&quot;&gt;support page&lt;/a&gt;.&lt;/p&gt;</content>
 
       
       
@@ -142,7 +140,7 @@
       
 
       <author>
-          <name>abraham</name>
+          <name>Jon Mukidi</name>
         
         
       </author>
@@ -150,13 +148,9 @@
       
 
       
-        <category term="ios account" />
-      
-        <category term="reset iphone" />
+        <category term="tutorial" />
       
         <category term="apple id" />
-      
-        <category term="forgot password" />
       
 
       

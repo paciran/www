@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://www.paciran.com/author/mukidi/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://www.paciran.com/" rel="alternate" type="text/html" />
-  <updated>2018-10-09T16:03:39+00:00</updated>
+  <updated>2018-10-09T18:15:02+00:00</updated>
   <id>https://www.paciran.com/author/mukidi/feed.xml</id>
 
   
@@ -52,11 +52,11 @@
 
 &lt;p&gt;Gambar .jpg diatas merupakan desain baru logo &lt;strong&gt;D’ Warkop Paciran&lt;/strong&gt; yang saya buat menggunakan &lt;strong&gt;CorelDraw 12&lt;/strong&gt;. Alasan utama pemakaian versi jadul ini cukup klise: ringan. &lt;em&gt;Oh iyo&lt;/em&gt;, ada insiden yang cukup menarik menyoal versi jadul melawan versi terbaru dari editor gambar vektor ini. Sepertinya, hasil edit dari CorelDraw 12 tidak bisa dibuka melalui &lt;a href=&quot;https://www.knoacc.org/2018/08/download-full-corel-draw-grafic-suite-2018.html&quot;&gt;CorelDraw X8&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Kok aneh? Hasil edit versi lama seharusnya bisa dong dibuka pada software versi terbaru? Jangan tanya &lt;em&gt;saia&lt;/em&gt; kenapa. Kisah ini bermula ketika saya mengirimkan file .cdr hasil desain-desain banner event PPC 2 ke percetakan. &lt;em&gt;Ndilalah&lt;/em&gt; menurut yang jaga, kok &lt;em&gt;ndak&lt;/em&gt; mau dibuka. Dan ketika saya tanya via Whatsapp jawabannya: “kita pakai corel 7 mas, punya mas-nya versinya tinggi sekali ya?”.&lt;/p&gt;
+&lt;p&gt;Kok aneh? Hasil edit versi lama seharusnya bisa dong dibuka pada software versi terbaru? Jangan tanya &lt;em&gt;saia&lt;/em&gt; kenapa. Kisah ini bermula ketika saya mengirimkan file .cdr hasil desain-desain banner &lt;a href=&quot;https://www.paciran.com/borongan-desain-banner-sketsel-piala-ppc-2.html&quot;&gt;event PPC 2&lt;/a&gt; ke percetakan. &lt;em&gt;Ndilalah&lt;/em&gt; menurut yang jaga, kok &lt;em&gt;ndak&lt;/em&gt; mau dibuka. Dan ketika saya tanya via Whatsapp jawabannya: “kita pakai corel 7 mas, punya mas-nya versinya tinggi sekali ya?”.&lt;/p&gt;
 
 &lt;p&gt;Wuiiih… ternyata masih ada yang memakai versi lebih jadul, pantas tidak bisa dibuka, pikir &lt;em&gt;saia&lt;/em&gt;. Tetapi saat saya datangi, ternyata yang dipakai sudah Corel X7. Mungkin dalam pikiran yang jaga, Corel yang saya pakai ini versi X12 dan file tidak bisa dibuka karena versi saya lebih tinggi. Padahal sebaliknya. Dan yang unik, memang benar-benar tidak bisa dibuka walaupun seharusnya bisa.&lt;/p&gt;
 
-&lt;p&gt;Jadi, &lt;em&gt;saia&lt;/em&gt; mewanti-wanti pengguna CorelDraw X7 ataua X8 yang ingin mengunduh file corel (.cdr) di bawah ini agar tidak terlalu berharap. Jad &lt;em&gt;saia&lt;/em&gt; sediakan juga versi bitmap-nya (.jpg) juga.&lt;/p&gt;
+&lt;p&gt;Jadi, &lt;em&gt;saia&lt;/em&gt; mewanti-wanti pengguna CorelDraw X7 atau X8 yang ingin mengunduh file corel (.cdr) di bawah ini agar tidak terlalu berharap. Jad &lt;em&gt;saia&lt;/em&gt; sediakan juga versi bitmap-nya (.jpg) juga.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;assets/zip/dwarkop.zip&quot;&gt;Download file CDR&lt;/a&gt; (Software: Corel Draw Graphic Suite 12)&lt;/li&gt;
@@ -71,10 +71,8 @@
 
 &lt;h3 id=&quot;bonus-anime&quot;&gt;Bonus Anime&lt;/h3&gt;
 
-&lt;div style=&quot;max-width:920px;&quot;&gt;&lt;video controls=&quot;&quot; poster=&quot;//www103.zippyshare.com/downloadM4V?key=tre0mIne&amp;amp;poster=true&amp;amp;time=215608&quot; preload=&quot;auto&quot; src=&quot;//www103.zippyshare.com/downloadM4V?key=tre0mIne&amp;amp;res=720&amp;amp;time=215608&quot;&gt;&lt;source src=&quot;//www103.zippyshare.com/downloadM4V?key=tre0mIne&amp;amp;res=720&amp;amp;time=215608&quot; data-quality=&quot;hd&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;&lt;/div&gt;
-
-&lt;p&gt;Sematan video diatas ialah anime dengan judul: &lt;strong&gt;Sword Art Online: Alicization&lt;/strong&gt; Episode 1, yang kebetulan sudah &lt;em&gt;saia&lt;/em&gt; tunggu-tunggu. 
-.Kode sematan ( &lt;em&gt;embed&lt;/em&gt; ) pun saya ambil paksa memakai fitur &lt;em&gt;inspect element&lt;/em&gt; dari browser Chrome dari situs berbagi video &lt;a href=&quot;http://corneey.com/wL8gfg&quot; target=&quot;_blank&quot; rel=&quot;noreferer nofollow&quot;&gt;zippyshare&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;Anime dengan judul: &lt;strong&gt;Sword Art Online: Alicization&lt;/strong&gt; Episode 1, (kebetulan) sudah &lt;em&gt;saia&lt;/em&gt; tunggu-tunggu. 
+Niatnya, Kingin memajang kode sematan ( &lt;em&gt;embed&lt;/em&gt; ) yang  saya ambil paksa memakai fitur &lt;em&gt;inspect element&lt;/em&gt; dari browser Chrome dari situs berbagi video &lt;a href=&quot;http://corneey.com/wL8gfg&quot; target=&quot;_blank&quot; rel=&quot;noreferer nofollow&quot;&gt;zippyshare&lt;/a&gt;. Tetapi selang satu hari kemudian tidak bisa diputar. Jadi saya hilangkan saja.&lt;/p&gt;</content>
 
       
       
@@ -94,8 +92,6 @@
         <category term="desain" />
       
         <category term="corel draw" />
-      
-        <category term="download" />
       
 
       
@@ -203,13 +199,9 @@
       
 
       
-        <category term="desain grafis" />
-      
-        <category term="banner sketsel" />
+        <category term="desain" />
       
         <category term="piala ppc" />
-      
-        <category term="tenis meja" />
       
 
       
@@ -221,18 +213,18 @@
     </entry>
   
     <entry>
-      <title type="html">X-nya Kawan Karib: Masuk Pak Eko?</title>
-      <link href="https://www.paciran.com/eks-nya-kawan-karib-pak-eko" rel="alternate" type="text/html" title="X-nya Kawan Karib: Masuk Pak Eko?" />
+      <title type="html">X-nya Kawan Karib, Masuk Pak Eko?</title>
+      <link href="https://www.paciran.com/eks-nya-kawan-karib-pak-eko" rel="alternate" type="text/html" title="X-nya Kawan Karib, Masuk Pak Eko?" />
       <published>2018-09-11T07:00:00+00:00</published>
       <updated>2018-09-11T07:00:00+00:00</updated>
       <id>https://www.paciran.com/eks-nya-kawan-karib-pak-eko</id>
       <content type="html" xml:base="https://www.paciran.com/eks-nya-kawan-karib-pak-eko">&lt;p&gt;Benar kata &lt;em title=&quot;penulis paciran.com yang punya cara bertutur ala jaman partai Masyumi, PNI dan PKI berjaya&quot;&gt;Kaji Sukadi&lt;/em&gt; bahwa &lt;strong&gt;rasa cinta&lt;/strong&gt; adalah pengejawantahan ke-egois-an individu yang normal, terkadang menjadi sebuah keharusan. Bagaimana mungkin bisa mendapatkan apa yang menjadi cita-cintanya jika tidak egois? Kalau perlu milik kawan yang tak terlalu karib-pun bisa kena tikung. Demi pemenuhan ego yang suci.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://media.suara.com/pictures/653x366/2018/08/29/31214-pak-eko-1.jpg&quot;&gt;Masuk Pak Eko&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://media.suara.com/pictures/653x366/2018/08/29/31214-pak-eko-1.jpg&quot; alt=&quot;Masuk Pak Eko&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Kadang mencintai ini bisa menjadi sebuah narasi cerita yang ingin diceritakan dalam bentuk &lt;a href=&quot;https://www.paciran.com/2018/09/08/resensi-tjinta-imensi-kehilangam.html&quot;&gt;ilusi &lt;strong&gt;dicintai&lt;/strong&gt;&lt;/a&gt; oleh yang sedang &lt;strong&gt;dicinta&lt;/strong&gt;. Agar terjaga dari syak-wasangka orang lain bahwa dirinya seorang jomblo. Sebuah ilham yang baru terpikirkan, “Akan Saia laksanakan pada acar kondangan siang nanti,” Saia mendesis mantap ketika sedang ngopi di warung kopi langganan, Minggu pagi. &lt;em&gt;&lt;strong&gt;Masuk Pak Eko!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Kadang mencintai ini bisa menjadi sebuah narasi cerita yang ingin diceritakan dalam bentuk &lt;a href=&quot;https://www.paciran.com/resensi-tjinta-imensi-kehilangam.html&quot;&gt;ilusi &lt;strong&gt;dicintai&lt;/strong&gt;&lt;/a&gt; oleh yang sedang &lt;strong&gt;dicinta&lt;/strong&gt;. Agar terjaga dari syak-wasangka orang lain bahwa dirinya seorang jomblo. Sebuah ilham yang baru terpikirkan, “Akan Saia laksanakan pada acar kondangan siang nanti,” Saia mendesis mantap ketika sedang ngopi di warung kopi langganan, Minggu pagi. &lt;em&gt;&lt;strong&gt;Masuk Pak Eko!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Ritual &lt;em&gt;kondangan&lt;/em&gt;, adalah salah sekian dari daftar panjang &lt;a href=&quot;https://www.paciran.com/2018/09/10/nestapa-para-perjaka-di-bulan-buwuh.html&quot;&gt;derita para perjaka&lt;/a&gt;. Utamanya, bagi perjaka yang masih saja sendiri ketika kawan-kawan karib menggamit lengan sang istri yang sedang menggendong buah hati atau paling tidak menyeret kekasih yang menggelayut manja di pundaknya sembari tak henti &lt;em&gt;wiridan&lt;/em&gt; harga-harga tas dan sepatu cantik yang di-inginkan-nya. Jadi, perlu strategi cerdas agar saat resepsi nanti tidak &lt;em&gt;tolah-toleh&lt;/em&gt; seperti &lt;em&gt;wedus kopok&lt;/em&gt;, dan (untungnya) Saia termasuk orang yang terhindar dari kemalangan perjaka itu.&lt;/p&gt;
+&lt;p&gt;Ritual &lt;em&gt;kondangan&lt;/em&gt;, adalah salah sekian dari daftar panjang &lt;a href=&quot;https://www.paciran.com/nestapa-para-perjaka-di-bulan-buwuh.html&quot;&gt;derita para perjaka&lt;/a&gt;. Utamanya, bagi perjaka yang masih saja sendiri ketika kawan-kawan karib menggamit lengan sang istri yang sedang menggendong buah hati atau paling tidak menyeret kekasih yang menggelayut manja di pundaknya sembari tak henti &lt;em&gt;wiridan&lt;/em&gt; harga-harga tas dan sepatu cantik yang di-inginkan-nya. Jadi, perlu strategi cerdas agar saat resepsi nanti tidak &lt;em&gt;tolah-toleh&lt;/em&gt; seperti &lt;em&gt;wedus kopok&lt;/em&gt;, dan (untungnya) Saia termasuk orang yang terhindar dari kemalangan perjaka itu.&lt;/p&gt;
 
 &lt;h3 id=&quot;x-nya-kawan-karib&quot;&gt;X-nya Kawan Karib&lt;/h3&gt;
 
@@ -241,6 +233,8 @@
 &lt;p&gt;Adegan saling berbisik-bisik ditelinga ketika sedang duduk berdua dalam acara kondangan, atau saling lempar senyum saat ada yang mendekat untuk menyapa, atau saling membantu menghabiskan menu prasmanan dalam sesi makan-memakan, berjalan begitu mulus, begitu rapi. Sebuah ilusi sempurna, yang tak membutuhkan &lt;a href=&quot;https://www.paciran.com/para-penerka-iwan-fals-noah.html&quot;&gt;peran Deddy Corbuzier&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Entah Saia yang memanfaatkan situasi untuk menghilangkan status jomblo untuk sementara atau dimanfaatkan partner untuk &lt;em&gt;manas-manasi&lt;/em&gt; X-nya yang kebetulan adalah kawan karib Saia sendiri, adalah hal yang tak jelas. Dalam alur telenovela ini, posisi memanfaatkan atau dimanfaatkan sudah tak jadi soal. Sebab, sak &lt;em&gt;ngertiku&lt;/em&gt;, memang belum ada batasan atau definisi khusus yang pernah dirumuskan oleh pakar sosiolog.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/masuk-pak-eko.jpg&quot; alt=&quot;Jempol Pak Eko&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Hasil akhir dari skenario ini pun tetap menjadi misteri. Berperan untuk siapa? Hasilnya apa? Semua serba GG dan GJ, &lt;em&gt;gak guna&lt;/em&gt; serta &lt;em&gt;gak jelas&lt;/em&gt;.&lt;/p&gt;
 
@@ -261,11 +255,11 @@
       
 
       
-        <category term="strategi kondangan" />
+        <category term="romansa" />
       
-        <category term="gang buntu" />
+        <category term="pak eko" />
       
-        <category term="masuk pak eko" />
+        <category term="kondangan" />
       
 
       
@@ -325,15 +319,9 @@ Untung ada denting pemberitahuan baru yang membangunkan untuk segera ke warung k
       
 
       
-        <category term="4 ribu rupiah" />
+        <category term="romansa" />
       
         <category term="bulan buwuh" />
-      
-        <category term="gang buntu mendadak" />
-      
-        <category term="kondangan nikah" />
-      
-        <category term="whatsapp chat" />
       
 
       
@@ -420,63 +408,102 @@ _ &lt;strong&gt;jon mukidi&lt;/strong&gt;&lt;/p&gt;
     </entry>
   
     <entry>
-      <title type="html">Jagan Paten: Aplikasi Streming Bola Eropa</title>
-      <link href="https://www.paciran.com/aplikasi-streaming-bola-eropa-paling-lengkap" rel="alternate" type="text/html" title="Jagan Paten: Aplikasi Streming Bola Eropa" />
-      <published>2018-08-08T09:00:00+00:00</published>
-      <updated>2018-08-08T09:00:00+00:00</updated>
-      <id>https://www.paciran.com/aplikasi-streaming-bola-eropa-paling-lengkap</id>
-      <content type="html" xml:base="https://www.paciran.com/aplikasi-streaming-bola-eropa-paling-lengkap">&lt;p&gt;Di saat liga-liga di Eropa sana mulai bergulir lagi di musim 2018/2019, jenis manusia berbatang yang &lt;em&gt;single&lt;/em&gt;, baik yang terang-terangan mengaku &lt;em&gt;jomblo&lt;/em&gt; atau meng-iya-kan ke &lt;em&gt;single&lt;/em&gt; annya dalam tunduk malu, Minggu dini-hari adalah waktu sakral untuk melampiaskan kejengkelannya pada nasib dengan nonton bola selain (tentu saja) mobalog yang b••s•t itu.&lt;/p&gt;
+      <title type="html">How to reset your Apple ID password</title>
+      <link href="https://www.paciran.com/how-to-reset-your-apple-id-password" rel="alternate" type="text/html" title="How to reset your Apple ID password" />
+      <published>2018-09-03T12:45:00+00:00</published>
+      <updated>2018-09-03T12:45:00+00:00</updated>
+      <id>https://www.paciran.com/how-to-reset-your-apple-id-password</id>
+      <content type="html" xml:base="https://www.paciran.com/how-to-reset-your-apple-id-password">&lt;p&gt;Everyone with an iPhone, iPad, iPod, or Apple Watchhas an Apple ID. It’s essential to getting the most out of Apple’s services, including the iTunes Store, the App Store, Apple Music, and iCloud. An Apple ID isn’t the only account with credentials you need to be keeping track of these days, however, and as such, there’s always the possibility that you may forget certain login information — like your all-important password.&lt;!--more--&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i0.wp.com/setanmerah.net/wp-content/uploads/2017/07/Premier-League-Logos.jpg&quot; alt=&quot;Liga Inggris&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Thankfully, there’s no need to panic if you do forget your Apple ID password, as it happens to all of us from time to time. When it happens to you, there are steps you can take to reset your Apple ID password, all of which are pretty straightforward. There’s no way for Apple to simply tell you what your current password is, though, not even through email. Instead, every method to deal with a forgotten Apple ID password involves resetting it completely. Here’s how. Once you get your Apple ID password reset, we have a guide to things you can do to make your iPhone safer.&lt;/p&gt;
 
-&lt;p&gt;Sebagai yang pertama bergulir, adalah &lt;a href=&quot;//www.google.co.uk/search?q=Premier+League&quot;&gt;&lt;em&gt;Premier League&lt;/em&gt;&lt;/a&gt; nya Inggris di susul &lt;a href=&quot;//www.google.it/search?q=Liga+Calcio&quot;&gt;&lt;em&gt;Liga Calcio&lt;/em&gt;&lt;/a&gt; nya Italia. Baru kemudian Spanyol dengan &lt;a href=&quot;www.google.se/search?q=La+Liga&quot;&gt;&lt;em&gt;La Liga&lt;/em&gt;&lt;/a&gt;, dan &lt;a href=&quot;//www.google.de/search?q=Fubbal+Bundesliga&quot;&gt;&lt;em&gt;Fubball Bundesliga&lt;/em&gt;&lt;/a&gt;. Setidaknya empat liga itu yang pernah tayang di tivi lokal, dan masih ditonton.&lt;/p&gt;
+&lt;h3 id=&quot;reset-your-password-using-the-apple-id-account-page&quot;&gt;Reset your password using the Apple ID account page&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;Premier League&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://img.digitaltrends.com/image/forgot-appleid-or-password-720x720.png&quot; alt=&quot;Forgot AppleID or Password&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Tapi apa &lt;em&gt;latjur&lt;/em&gt;, ternyata tak semua tivi lokal mau menayangkan pertandingan tertentu. Entah karena berbenturan dengan acara yang sangat &lt;em&gt;urgen&lt;/em&gt; bin mendesak semacam sinetron atau dianggap tak layak tonton karena kalah populer dibanding acara &lt;em&gt;setan-setanan&lt;/em&gt;. Tak layak tonton a.l.a. tivi lokal tentu saja berkaitan dengan duit yang berputar yang ditentukan oleh lembaga macam &lt;a href=&quot;https://www.google.co.id/amp/s/amp.kaskus.co.id/thread/5a02e8c81854f7e2518b4567/ac-nielsen-dan-rating-televisi-indonesia&quot;&gt;A.C Nielsen&lt;/a&gt;. Ya mohon maklum &lt;em&gt;donk&lt;/em&gt;, siaran tivi kan &lt;em&gt;bussiness&lt;/em&gt; juga, perlu untung.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Step 1&lt;/strong&gt;: To start, go to &lt;a href=&quot;https://appleid.apple.com/&quot;&gt;appleid.apple.com&lt;/a&gt; and click &lt;em&gt;Forgot Apple ID or password&lt;/em&gt; in the center of the page.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Pers•t•n untung!&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Step 2&lt;/strong&gt;: You’ll be taken to a new page where you’ll have to enter your Apple ID or the email address associated with the account. Click &lt;em&gt;Continue&lt;/em&gt;, then select &lt;em&gt;I need to reset my password&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;Loh, itu kan menurutmu wahai para jomblo. Mestinya kalian berusaha sedikit dengan membayar tivi-kabel. Kan di Paciran sudah banyak juga yang &lt;em&gt;narik-kabel&lt;/em&gt;. Penyedia layanan &lt;a href=&quot;https://www.google.co.id/amp/s/m.jpnn.com/amp/news/duh-layanan-tv-kabel-ilegal-marak-di-rusunawa-dan-apartemen&quot;&gt;tivi kabel partikelir&lt;/a&gt; yang biaya sewa perbulannya cuma puluhan ribu saja itu loh &lt;em&gt;cak&lt;/em&gt;. Tapi ya itu channel-nya &lt;em&gt;ndak&lt;/em&gt; bisa milih, &lt;em&gt;opo jare&lt;/em&gt; sang pemilik. Jangan tanya saya siapa namanya &lt;em&gt;lur&lt;/em&gt;, aku &lt;em&gt;gak&lt;/em&gt; promosi. Nek &lt;em&gt;riko&lt;/em&gt; ngerti, bilang suruh pasang iklan di sini biar tak sebut nama dan alamatnya hehe… Judulnya tetep duwit.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Step 3&lt;/strong&gt;: You’ll now be able to choose how you want to reset your password, whether it be through email or by answering a set of security questions. Which option you choose is really based on your personal preference.&lt;/p&gt;
 
-&lt;h3 id=&quot;gawai-cerdas-nan-canggih&quot;&gt;Gawai Cerdas nan canggih&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Step 4&lt;/strong&gt;: Choosing the email method prompts Apple to send instructions to the primary email address you used to begin this process, or &lt;a href=&quot;https://support.apple.com/en-us/HT201356#rescue&quot;&gt;a rescue email&lt;/a&gt; if you decided to make one. You’ll know the email has been sent when you see the “Email has been sent” page with a large, green check mark. If you can’t find the email, be sure to check your Spam, Junk, and Trash folders, or repeat the steps above to have the email sent again. Going with the security questions requires you to confirm your birthday and answer the aforementioned questions before you’re able to create a new password.&lt;/p&gt;
 
-&lt;p&gt;Hemm.. Jaman sekarang, siapa yang tak punya gawai-cerdas? Entah itu gawai yang mahalnya seharga sapi seperti produk buatan Apple Inc., atau semurah kripik tempe lokal ber-OS Android semacam Adv•n. Yang kalau &lt;em&gt;saia&lt;/em&gt; disuruh makek pun mualess gara-gara disisipi &lt;strong&gt;adware&lt;/strong&gt;. Bukan apa-apa, aplikasi semcam ini penyebab utama &lt;em&gt;malware&lt;/em&gt; menerobos masuk lewat kode jahat yang diselundupkan lewat iklan (entah bagaimana caranya), yang kalau sudah dipakai beberapa bulan menjadi &lt;em&gt;naudubilah&lt;/em&gt; lemotnya.&lt;/p&gt;
+&lt;h4 id=&quot;if-you-ever-forget-the-answers-to-your-security-questions&quot;&gt;If you ever forget the answers to your security questions&lt;/h4&gt;
 
-&lt;p&gt;Nah, dengan gawai cerdas (yang bagus ya?) ini, kamu jomblowan yang mulia bisa mengobati rasa &lt;em&gt;sepi-mampri&lt;/em&gt; di hati dengan &lt;em&gt;nyetriming&lt;/em&gt; siaran pertandingan bola. Sebagai siraman rohani, terapi biar hati sejuk.&lt;/p&gt;
+&lt;p&gt;If you forgot your password, answering security questions is one of the quickest ways to get back into your account to make changes. After all, only you — or someone who knows you really well — would know the answers to questions like “Who was your favorite teacher,” But what if you forgot the answers to your security questions? Memory is a flimsy thing — just see any of the various studies on “flashbulb memories” — and it’s entirely possible that, although the present you remembers that your favorite band in high school was Green Day, but two years ago, you were convinced your favorite band was Fountains of Wayne.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.mobdro.sc/assets/images/ui.png&quot; alt=&quot;Gawai Cerdas&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;In the event you forget your security questions, changing them is a simple process. First, go to &lt;em&gt;iforgot.apple.com&lt;/em&gt; and enter your &lt;strong&gt;Apple ID&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Kalau cukup sabar mencari, dengan modal aplikasi &lt;em&gt;Youtube&lt;/em&gt; bisa sih, tapi lebih baik gunakan aplikasi Chrome dan lakukan pencarian dengan kata kunci nama klub bola yang sedang bertanding saat ini. Cara ini lebih menjanjikan, walaupun kadang sudah &lt;em&gt;setengah maenan&lt;/em&gt; baru ketemu link situs yang cocok.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://icdn2.digitaltrends.com/image/how-to-change-apple-id-questions-1-720x720.jpg&quot; alt=&quot;How to change AppleID questions 1&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Sebagai bocoran, cari saja di &lt;a href=&quot;https://www.google.co.id/search?q=sagahtv&quot;&gt;Google dengan kata kunci sagahtv&lt;/a&gt;. Jangan tanya link! Situs streaming &lt;em&gt;illegal&lt;/em&gt; semacam ini mudah hilang dari peredaran. Entah karena domain yang dipakai dibiarkan expired (biasanya sudah tidak diperbolehkan menampilkan iklan), atau kena banned oleh &lt;a href=&quot;//id.wikipedia.org/ISP&quot;&gt;ISP&lt;/a&gt; karena sudah terlalu terkenal. Yang pasti, tak bertahan lama. Sebagai contoh, situs &lt;strong&gt;sagahtv&lt;/strong&gt; sendiri juga sudah berganti domain berkali-kali mulai sagah•tv, sagahtv•com, sagahtv•info, sagahtv•net, sagahtv•xyz hingga saat ini, memakai domain &lt;strong&gt;sagahtv•me&lt;/strong&gt; untuk menangguk dolar. Yang (sepertinya) juga &lt;em&gt;gak&lt;/em&gt; akan berumur lama.&lt;/p&gt;
+&lt;p&gt;Select &lt;em&gt;I need to reset my security questions&lt;/em&gt; and click &lt;em&gt;Continue&lt;/em&gt;.&lt;/p&gt;
 
-&lt;h3 id=&quot;aplikasi-streaming-biab&quot;&gt;Aplikasi Streaming Bia**b&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://icdn3.digitaltrends.com/image/how-to-change-appleid-questions-2-720x720.jpg&quot; alt=&quot;How to change AppleID questions 2&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Jadi jomblo itu penuh perjuangan &lt;em&gt;mblo&lt;/em&gt;. Kalau boleh dibilang lebih berat dari &lt;a href=&quot;https://www.paciran.com/Selamat-HUT-ke-73-Indonesia-Dirgahyu-RI-ku.html&quot;&gt;pejuang kemerdekaan&lt;/a&gt;. Ingat kata Bung Karno: “&lt;strong&gt;Perjuangan kita lebih mudah karena melawan bangsa penjajah, sedangkan perjuangan kalian **melawan bangsa sendiri&lt;/strong&gt;.” Ya, Bangsa jomblo karatan.&lt;/p&gt;
+&lt;p&gt;Enter your password, then click &lt;em&gt;Continue&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;Kembali ke &lt;a href=&quot;https://www.paciran.com/aplikasi-streaming-bola-eropa-paling-lengkap.html&quot;&gt;streaming bola&lt;/a&gt;, ada cara yang lebih mudah tanpa harus berjuang layaknya pejuang kemerdekaan. Memasang aplikasi yang menyediakan layanan streaming. Banyak kok aplikasi yang menjajikan channel ratusan di Playstore. &lt;em&gt;Cuman&lt;/em&gt; ya itu, hanya sedikit yang benar-benar bisa dinikmati. Kebanyakan aplikasi-aplikasi streaming di Playstore &lt;a href=&quot;https://safelink.knoacc.org/#0eI1v&quot;&gt;cuma bagus dalam menampilkan iklan&lt;/a&gt;. Terkutuklah para pembuat aplikasi ba•gs°t itu! Semoga jadi jomblo selamanya atau mandul sekalian.&lt;/p&gt;
+&lt;p&gt;Choose three questions from the drop-down menus, and provide answers (hopefully ones that only you would know).&lt;/p&gt;
 
-&lt;h3 id=&quot;aplikasi-rahasia&quot;&gt;Aplikasi Rahasia&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://icdn4.digitaltrends.com/image/how-to-change-appleid-question-step-3-720x720.jpg&quot; alt=&quot;How to change AppleID questions 2&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Baiklah anak muda, akan kutunjukkan pada kalian aplikasi yang selama ini &lt;em&gt;saia&lt;/em&gt; pakai. Anggap sebagai rasa kesetiakawananku kepada kalian waha para jomblo karatan, sebagai sesama &lt;a href=&quot;https://www.youtube.com/watch?v=udGd8mx0jJM&quot;&gt;bujang lapok&lt;/a&gt; yang tak kunjung terjual sebanyak apapun diskon yang terpampang. Sekali lagi &lt;em&gt;saia&lt;/em&gt; tekankan, ini rahasia tingkat dewa, super &lt;em&gt;confidential&lt;/em&gt;, jadi jangan sampai membagikan file apk lewat share-it atau mi-drop. Cukup bagikan artikel ini saja ya?&lt;/p&gt;
+&lt;h3 id=&quot;if-you-use-two-factor-authentication&quot;&gt;If you use two-factor authentication&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://mobdroapks.com/wp-content/uploads/2018/01/Mobdro.jpg&quot; alt=&quot;aplikasi mobdro&quot; /&gt;
-&lt;em&gt;Alikasi Mobdro&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;If you set up and enabled two-factor authentication— which is different from two-step verification — resetting your password will be even easier, as you’ll be able to reset your password directly from your trusted iPhone, iPad, iPod Touch, or from the &lt;a href=&quot;https://www.paciran.com/tag/apple-id/&quot;&gt;Apple ID&lt;/a&gt; account page. If you’re unsure if you have any trusted devices, don’t be; when you set up two-factor authentication, you created trusted devices. All iOS devices will also need to have a passcode enabled.&lt;/p&gt;
 
-&lt;p&gt;Aplikasi itu bernama: &lt;strong&gt;Mobdro&lt;/strong&gt; unduh saja dari &lt;a href=&quot;https://safelink.knoacc.org/#Qxey9&quot;&gt;&lt;strong&gt;link ini&lt;/strong&gt;&lt;/a&gt; dan pasang di Android kalian. Jangan banyak protes! Ini adalah &lt;strong&gt;aplikasi terbaik live streaming&lt;/strong&gt; menurut &lt;em&gt;saia&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&quot;usingyour-ios-device&quot;&gt;Using your iOS device&lt;/h4&gt;
 
-&lt;p&gt;Untuk memakai aplikasi streaming ini cukup gampang. Buka aplikasi dan &lt;strong&gt;cari channel sport&lt;/strong&gt;. Untuk liga Inggris, &lt;em&gt;saia&lt;/em&gt; sarankan untuk memilih &lt;strong&gt;Sky Sport Premier&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Step 1&lt;/strong&gt;: Go to Settings &amp;gt; [your name] &amp;gt; Password &amp;amp; Security.&lt;/p&gt;
 
-&lt;h3 id=&quot;pencerahan&quot;&gt;Pencerahan&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Step 2&lt;/strong&gt;: Tap Change Password.&lt;/p&gt;
 
-&lt;p&gt;Tak cuma nonton bola, aplikasi ini juga bisa kamu manfaatkan saat kamu sudah punya &lt;em&gt;genda’an&lt;/em&gt;. Lumayan hemat, ketimbang beli tiket bioskop yang mahal, belum lagi beratnya mendapat ijin dari camer. Cukup beli kuota murah. Pilih salah satu dari ratusan channel movie yang ada. Dan ajak mojok &lt;em&gt;genda’an&lt;/em&gt; kalian,&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Step 3&lt;/strong&gt;: You will be asked to enter your passcode, and then you can enter your new password.&lt;/p&gt;
 
-&lt;p&gt;.. di sudut ruang tamu… &lt;em&gt;berbisik lirih: calon mertua kep***t…&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&quot;using-the-apple-id-account-page&quot;&gt;Using the Apple ID account page&lt;/h4&gt;
 
-&lt;p&gt;Hati-hati &lt;em&gt;mblo&lt;/em&gt; jangan ucapkan kata diatas saat hubunganmu baru seumur jagung.&lt;/p&gt;</content>
+&lt;p&gt;&lt;strong&gt;Step 1&lt;/strong&gt;: Go to iforgot.apple.com and enter the trusted phone number you submitted when you set up two-factor authentication.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 2&lt;/strong&gt;: Choose Continue to send a notification to your trusted iPhone, iPad, or iPod.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 3&lt;/strong&gt;: When you receive the notification on your iOS device, tap Allow.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 4&lt;/strong&gt;: Follow the provided steps, enter your passcode, and reset your password.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-to-reset-your-password-using-account-recovery&quot;&gt;How to reset your password using Account Recovery&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://icdn2.digitaltrends.com/image/appleid-account-recovery-requested-195x400.png&quot; alt=&quot;AppleID account Recovery&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you don’t have your trusted iOS device nearby, you’ll still be able to reset your password by requesting an &lt;a href=&quot;https://support.apple.com/en-us/HT204921&quot;&gt;Account Recovery&lt;/a&gt;. This is best used when your device has been lost or stolen, and you want access to your account while simultaneously denying access to anyone trying to impersonate you. This process could take a few days, however, depending on how much information you provided to prove your identity.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 1&lt;/strong&gt;: While going through the steps to reset your password on iForgot or iOS, you should see an option to Request Account Recovery.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 2&lt;/strong&gt;: Enter a number where you can be reached when your account is ready, then enter the sent verification code to verify your information. After verification, you’ll receive a confirmation that your request has been received and you’ll be contacted when your account is ready.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 3&lt;/strong&gt;: After some time, your account will be ready and you’ll be contacted via a text or phone call.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 4&lt;/strong&gt;: Go to iforgot.apple.com, enter your Apple ID, and confirm the number you used in step two.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 5&lt;/strong&gt;: You’ll be sent an Account Recovery code via a text or phone call, which needs to be entered in the provided field on iForgot.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 6&lt;/strong&gt;: Click Continue, and you’ll be taken to a new page where you can make a new password, verify your trusted phone number, and sign in.&lt;/p&gt;
+
+&lt;h4 id=&quot;if-you-use-two-step-verification&quot;&gt;If you use two-step verification&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.digitaltrends.com/image/enter-recovery-key-720x720.png&quot; alt=&quot;Enter Recovery Key&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you were using two-step verification when you forgot your Apple ID password, you’ll need a trusted iOS device — made when you first set up two-step verification — and your Recovery Key to reset your password.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 1&lt;/strong&gt;: Go to &lt;a href=&quot;https://iforgot.apple.com/&quot;&gt;iforgot.apple.com&lt;/a&gt;and enter your Recovery Key. If you lost or forgot your key, go &lt;a href=&quot;https://support.apple.com/en-us/HT202649&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 2&lt;/strong&gt;: Choose a trusted device to receive a verification code.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 3&lt;/strong&gt;: Enter the provided verification code.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 4&lt;/strong&gt;: Create a new password, then select &lt;em&gt;Reset Password&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;after-resetting-your-password&quot;&gt;After resetting your password&lt;/h4&gt;
+
+&lt;p&gt;After you’ve reset your password using any of the methods detailed above, you’ll be prompted to sign in again with the new password. You may also need to sign in with the new password on Apple’s various services, including iTunes, the App Store, iCloud, and Find my iPhone. You can find the steps to do so for all the services that require it on Apple’s &lt;a href=&quot;https://support.apple.com/en-us/HT204071&quot;&gt;support page&lt;/a&gt;.&lt;/p&gt;</content>
 
       
       
@@ -493,9 +520,13 @@ _ &lt;strong&gt;jon mukidi&lt;/strong&gt;&lt;/p&gt;
       
 
       
+        <category term="tutorial" />
+      
+        <category term="apple id" />
+      
 
       
-        <summary type="html">Di saat liga-liga di Eropa sana mulai bergulir lagi di musim 2018/2019, jenis manusia berbatang yang single, baik yang terang-terangan mengaku jomblo atau meng-iya-kan ke single annya dalam tunduk malu, Minggu dini-hari adalah waktu sakral untuk melampiaskan kejengkelannya pada nasib dengan nonton bola selain (tentu saja) mobalog yang b••s•t itu.</summary>
+        <summary type="html">Everyone with an iPhone, iPad, iPod, or Apple Watchhas an Apple ID. It’s essential to getting the most out of Apple’s services, including the iTunes Store, the App Store, Apple Music, and iCloud. An Apple ID isn’t the only account with credentials you need to be keeping track of these days, however, and as such, there’s always the possibility that you may forget certain login information — like your all-important password.</summary>
       
 
       
@@ -671,8 +702,8 @@ _ &lt;strong&gt;jon mukidi&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Ketika para pencela merajalela dan timeline media sosial dipenuhi dengan kepberpihakan yang keterlaluan.&lt;/p&gt;
 
 &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-&lt;video class=&quot;embed-respomsive-item&quot; poster=&quot;https://www.paciran.com/images/posts/&quot; controls=&quot;controls&quot;&gt;
-  &lt;source src=&quot;https://rawgit.com/knoacc/pcr/images/posts/iwanFals.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;video class=&quot;embed-respomsive-item&quot; poster=&quot;&quot; controls=&quot;controls&quot;&gt;
+  &lt;source src=&quot;https://cdn.rawgit.com/knoacc/pcr/9f60712c/images/posts/iwanFals.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;span&gt;your browser does not support the video tag.&lt;/span&gt;
 &lt;/video&gt;
 &lt;/div&gt;
@@ -684,7 +715,7 @@ _ &lt;strong&gt;jon mukidi&lt;/strong&gt;&lt;/p&gt;
 
 &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
 &lt;video class=&quot;embed-respomsive-item&quot; poster=&quot;https://i0.wp.com/cdn2.tstatic.net/medan/foto/bank/images/stuntman-jokowi-dan-deddy-corbuzier_20180821_100653.jpg&quot; controls=&quot;controls&quot;&gt;
-  &lt;source src=&quot;https://rawgit.com/knoacc/pcr/images/posts/dedi.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;source src=&quot;https://raw.githubusercontent.com/knoacc/pcr/images/posts/dedi.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;span&gt;your browser does not support the video tag.&lt;/span&gt;
 &lt;/video&gt;
 &lt;/div&gt;
@@ -693,13 +724,12 @@ _ &lt;strong&gt;jon mukidi&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;pesta-sate&quot;&gt;Pesta Sate&lt;/h3&gt;
 
-&lt;p&gt;Sedangkan &lt;em&gt;saia&lt;/em&gt; mau menulis tentang &lt;em&gt;pulitik&lt;/em&gt;, takut kena sembelih. Ya sudah posting video saja sambil &lt;em&gt;ngemil&lt;/em&gt; sate kambing yang cuma bisa kita nikmati &lt;a href=&quot;https://www.bing.com/search?q=pesta+sate+kurban&quot; target=&quot;_blank&quot;&gt;setahun sekali ini&lt;/a&gt;.
-&amp;lt;!–
-&lt;em&gt;Video mentahnya disini:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Sedangkan &lt;em&gt;saia&lt;/em&gt; mau menulis tentang &lt;em&gt;pulitik&lt;/em&gt;, takut kena sembelih. Ya sudah posting video saja sambil &lt;em&gt;ngemil&lt;/em&gt; sate kambing yang cuma bisa kita nikmati &lt;a href=&quot;https://www.bing.com/search?q=pesta+sate+kurban&quot; target=&quot;_blank&quot;&gt;setahun sekali ini&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Video mentahnya disini:&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.paciran.com/images/posts/iwanFals.mp4&quot;&gt;Para Penerka&lt;/a&gt; &lt;a href=&quot;https://cdn.rawgit.com/knoacc/pcr/9f60712c/images/posts/iwanFals.mp4&quot;&gt;cermin&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.paciran.com/images/posts/dedi.mp4&quot;&gt;Deddy Corbuzier&lt;/a&gt; &lt;a href=&quot;https://cdn.rawgit.com/knoacc/pcr/19a5cbb9/images/posts/dedi.mp4&quot;&gt;cermin&lt;/a&gt;
-–&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.paciran.com/assets/video/iwanFals.mp4&quot;&gt;Para Penerka&lt;/a&gt; &lt;a href=&quot;https://cdn.rawgit.com/knoacc/pcr/9f60712c/images/posts/iwanFals.mp4&quot;&gt;cermin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.paciran.com/assets/video/dedi.mp4&quot;&gt;Deddy Corbuzier&lt;/a&gt; &lt;a href=&quot;https://cdn.rawgit.com/knoacc/pcr/19a5cbb9/images/posts/dedi.mp4&quot;&gt;cermin&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
 
       
@@ -717,15 +747,9 @@ _ &lt;strong&gt;jon mukidi&lt;/strong&gt;&lt;/p&gt;
       
 
       
-        <category term="indonesia" />
+        <category term="politik" />
       
         <category term="para penerka" />
-      
-        <category term="iwan fals" />
-      
-        <category term="stunt-man" />
-      
-        <category term="deddy corbuzier" />
       
 
       
@@ -733,9 +757,6 @@ _ &lt;strong&gt;jon mukidi&lt;/strong&gt;&lt;/p&gt;
       
 
       
-      
-        
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.paciran.com/images/posts/" />
       
     </entry>
   

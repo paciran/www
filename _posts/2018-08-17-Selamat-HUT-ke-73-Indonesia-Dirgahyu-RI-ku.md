@@ -5,7 +5,7 @@ cover:  assets/images/dirgahayuRI.jpg
 navigation: True
 title: "Selamat HUT ke-73, Dirgahayu RI-ku!"
 date: 2017-07-27 09:00:00
-tags: [Getting started, Indonesia, Dirgahayu, HUT 73]
+tags: [menulis, indonesia]
 class: post-template
 subclass: 'post tag-menulis'
 author: mukidi

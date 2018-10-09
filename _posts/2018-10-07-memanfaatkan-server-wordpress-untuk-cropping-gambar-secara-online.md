@@ -3,9 +3,9 @@ layout: post
 current: post
 cover: False #assets/images/logo-dwarkop.jpg
 navigation: True
-title: "Desain Baru Logo D Warkop Paciran (CorelDraw 12)"
-description: "Gambar jpg dan cdr desain baru logo D Warkop Paciran menggunakan CorelDraw 12"
-date: 2018-10-07 10:18:00
+title: "Mudahnya Cropping Gambar Online Memakai Server Wordpress"
+description: "Memanfaatkan fitur cropping otomatis wordpress tanpa ribet download upload gambar meskipun bukan pengguna WordPress"
+date: 2018-10-08 10:18:00
 last_updated: 2018-10-08 18:18:18
 tags: [desain, corel draw, download]
 class: post-template

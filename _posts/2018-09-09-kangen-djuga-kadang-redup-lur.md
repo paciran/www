@@ -6,7 +6,7 @@ navigation: True
 title: Kangen Djuga Kadang Redup, Lur
 description: 'Tjara agar tetap sehat djasmani dan rochani: Terapi menguntji diri.'
 date: 2018-09-10 21:00:07
-tags: [crisis nalar, meradang, pesikologi, ritual purba]
+tags: [psikologi, romansa]
 class: post-template
 subclass: 'post tag-romansa'
 logo: assets/images/box.jpg

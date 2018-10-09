@@ -6,9 +6,9 @@ navigation: True
 title: Ketika Angka Bisa Saling Baku Hantam
 description: 'imbas penetapan nomor urut bakal calon presiden, kopi ngak boleh satu bang! Harus 2!'
 date: 2018-09-22 21:55:08
-tags: fables
+tags: [politik, indonesia]
 class: post-template
-subclass: 'post tag-fables'
+subclass: 'post tag-politik'
 logo: assets/images/box.jpg
 author: sukadi
 ---
@@ -16,7 +16,7 @@ Suasana alam kemerdekaan republik Indonesia dalam beberapa bulan kedepan akan le
 
 Seperti kita ketahui bersama bahwa akibat dari gelaran pesta demokrasi terkadang sangat tidak sesuai dengan asas dasar demokrasi itu sendiri, sialnja imbas dari pemilihan pemimpin itu sendiri sering kali harus ditebus dengan perpetjahan antar tetangga, kawan atawa saudara.
 
-<div class="responsive-video-container"><iframe src="https://www.youtube-nocookie.com/embed/nBQ5l_Fi3yg?rel=0&showinfo=0&controls=0" autoplay controls="no" frameborder="0" mozallowfullscreen webkitAllowFullScreen allowfullscreen></iframe></div>
+<iframe src="https://www.youtube-nocookie.com/embed/nBQ5l_Fi3yg?rel=0&showinfo=0&controls=0" autoplay controls="no" frameborder="0" mozallowfullscreen webkitAllowFullScreen allowfullscreen></iframe>
 
 Dampak dari perselisihan tersebut kadang hanja dianggap normal dan biasa sadja bagi para politisi. “kedjadian seperti itu sudah biasa, lagipula itu bagian dari strategi pemenangan.” Begitu jang biasa dikatakan para politisi saat [memberikan keterangan](https://www.paciran.com/sudah-merasa-djudjur.html) kepada para pentjari warta. Kurang badjingan apalagi hajo...
 

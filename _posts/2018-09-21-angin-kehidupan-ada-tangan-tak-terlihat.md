@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: Fakseassets/images/waves.jpg
+cover: False #assets/images/waves.jpg
 navigation: True
 class: post-template
 subclass: 'post tag-romansa'

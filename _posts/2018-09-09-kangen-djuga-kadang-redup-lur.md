@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/terapi-kewarasan.jpg
+cover: False
 navigation: True
 title: Kangen Djuga Kadang Redup, Lur
 description: 'Tjara agar tetap sehat djasmani dan rochani: Terapi menguntji diri.'
@@ -19,7 +19,7 @@ Bisa djadi djuga tak sama, Aku hanja mengira kondisi kita sama, kalau kau tak su
 
 Suwasana saat itu sinar rembulan tak nampak di keremangan malam, tidak seperti biasa aku memang tak berniat mentjari wujudnja. Barangkali sadja wudjud hadirnja terhalang dinding rumah2 warga. Aku sudah tak ambil peduli, lagipula aku berada di dalam rumah. Minggu (09/09/2018) kondisi langit tjukup berbintang, aku mengintip angkasa di balik tjendela. Semua orang berharap pada belaian genit angin malam, maklum sadja malam itu suhunja panas sekali, seluruh tubuh serasa gerah. Sementara tak ada niat dalam hati untuk melakukan ritual purba jang berwudjud mandi, lagipula untuk apa malam2 mandi seperti orang kehilangan akal sehat sadja. Bahkan sekiranja djika tidak terpaksa sekalipun, maksudku karena ingin buwang air ketjil, tak ingin rasanja [menghampiri kamar mandi malam2](https://www.paciran.com/eternal-flames-bangles-nostalgia-apa.html). Terketjuali karena perut mules akibat diare. Itu lain soal, sebab kita semua tahu ritual busuk tersebut tak bisa di-tunda2.
 
-![sebotol minuman sebungkus rokok kuli](/assets/images/terapi-kewarasan)
+[![sebotol minuman sebungkus rokok kuli](https://i0.wp.com/www.paciran.com/assets/images/terapi-kewarasan.jpg?resize=540,270)](assets/images/terapi-kewarasan.jpg)
 
 Bila kau merasakan ada ketololan bertjampur kedjenuhan jang ganjil, terkait apa jang sudah aku tuliskan. kau tak salah duga, aku harus mengakui kalau terkaan kalian benar adanja. Kadangkala aku tak bisa memahami ketika mingsih ada beberapa orang mengangap aku baik2 sadja. Aku men-duga2 orang jang mengangap aku baik2 sadja itulah jang se-benar2nja dalam kondisi lebih [membutuhkan pertolongan darurat](https://www.paciran.com/resensi-tjinta-imensi-kehilangam.html). Djika kau tak pertjaja, tjoba tempelkan tanganmu ke dahi orang2 tersebut. Mungkin kini kepalamu pening, kau mulai merasa kesusahan dan terlebih merasa kesulitan mentjari orang2 jang aku maksud.
 

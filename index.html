@@ -17,7 +17,7 @@ into the {body} of the default.hbs template -->
                 {% if site.logo %}
                     <img class="site-logo" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}{% if site.tagline %} ~ {{ site.tagline }}{% endif %}"/>
                 {% else %}
-                    {{ site.title }}
+                    {{ site.title }}{% if site.tagline %} ~ {{ site.tagline }}{% endif %}
                 {% endif %}
             </h1>
             <h2 class="site-description">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</h2>

@@ -1,10 +1,14 @@
-speeches:
-  name: speeches
+kuliner:
+  name: kuliner
+  description: Pasal-pasal dan Bab perut yang diatur dalam undang-undang, bukan kisah para kuli
+  cover: False
+fotografi:
+  name: fotografi
   description: Some of the greatest words ever spoken.
   cover: assets/images/speeches.jpg
 romansa:
   name: romansa
-  description: Kisah cinta, romansa para bujang lapuk di Paciran
+  description: Kisah romansa durjana para bujang lapuk di Paciran. Juga kenangan masa kecil yang istimewa
   cover: assets/images/lips-paciran.jpg
 ekonomi:
   name: ekonomi
@@ -22,9 +26,9 @@ desain:
   name: desain
   description: Desain grafis, adalah menggambar. entah dengan pena dan kertas maupun lewat corel dan photoshop. 
   cover: assets/images/design.jpg
-fiction:
-  name: fiction
-  description: Artikel fiksi yang tidak dimaksudkan untuk hiburan semata
+fiksi:
+  name: fiksi
+  description: Kisah fiksi imajiner yang tidak dimaksudkan untuk hiburan semata
   cover: False
 fables:
   name: fables

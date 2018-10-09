@@ -2,15 +2,14 @@
 title: How to reset your Apple ID password
 description: "Having trouble logging in? Here's how to reset your Apple ID password"
 cover: assets/images/reset-apple-id-password-1200-700.jpg
-tags: [ios account, reset iphone, apple id, forgot password]
+tags: [tutorial, apple id]
 date: 2018-09-03 19:45:00 +7
 layout: post
 current: post
 navigation: True
-date: 2018-08-08 09:00:00
 class: post-template
 subclass: 'post tag-menulis'
-author: abraham
+author: mukidi
 ---
 
 Everyone with an iPhone, iPad, iPod, or Apple Watchhas an Apple ID. It’s essential to getting the most out of Apple’s services, including the iTunes Store, the App Store, Apple Music, and iCloud. An Apple ID isn’t the only account with credentials you need to be keeping track of these days, however, and as such, there’s always the possibility that you may forget certain login information — like your all-important password.<!--more-->
@@ -35,11 +34,11 @@ If you forgot your password, answering security questions is one of the quickest
 
 In the event you forget your security questions, changing them is a simple process. First, go to _iforgot.apple.com_ and enter your **Apple ID**.
 
-[How to change AppleID questions 1](https://icdn2.digitaltrends.com/image/how-to-change-apple-id-questions-1-720x720.jpg)
+![How to change AppleID questions 1](https://icdn2.digitaltrends.com/image/how-to-change-apple-id-questions-1-720x720.jpg)
 
 Select _I need to reset my security questions_ and click _Continue_.
 
-[How to change AppleID questions 2](https://icdn3.digitaltrends.com/image/how-to-change-appleid-questions-2-720x720.jpg)
+![How to change AppleID questions 2](https://icdn3.digitaltrends.com/image/how-to-change-appleid-questions-2-720x720.jpg)
 
 Enter your password, then click _Continue_.
 
@@ -49,7 +48,7 @@ Choose three questions from the drop-down menus, and provide answers (hopefully 
 
 ### If you use two-factor authentication
 
-If you set up and enabled two-factor authentication— which is different from two-step verification — resetting your password will be even easier, as you’ll be able to reset your password directly from your trusted iPhone, iPad, iPod Touch, or from the Apple ID account page. If you’re unsure if you have any trusted devices, don’t be; when you set up two-factor authentication, you created trusted devices. All iOS devices will also need to have a passcode enabled.
+If you set up and enabled two-factor authentication— which is different from two-step verification — resetting your password will be even easier, as you’ll be able to reset your password directly from your trusted iPhone, iPad, iPod Touch, or from the [Apple ID](https://www.paciran.com/tag/apple-id/) account page. If you’re unsure if you have any trusted devices, don’t be; when you set up two-factor authentication, you created trusted devices. All iOS devices will also need to have a passcode enabled.
 
 #### Using your iOS device
 
@@ -104,5 +103,3 @@ If you were using two-step verification when you forgot your Apple ID password,
 #### After resetting your password
 
 After you’ve reset your password using any of the methods detailed above, you’ll be prompted to sign in again with the new password. You may also need to sign in with the new password on Apple’s various services, including iTunes, the App Store, iCloud, and Find my iPhone. You can find the steps to do so for all the services that require it on Apple’s [support page](https://support.apple.com/en-us/HT204071).
-
-_Editor: Pesan saya untuk pembaca lokal: **"Gak usah nyocot!"**_

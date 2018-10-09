@@ -9,7 +9,7 @@ logo: assets/images/box.jpg
 author: mukidi
 title: Nestapa Perjaka di Bulan Buwuh
 description: "Ini adalah bulan buwuh, dimana sepanjang jalan pantura akan terlihat gang yang buntu mendadak: Resepsi, derita para perjaka."
-tags: [4 ribu rupiah, bulan buwuh, gang buntu mendadak, kondangan nikah, whatsapp chat]
+tags: [romansa, bulan buwuh]
 date: 2018-09-10 17:15:00
 ---
 

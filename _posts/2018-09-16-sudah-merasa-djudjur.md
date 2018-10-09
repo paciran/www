@@ -5,14 +5,14 @@ cover: assets/images/malu-malu.jpg
 navigation: True
 title: Sudah Merasa Djudjur
 description: Djudjur sih, tapi rela bagi-bagi? Mana mu-iin…
-tags: [djudjur djudjuran, transparansi informasi, terbuka sedikit, sosial]
+tags: [sosial, paciran bergoyang]
 author: sukadi
 date: 2018-09-16 03:28:09 +7
 class: post-template
 subclass: 'post tag-sosial'
 logo: assets/images/box.jpg
 ---
-Pada salah satu riwajat, Saja pernah ketemu diskusi perkara keterbukaan informasi publik, bahasa sederhananja jakni kedjudjuran. Dimana situwasi dan kondisi komunitas saat itu sedang mentjari djalan keluwar terbaik, di achir diskusi lebih tepatnja rapat di warung kopi. Semua jang hadir sepakat untuk menegaskan kembali skema kedjudjuran pada publik.<!--more-->
+Pada salah satu riwajat, Saja pernah ketemu diskusi perkara keterbukaan informasi publik, bahasa sederhananja jakni kedjudjuran. Dimana situwasi dan kondisi komunitas saat itu sedang mentjari djalan keluwar terbaik, di achir diskusi lebih tepatnja rapat di warung kopi. Semua jang hadir sepakat untuk menegaskan kembali skema kedjudjuran pada publik.
 
 Tatkala itu semua jang hadir sepakat memberikan informasi kepada publik dalam bentuk kedjudjuran jang belum sepenuhnja terbuka. Ada poin2 krusial jang publik tidak perlu tahu atawa membiarkan rahasia itu mendjadi rahasia umum tanpa ada keharusan untuk memverifikasi data itu benar tidaknja.
 

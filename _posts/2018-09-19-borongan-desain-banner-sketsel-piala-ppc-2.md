@@ -1,11 +1,11 @@
 ---
 layout: post
 current: post
-cover: assets/images/design.jpg
+cover: assets/images/event-ppc-2.jpg
 navigation: True
 ttitle: Borongan Desain Sketsel Event Piala PPC II
 description: "Dadakan, hajar 12 banner sponsor untuk event Piala PPC 2"
-tags: [desain grafis, banner sketsel, piala ppc, tenis meja]
+tags: [desain, piala ppc]
 author: mukidi
 date: 2018-09-16 03:28:09 +7
 class: post-template

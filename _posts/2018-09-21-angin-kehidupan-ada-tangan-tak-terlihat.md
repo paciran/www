@@ -1,18 +1,18 @@
 ---
 layout: post
 current: post
-cover: assets/images/waves.jpg
+cover: Fakseassets/images/waves.jpg
 navigation: True
 class: post-template
-subclass: 'post tag-fables'
+subclass: 'post tag-romansa'
 logo: assets/images/box.jpg
 title: "Angin Kehidupan: Ada Tangan² Tak Terlihat"
 author: sukadi
-tags: [fabel, pantai utara, angin utara, la javanaise, gentjatan sendjata]
+tags: [romansa, pantai utara]
 description: Kucing pesisir utara gentjatan sendjata, dua burung kenari memadu kasih di losmen lokal
 date: 2018-09-21 14:59:00
 ---
-Kering dan berdebu, musim kemarau telah masuk achir bulan September. Djumat (21/09/2018) siang. Hawa gersang dan panas mengintai, menelisik, menusuk di-sela² pertahanan setiap sepisies jang sedang melintas di djalur pantura.<!--more-->
+Kering dan berdebu, musim kemarau telah masuk achir bulan September. Djumat (21/09/2018) siang. Hawa gersang dan panas mengintai, menelisik, menusuk di-sela² pertahanan setiap sepisies jang sedang melintas di djalur pantura.
 
 Senjum geli puluhan botjah semburat, serempak berlari riang, suara djedjak kaki mereka gaduh. Dua burung kenari bertatap mata hendak memadu kasih, bujar, terbang, entah ke antah berantah mana. jang djelas botjah² nakal itu tidak akan tahu. 
 
@@ -25,7 +25,7 @@ Menatap tepat di udjung djalan gang jang belum terpasang papan nama. Dua ekor ku
 Ketika menulis ini aku kembali teringat dengan salah satu lagu lama jang pernah aku dengar dari film **The Shape Of Water**. Rilis tahun 2017. Dendang lagu ini dalam bahasa Perancis, lagu ini hanja bisa aku njanjikan dengan gremeng, selain tidak hafal lirik aku djuga se-benar²nja tak mengerti arti dan maknanja.
 
 
-<iframe src="https://www.youtube-nocookie.com/embed/V6gjzNm6dA0?rel=0&showinfo=0&controls=0 frameborder="0" mozallowfullscreen webkitAllowFullScreen allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/V6gjzNm6dA0?rel=0&showinfo=0&controls=0" frameborder="0" mozallowfullscreen webkitAllowFullScreen allowfullscreen></iframe>
 
 Sebagaimana [seni grafis](https://www.paciran.com/borongan-desain-banner-sketsel-piala-ppc-2.html) jang bisa dinikmati oleh orang dari perbagai belahan dunia mana pun. Begitu djuga seni musik. Pokok'e lambe iso muni lan seng penting iso gaja gremeng. "Di sana ada harapan dan Impianku. tahu, tahu, tahu." kok dadi dangdut.
 

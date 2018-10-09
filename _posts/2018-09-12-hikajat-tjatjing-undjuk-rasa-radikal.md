@@ -9,7 +9,7 @@ logo: assets/images/box.jpg
 title: "Hikajat Tjatjing: Undjuk Rasa, Radikal"
 description: Perut ialah sumber dari segala macam persoaal. Jika ada yang tak beres, urusan bisa kacau
 author: sukadi
-tags: [tjatjing radikal, hikajat perut, politik, tips sehat]
+tags: [politik, radikal]
 date: 2018-09-12 17:03:30
 ---
 Sedulur jang sedang dalam perdjalanan makan siang dari tempat kerdja menudju ke rumah, kantin atawa warung makan harap menghindarkan diri dari [siasat menikung tadjam](https://www.paciran.com/eks-nya-kawan-karib-pak-eko.html) ke warung kopi. ingat djalan waktu menudju makan siang dan rebahan mandja hanja [setipis harapan dan kenjataan](https://www.paciran.com/oleh-dari-nonton-film-destination-wedding.html). sajangi lambung anda, mendjaga tentu lebih baik daripada mengharapkan hal2 terlaknat jang tak perlu terdjadi.

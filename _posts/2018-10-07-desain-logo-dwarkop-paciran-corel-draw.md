@@ -1,13 +1,13 @@
 ---
 layout: post
 current: post
-cover: False #assets/images/logo-dwarkop.jpg
+cover: assets/images/corel-draw-12.jpg
 navigation: True
 title: "Desain Baru Logo D Warkop Paciran (CorelDraw 12)"
 description: "Gambar jpg dan cdr desain baru logo D Warkop Paciran menggunakan CorelDraw 12"
 date: 2018-10-07 10:18:00
 last_updated: 2018-10-08 18:18:18
-tags: [desain, corel draw, download]
+tags: [desain, corel draw]
 class: post-template
 subclass: 'post tag-desain'
 author: mukidi
@@ -27,11 +27,11 @@ author: mukidi
 
 Gambar .jpg diatas merupakan desain baru logo **D' Warkop Paciran** yang saya buat menggunakan **CorelDraw 12**. Alasan utama pemakaian versi jadul ini cukup klise: ringan. _Oh iyo_, ada insiden yang cukup menarik menyoal versi jadul melawan versi terbaru dari editor gambar vektor ini. Sepertinya, hasil edit dari CorelDraw 12 tidak bisa dibuka melalui [CorelDraw X8](https://www.knoacc.org/2018/08/download-full-corel-draw-grafic-suite-2018.html).
 
-Kok aneh? Hasil edit versi lama seharusnya bisa dong dibuka pada software versi terbaru? Jangan tanya _saia_ kenapa. Kisah ini bermula ketika saya mengirimkan file .cdr hasil desain-desain banner event PPC 2 ke percetakan. _Ndilalah_ menurut yang jaga, kok _ndak_ mau dibuka. Dan ketika saya tanya via Whatsapp jawabannya: "kita pakai corel 7 mas, punya mas-nya versinya tinggi sekali ya?".
+Kok aneh? Hasil edit versi lama seharusnya bisa dong dibuka pada software versi terbaru? Jangan tanya _saia_ kenapa. Kisah ini bermula ketika saya mengirimkan file .cdr hasil desain-desain banner [event PPC 2](https://www.paciran.com/borongan-desain-banner-sketsel-piala-ppc-2.html) ke percetakan. _Ndilalah_ menurut yang jaga, kok _ndak_ mau dibuka. Dan ketika saya tanya via Whatsapp jawabannya: "kita pakai corel 7 mas, punya mas-nya versinya tinggi sekali ya?".
 
 Wuiiih... ternyata masih ada yang memakai versi lebih jadul, pantas tidak bisa dibuka, pikir _saia_. Tetapi saat saya datangi, ternyata yang dipakai sudah Corel X7. Mungkin dalam pikiran yang jaga, Corel yang saya pakai ini versi X12 dan file tidak bisa dibuka karena versi saya lebih tinggi. Padahal sebaliknya. Dan yang unik, memang benar-benar tidak bisa dibuka walaupun seharusnya bisa.
 
-Jadi, _saia_ mewanti-wanti pengguna CorelDraw X7 ataua X8 yang ingin mengunduh file corel (.cdr) di bawah ini agar tidak terlalu berharap. Jad _saia_ sediakan juga versi bitmap-nya (.jpg) juga.
+Jadi, _saia_ mewanti-wanti pengguna CorelDraw X7 atau X8 yang ingin mengunduh file corel (.cdr) di bawah ini agar tidak terlalu berharap. Jad _saia_ sediakan juga versi bitmap-nya (.jpg) juga.
 
 - [Download file CDR](assets/zip/dwarkop.zip) (Software: Corel Draw Graphic Suite 12)
 - [Download file JPG](assets/images/logo-dwarkop.jpg) (Resolusi: 3508 px x 2480 px)
@@ -44,7 +44,5 @@ Intinya, Perbedaan penyebutan versi ini jadi gak nyambung karena kita beda gener
 
 ### Bonus Anime
 
-<div style="max-width:920px;"><video controls poster="//www103.zippyshare.com/downloadM4V?key=tre0mIne&amp;poster=true&amp;time=215608" preload="auto" src="//www103.zippyshare.com/downloadM4V?key=tre0mIne&amp;res=720&amp;time=215608"><source src="//www103.zippyshare.com/downloadM4V?key=tre0mIne&amp;res=720&amp;time=215608" data-quality="hd" type="video/mp4"></video></div>
-
-Sematan video diatas ialah anime dengan judul: **Sword Art Online: Alicization** Episode 1, yang kebetulan sudah _saia_ tunggu-tunggu. 
-.Kode sematan ( _embed_ ) pun saya ambil paksa memakai fitur _inspect element_ dari browser Chrome dari situs berbagi video [zippyshare](http://corneey.com/wL8gfg){: target="_blank" rel="noreferer nofollow"}
+Anime dengan judul: **Sword Art Online: Alicization** Episode 1, (kebetulan) sudah _saia_ tunggu-tunggu. 
+Niatnya, Kingin memajang kode sematan ( _embed_ ) yang  saya ambil paksa memakai fitur _inspect element_ dari browser Chrome dari situs berbagi video [zippyshare](http://corneey.com/wL8gfg){: target="_blank" rel="noreferer nofollow"}. Tetapi selang satu hari kemudian tidak bisa diputar. Jadi saya hilangkan saja.

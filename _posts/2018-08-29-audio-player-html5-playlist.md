@@ -3,13 +3,13 @@ title: "Membunuh Waktu: Membuat Playlist Lagu-lagu Padi, Online Boss!"
 description: Dengan tingkat kesenggangan waktu yang begitu tak terbatas,
 layout: post
 current: post
-cover:  assets/images/padi-reborn.jpg
+cover: False
 navigation: True
 date: 2018-08-08 09:00:00
 class: post-template
 subclass: 'post tag-speeches'
 author: mukidi
-tags: [audio player, html5, playlist, padi band]
+tags: [tutorial, padi reborn]
 ---
 Seperti biasa, karena _saking nganggure_, Saia butuh kegiatan yang membuat jari (secara spesifik: dua jempol) sibuk. Setelah dua hari tak ada hal baru dalam keseharian _saia_; ngopi, _jandon_, main game [War Robots](https://warrobots.net/en) atau [PUBG](http://www.pubgmobile.com/en-US) sambil tiduran tentu saja. Akhirnya ketemu juga yang belum pernah saya coba: **Membuat sebuah _audio player_ sederhana dengan fitur playlist**. 
 
@@ -35,13 +35,15 @@ Niatnya, ingin membuat sebuah playlist dengan 3 lagu Padi:
 2. Bidadari - [link](/assets/audio/padi-bidadari.m4a)
 3. Mahadewi - [link](/assets/audio/padi-mahadewi.m4a)
 
-Sayangnya, setelah di coba beberapa kali tetap saja tidak bisa. Bohong besarr....
+Sayangnya, setelah di coba beberapa kali tetap saja tidak bisa. Bohong besarr...
+
+![Yasudahlah Padi](assets/images/padi-reborn.jpg)
 
 Yasudahlah.. Pakai tag audio saja
 
-<audio controls><source src="https://www.rawgit.com/assets/audio/padi-sobat.m4a" preload="metadata" type="audio/mpeg" ></audio>
-<audio controls><source src="https://www.rawgit.com/assets/audio/padi-bidadari.m4a" preload="metadata" type="audio/mpeg" ></audio>
-<audio controls><source src="https://www.rawgit.com/assets/audio/padi-mahadewi.m4a" preload="metadata" type="audio/mpeg" ></audio>
+<audio controls><source src="https://www.paciran.com/assets/audio/padi-sobat.m4a" preload="metadata" type="audio/mpeg" ></audio>
+<audio controls><source src="https://www.paciran.com/assets/audio/padi-bidadari.m4a" preload="metadata" type="audio/mpeg" ></audio>
+<audio controls><source src="https://www.paciran.com/assets/audio/padi-mahadewi.m4a" preload="metadata" type="audio/mpeg" ></audio>
 
 **Cekrek!**
 
@@ -56,12 +58,12 @@ Mmm... sudah hampir 2 jam terlewati hanya untuk tulisan ini. Dan menghabiskan wa
 Untuk saat ini, dunia musik Indonesia, khususnya sobat Padi, masih _hype_ atas band legendaris Padi yang lahir kembali.
 Saat konser pulang kampung di Surabaya 10 November, ada kado kecil berupa single terbaru berjudul **Kau Malaikatku**. - [link](/assets/audio/padi-reborn-malaikatku.mp3)
 
-<audio controls="controls"><source src="https://rawgit.com/assets/audio/padi-reborn-malaikatku.mp3" preload="metadata" type="audio/mpeg"></audio>
+<audio controls="controls"><source src="https://paciran.com/assets/audio/padi-reborn-malaikatku.mp3" preload="metadata" type="audio/mpeg"></audio>
 
 Dan sebagai bonus, ada 2 lagu lagi yang (sepertinya) dibawakan _sodok seje_: 1. Sobat [link](/assets/audio/sobat.mp3) dan 2. Semua Tak Sama [link](/assets/audio/padi-reborn-semua-tak-sama.mp3). Coba dengarkan versi _live_-nya di bawah ini:
 
-<audio controls="controls"><source src="https://www.rawgit.com/assets/audio/padi-reborn-sobat.mp3" preload="metadata" type="audio/mpeg"></audio>
-<audio controls="controls"><source src="https://www.rawgit.com/assets/audio/padi-reborn-semua-tak-sama.mp3" preload="metadata" type="audio/mpeg"></audio>
+<audio controls="controls"><source src="https://www.paciran.com/assets/audio/padi-reborn-sobat.mp3" preload="metadata" type="audio/mpeg"></audio>
+<audio controls="controls"><source src="https://www.paciran.com/assets/audio/padi-reborn-semua-tak-sama.mp3" preload="metadata" type="audio/mpeg"></audio>
 _Uyup sek kopine..._ Next time, pakai _javascript_ saja. Ada dua yang perlu di coba: 
 
 1. Contoh audio player via [jsfidle](http://jsfiddle.net/vkMqR/2374/)

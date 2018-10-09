@@ -3,7 +3,7 @@ title: Lagu Eternal Flames-nya Bangles
 description: "Nostalgia: tak harus indah, yang penting ada kenangan lur!"
 cover: assets/images/cover-eternal-flames.jpg
 # image: https://i.ytimg.com/vi/PSoOFn3wQV4/maxresdefault.jpg
-tags: [the bangles, youtube embed, cover lagu, eternal flames, alexandra porat, you are the reason]
+tags: [romansa, youtube,]
 layout: post
 current: post
 navigation: True
@@ -11,11 +11,11 @@ class: post-template
 ---
 **Eternal Flames**, yang dilagukan the Bangles bagi _Saia_ adalah lagu yang penuh rasa. Manis, asam, asin, (_ ramai rasanya). Selayaknya, serupa lagu nostalgia lain, _Eternal Flames_ yang (harusnya) romantis malah terasa getir. _Lowah_ kok bisa?
 
-Tak ada alasan khusus. Lagu ini kebetulan pernah _Saia_ putar dibeberapa situasi. Misalnya; (1.a) menunggu pagi setelah _event_ bertukar _saliva_ [malam minggu](/aplikasi-streaming-bola-eropa-paling-lengkap.html), (1.b) putus cinta, (2.a) diajak bos makan di **shabu-shabu**, (2.b) dipecat dari pekerjaan dan terlilit hutang yang harus dibayar keesokan harinya, juga (3) meresapi dingin malam dalam kakus, sebab salah makan dan [murus-murus](/2018/08/21/jangankan-criptocurrency-valas-saja-banyak-bangkrutnya.html).
+Tak ada alasan khusus. Lagu ini kebetulan pernah _Saia_ putar dibeberapa situasi. Misalnya; (1.a) menunggu pagi setelah _event_ bertukar _saliva_ [malam minggu](/aplikasi-streaming-bola-eropa-paling-lengkap.html), (1.b) putus cinta, (2.a) diajak bos makan di **shabu-shabu**, (2.b) dipecat dari pekerjaan dan terlilit hutang yang harus dibayar keesokan harinya, juga (3) meresapi dingin malam dalam kakus, sebab salah makan dan [murus-murus](/jangankan-criptocurrency-valas-saja-banyak-bangkrutnya.html).
 
 > Eternal Flames, adalah lagu yang jadi korban situasi. _ John Mukidi.
 
-Diantara ke-tiga situasi di atas, situasi ke-3 adalah yang paling netral, agak kecut. Sementara 2 lainnya, _yo ngonokulah; koyo pas kringi suoro gese'an gabus_. Ada satu lagu _evergreen_ lain yang biasanya 'termainkan' bersama **Eternal Flames** di dalam [playlist WinAmp](/2018/08/29/audio-player-html5-playlist.html) _Saia_ waktu itu. Tetapi lupa. Selagi masih ingat maka, _tak kumpulnone cah_ lagu-lagu [cover Eternal Flame](/2018/09/04/eternal-flames-bangles-nostalgia-apa.html) _teko yutub_. Demi umur yang telah diberikan oleh Tuhan Yang Maha Esa <- sesuai sila pertama Pancasila ;)
+Diantara ke-tiga situasi di atas, situasi ke-3 adalah yang paling netral, agak kecut. Sementara 2 lainnya, _yo ngonokulah; koyo pas kringi suoro gese'an gabus_. Ada satu lagu _evergreen_ lain yang biasanya 'termainkan' bersama **Eternal Flames** di dalam [playlist WinAmp](/audio-player-html5-playlist.html) _Saia_ waktu itu. Tetapi lupa. Selagi masih ingat maka, _tak kumpulnone cah_ lagu-lagu [cover Eternal Flame](/eternal-flames-bangles-nostalgia-apa.html) _teko yutub_. Demi umur yang telah diberikan oleh Tuhan Yang Maha Esa <- sesuai sila pertama Pancasila ;)
 
 Berikut ini koleksi lagu Eternal Flames dan _cover songs_ yang bisa ditemukan [di yutub](https://www.youtube.com)
 

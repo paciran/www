@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/tiwu-goreng-srepeh.jpg
+cover: False
 navigation: True
 class: post-template
 subclass: 'post tag-kuliner'

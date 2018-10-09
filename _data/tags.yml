@@ -6,6 +6,10 @@ romansa:
   name: romansa
   description: Kisah cinta, romansa para bujang lapuk di Paciran
   cover: assets/images/lips-paciran.jpg
+ekonomi:
+  name: ekonomi
+  description: Duit, dari riuhnya pasar lokal sampai investasi bodong hingga pertuyulan online.
+  cover: assets/images/bitcoin-price.jpg
 politik:
   name: politik
   description: Bukan artikel politik biasa, bisa lokal bisa interlokal.

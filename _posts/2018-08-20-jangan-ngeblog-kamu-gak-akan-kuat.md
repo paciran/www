@@ -9,7 +9,7 @@ subclass: 'post tag-menulis'
 author: mukidi
 title: Jangan ngeBlog Kamu Gak Akan Kuat
 description: Catatan saat hanya membelitkan handuk sembari tiduran setelah mandi siang. Berusaha meng-koreksi diri.
-tags: [menulis, blogging, work, adblock]
+tags: [menulis, adblock]
 ---
 Jadi penulis kelas teri itu seperti _ngumpulno upo_, apalagi di era _milenial_ sekarang. Di awal-awal saat kecepatan transfer data untuk meng-akses internet tak sekencang saat ini (dan masih mahal), konten internet yanh paling bisa dinikmati tanpa banyak membuang duit, adalah tulisan-tulisan aberupa blog atau e-book. Penulis masih punya ruang untuk bernafas. Entah itu memilih untuk menulis sebuah e-book atau memilih mempublikasikan tulisan-tulisan lewat blog. Katakanlah menjadi semacam _self publisher_.
 

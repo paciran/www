@@ -1,25 +1,25 @@
 ---
 layout: post
 current: post
-cover:  assets/images/bitcoin-price.jpg
+cover: assets/images/bitcoin-price.jpg
 navigation: True
 date: 2018-08-08 09:00:00
 class: post-template
-subclass: 'post tag-menulis'
+subclass: 'post tag-ekonomi'
 author: mukidi
 title: Jangankan Criptocurrency, Mainan Valas Saja Banyak Bangkrutnya
 description: Ada banyak cara untuk bangkrut, sayang hanya sedikit yang mau bangun dari tidur
-tags: [criptocurrency, valas, bircoin mining, halal haram derivatif]
+tags: [criptocurrency, ekonomi]
 ---
 _**Criptocurrency**_. Bagi telinga awam, istilah itu mungkin terasa asing _bingits_. Tetapi, coba lafalkan kata: **bit-koooo-iiiinnn**, _Bitcoin_. Kata merdu Ooh... berbarengan dengan terbentuknya ekspresi "seolah paham" akan terpampang diwajah mereka. Padahal belum tentu tahu benar Bitcoin itu apa, setidaknya pernah dengar.
 
-![Bitcoin Prices](https://i3.wp.com/fortunedotcom.files.wordpress.com/2018/04/long-blockchain-bitcoin-stock-price.jpg?crop=1000,540)
+![Bitcoin Prices](https://i3.wp.com/fortunedotcom.files.wordpress.com/2018/04/long-blockchain-bitcoin-stock-price.jpg?resize=700,380)
 
 Masih ingat sekali saya sekitar tahun 2015 melihat betapa Bitcoin, sebagai leader dari _criptocurrency_ ini menjadi _booming_ dengan segala rumor minus yang berputar pada penggunaannya sebagai mata uang virtual yang tak terlacak. Entah untuk membeli barang terlarang semisal _illegal drugs_, prostitusi anak, penjualan organ, hingga yang paling seram; sewa pembunuh bayaran, yang ada dan tersedia di _dark-web_ yang tak mungkin muncul di kolom pencarian Google, Bing atau Duckduckgo. Kala itu juga _Trending_ tentang Bitcoin yang dipakai untuk mencuci uang, --eh? _Bitcoin_ bukan merk mesin cuci bro, hanya salah satu dari sekian **mata uang digital terenkripsi**.
 
 > Haha, lagian siapa juga yang mau mengartikan mencuci uang secara harafiah?
 
-![Criptocurrencies](https://www.paciran.com/images/posts/bitcoin-price.jpg)
+![Criptocurrencies](https://i3.wp.com/www.paciran.com/assets/images/bitcoin-price.jpg?resize=720,540)
 
 Beberapa _criptocurrency_: Bitcoin, Etherium, Litecoin, Ripple. Ada juga Bitcoin Gold yang berbeda dengan Bitcoin meskipun namanya memakai bitcoin.
 

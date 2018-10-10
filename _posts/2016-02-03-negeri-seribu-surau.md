@@ -11,6 +11,7 @@ date: 2016-02-03 11:11:00 +7
 last_updated: 2018-10-11 00:11:00 +7
 tags: [romansa, religi]
 subclass: 'post tag-romansa'
+navigation: True
 ---
 
 Berjarak -+50 KM dari pusat kabupaten Kota Lamongan, Paciran merupakan salah satu desa yang menjadi _icon_ kabupaten Lamongan. Desa kecil yang penuh sahaja dengan akar keagamaan yang terkenal begitu kuat karena menjadi kecamatan dengan basis pesantren tersubur di kabupaten Lamongan (dengan bertumbuhnya pondok pesantren yang terus bermunculan_red).

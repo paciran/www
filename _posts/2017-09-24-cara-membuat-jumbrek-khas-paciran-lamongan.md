@@ -10,6 +10,7 @@ date: 2017-03-04 08:11:00 +7
 last_updated: 2018-10-11 00:11:00 +7
 tags: [kuliner, khas paciran]
 subclass: 'post tag-romansa'
+navigation: True
 ---
 
 Wilayah pesisir pantai utara (pantura) kecamatan paciran memang menjadi wisata lamongan. Selain punya wisata, kecamatan paciran juga punya makanan khas yaitu "jumbreg". Mungkin kita terdengar aneh waktu pertama kali mendengar kata-kta jumbreg tapi, percayalah makanan yang terbuat dari campuran tepung beras, santan, dan sirup gula (ed: dalam bahasa lokal: _Juroh_) ini sangat enak. Nah, bacalah dibawah ini cara pembuatannya.

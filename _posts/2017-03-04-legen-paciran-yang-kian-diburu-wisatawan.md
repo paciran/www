@@ -10,6 +10,7 @@ author: itmam
 date: 2017-03-04 08:11:00 +7
 last_updated: 2018-10-11 00:11:00 +7
 tags: [kuliner, khas paciran]
+navigation: True
 ---
 _**Légen**_ adalah salah satu nama minuman tradisional yang yang diambil dari bagian pohon siwalan atau biasa disebut dengan istilah cematan oleh masyarakat Paciran. Diakui atau tidak seiring dengan pesatnya perkembangan pariwisata di kawasan Paciran turut meroketkan minuman tradisional ini menjadi salah satu icon kuliner dari desa Paciran Kecamatan Paciran Kabupaten Lamongan dan menjadi buruan utama wisatawan. Meskipun ternyata bukan hanya kawasan Paciran saja yang menjadi habitat tumbuh kembang dari tanaman pohon siwalan ini, karena hampir di sepanjang pantura sekitar wilayah Jawa Tengah dan Jawa Timur, Indonesia. Kita bisa menemukan banyak sekali pohon ini tumbuh, mengingat pohon yang masuk kategori palem-paleman ini memang sangatlah cocok di kawasan tropis seperti sepanjang jalan pantura ini
 

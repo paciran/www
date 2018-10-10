@@ -10,6 +10,7 @@ date: 2017-03-04 08:11:00 +7
 last_updated: 2018-10-11 00:11:00 +7
 tags: [romansa, wisata]
 subclass: 'post tag-romansa'
+navigation: True
 ---
 
 Kecamatan Paciran merupakan **sentra pariwisata kabupaten Lamongan**. dan bisa jadi merupakan salah satu destinasi wisata Jawa Timur yang patut jadi pertimbangan para traveller. Adanya Wisata Bahari Lamongan yang notabene merupakan Jatim Park berbasis pemandangan pantai (_mengingat beberapa Jatim Park berada di Pegunungan_), Tanjung Kodok Beach Resort (TKBR) yang merupakan resort dengan sajian pemandangan tanjung yang eksotisme-nya tidak diragukan lagi, sampai dengan ASDP (terminal laut) yang terletak di dusun Genting desa tunggul kecamatan Paciran, merupakan kombinasi apik untuk mengangkat kecamatan Paciran menjadi salah satu destinasi wisata yang menjadi ‘lirikan’ traveler dan _[backpacker](http://backpacker.paciran.com/)_ Indonesia maupun mancanegara.

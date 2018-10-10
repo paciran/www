@@ -4,10 +4,12 @@ description: "Nostalgia: tak harus indah, yang penting ada kenangan lur!"
 cover: assets/images/cover-eternal-flames.jpg
 # image: https://i.ytimg.com/vi/PSoOFn3wQV4/maxresdefault.jpg
 tags: [romansa, youtube,]
+subclass: 'post tag-romansa'
 layout: post
 current: post
 navigation: True
 class: post-template
+author: mukidi
 ---
 **Eternal Flames**, yang dilagukan the Bangles bagi _Saia_ adalah lagu yang penuh rasa. Manis, asam, asin, (_ ramai rasanya). Selayaknya, serupa lagu nostalgia lain, _Eternal Flames_ yang (harusnya) romantis malah terasa getir. _Lowah_ kok bisa?
 

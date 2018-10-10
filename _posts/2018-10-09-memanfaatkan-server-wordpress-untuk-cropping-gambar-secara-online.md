@@ -35,13 +35,13 @@ Untuk mempersingkat proses optimasi gambar, blogger bisa memanfaatkan layanan op
 
 Hemm... Kalau dari judulnya, cara ini sepertinya _bakal_ ribet lagi. Oh, tentu tidak. Jika kamu berpikiran bahwa cara ini membutuhkan akun wordpress kamu salah besar. Cara atau trik optimasi gambar yang satu bisa dimanfaatkan siapapun asal masih terhubung dengan internet. Tertarik kan? Tidak mungkin kamu membaca hingga sampai di sini jika tidak tertarik.
 
-Hal terpenting yang perlu kamu ingat adalah _domain_ ini: `i0.wp.com, i1.wp.com, i2.wp.com dan i3.wp.com yang akan kamu pakai untuk **membungkus tautan gambar** yang ingin dioptimalisasi agar lebih ringan dan format _query_ untuk **merubah ukuran atau memotong gambar** yakni: `?resize=` dan `?crop=`.
+Hal terpenting yang perlu kamu ingat adalah _domain_ ini: `i0.wp.com, i1.wp.com, i2.wp.com dan i3.wp.com` yang akan kamu pakai untuk **membungkus tautan gambar** yang ingin dioptimalisasi agar lebih ringan dan format _query_ untuk **merubah ukuran atau memotong gambar** yakni: `?resize=` dan `?crop=`.
 
 ### Baca Aturan Pakai
 
 > Sebagaimana obat, ada aturan pakai yang harus ditaati agar tidak celaka. Ikuti dengan benar.
 
-Untuk optimalisasi gambar, selipkan _domain_ pembungkus setelah protokol (`http://` atau `https://`) dari tautan gambar yang ingin kamu optimasi. Sebagai contoh, gambar [logo ini](assets/logo-dwarkop.jpg) punya ukuran file yang besar dan berpotensi menghabiskan jatah bandwith selain itu cukup berat dimuat jika disematkan dalam halaman web. Untuk membuat gambar lebih ramah hosting dan lebih ringan gunakan salah satu domain pembungkus, misal `i0.wp.com` kedalam tautan https://www.paciran.com/assets/images/logo-dwarkop.jpg sehingga menjadi https://i0.wp.com/www.paciran.com/assets/images/logo-dwarkop.jpg
+Untuk optimalisasi gambar, selipkan _domain_ pembungkus setelah protokol (`http://` atau `https://`) dari tautan gambar yang ingin kamu optimasi. Sebagai contoh, gambar [logo ini](assets/logo-dwarkop.jpg) punya ukuran file yang besar dan berpotensi menghabiskan jatah bandwith selain itu cukup berat dimuat jika disematkan dalam halaman web. Untuk membuat gambar lebih ramah hosting dan lebih ringan gunakan salah satu domain pembungkus, misal `i0.wp.com` kedalam tautan https://i0.wp.com/www.paciran.com/assets/images/logo-dwarkop.jpg sehingga menjadi https://i0.wp.com/www.paciran.com/assets/images/logo-dwarkop.jpg
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- AtasArtikel -->

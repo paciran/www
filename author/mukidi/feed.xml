@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://www.paciran.com/author/mukidi/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://www.paciran.com/" rel="alternate" type="text/html" />
-  <updated>2018-10-09T21:09:52+00:00</updated>
+  <updated>2018-10-10T09:07:09+00:00</updated>
   <id>https://www.paciran.com/author/mukidi/feed.xml</id>
 
   
@@ -34,6 +34,97 @@
   
   
 
+  
+    <entry>
+      <title type="html">Mudahnya Trik Cropping Gambar Online Memakai Server Wordpress Tanpa Akun</title>
+      <link href="https://www.paciran.com/memanfaatkan-server-wordpress-untuk-cropping-gambar-secara-online" rel="alternate" type="text/html" title="Mudahnya Trik Cropping Gambar Online Memakai Server Wordpress Tanpa Akun" />
+      <published>2018-10-09T20:20:20+00:00</published>
+      <updated>2018-10-09T20:20:20+00:00</updated>
+      <id>https://www.paciran.com/memanfaatkan-server-wordpress-untuk-cropping-gambar-secara-online</id>
+      <content type="html" xml:base="https://www.paciran.com/memanfaatkan-server-wordpress-untuk-cropping-gambar-secara-online">&lt;p&gt;Fungsi gambar baik berupa foto ataupun hasil editing mempunyai peran yang lumayan penting saat menulis artikel. Utamanya saat menulis di blog atau media online lainnya. Seperti ujaran yang cukup populer: “Satu gambar lebih efektif daripada seribu kata.” Atau menurut generasi milenial: “No pict = Hoax.”&lt;/p&gt;
+
+&lt;p&gt;Untuk keperluan ilustrasi tulisan, blogger atau penulis, lebih memilih untuk memasukkan gambar yang didapatkan dari situs lain dengan alasan tertentu. Masalahnya, gambar yang didapat seacara online bisa jadi mempunyai ukuran yang lebih besar dari yang dibutuhkan. Ukuran yang dimaksud disini bisa berarti terlalu lebar/tinggi. bisa juga ukuran file bitmap (jpg/png) terlampau berat untuk dibuka sehingga mempengaruhi pemuatan halaman secara keseluruhan.&lt;/p&gt;
+
+&lt;h3 id=&quot;bandwith-dan-gambar-online&quot;&gt;Bandwith dan Gambar Online&lt;/h3&gt;
+
+&lt;p&gt;Untuk mengatasi masalah di atas, biasanya penulis/blogger harus mengunduh terlebih dahulu file gambar dan melakukan pemotongan gambar agar sesuai dengan yang diinginkan. Kemudian mengunggah kembali gambar hasil &lt;em&gt;editing&lt;/em&gt;. Entah mengunggah langsung ke hosting blog/atau situs yang saat ini dipakai untuk mempublikasikan tulisan (pilihan pertama) maupun mengunggah ke situs hosting gambar external (pilihan kedua) semacam imgur.com, kemudian menyematkan tautan langsung gambar yang telah diunggah.&lt;/p&gt;
+
+&lt;p&gt;Pilihan pertama, tak akan menjadi masalah jika menggunakan media publikasi gratisan seperti Blogger (sub domain blogspot.com) atau Wordpress (versi gratis, sub domain wordpress.com) dan platform blogging lokal seperti Kompasiana. Karena penulis tidak perlu memikirkan apakah jatah bandwith akan terlampaui ketika artikel menjadi populer dan berkali-kali dibaca.&lt;/p&gt;
+
+&lt;p&gt;Pilihan kedua mejadi alternatif bagi blogger yang mempublikasikan tulisan secara mandiri menggunakan CMS (Content Management System) seperti CMS Wordpres, Jomla maupun Drupal dengan menyewa hosting sendiri. Ini karena umumnya, hosting situs melakukan pembatasan jumlah arus data yang dipakai dalam satu bulan. Sedangkan file gambar cukup memakan data dibandingkan dengan teks, apalagi jika file gambar punya ukuran yang besar.&lt;/p&gt;
+
+&lt;h3 id=&quot;optimalisasi-gambar-ilustrasi&quot;&gt;Optimalisasi Gambar Ilustrasi&lt;/h3&gt;
+
+&lt;p&gt;Seperti yang sudah disinggung sebelumnya, gambar dengan resolusi yang tajam pasti punya ukuran file yang besar. Besarnya file gambar turut mempengaruhi pemuatan situs oleh browser. Apalagi jika diakses dari jaringan internet yang lemah. Untuk itu, file gambar perlu di-optimasi sehingga ukuran file lebih kecil namun tetap bisa menampilkan gambar yang cukup layak untuk dilihat. Bagi yang cukup akrab dengan perangkat lunak Adobe Photoshop, perkara optimasi gambarcukup mudah untuk dilakukan. Tetapi, proses dan langkah dari menemukan gambar ilustrasi hingga bisa dipakai dalam publishing cukup memakan waktu.&lt;/p&gt;
+
+&lt;p&gt;Untuk mempersingkat proses optimasi gambar, blogger bisa memanfaatkan layanan optimasi gambar online yang sudah banyak tersebar di internet. Beberapa situs optimasi gambar bahkan mempermudah dengan hanya mnyuruh menyalin tautan gambar ke kolom yang disediakan dan tinggal mengunduh hasil gambar optimasi. Tetapi sekali lagi pilihan optimasi gambar ini juga masih terlalu panjang dan tidak &lt;em&gt;efisien&lt;/em&gt; (ramah waktu) dalam prosesnya.&lt;/p&gt;
+
+&lt;h3 id=&quot;memanfaatkan-server-wordpress&quot;&gt;Memanfaatkan Server Wordpress&lt;/h3&gt;
+
+&lt;p&gt;Hemm… Kalau dari judulnya, cara ini sepertinya &lt;em&gt;bakal&lt;/em&gt; ribet lagi. Oh, tentu tidak. Jika kamu berpikiran bahwa cara ini membutuhkan akun wordpress kamu salah besar. Cara atau trik optimasi gambar yang satu bisa dimanfaatkan siapapun asal masih terhubung dengan internet. Tertarik kan? Tidak mungkin kamu membaca hingga sampai di sini jika tidak tertarik.&lt;/p&gt;
+
+&lt;p&gt;Hal terpenting yang perlu kamu ingat adalah &lt;em&gt;domain&lt;/em&gt; ini: &lt;code class=&quot;highlighter-rouge&quot;&gt;i0.wp.com, i1.wp.com, i2.wp.com dan i3.wp.com yang akan kamu pakai untuk **membungkus tautan gambar** yang ingin dioptimalisasi agar lebih ringan dan format _query_ untuk **merubah ukuran atau memotong gambar** yakni: &lt;/code&gt;?resize=&lt;code class=&quot;highlighter-rouge&quot;&gt; dan &lt;/code&gt;?crop=`.&lt;/p&gt;
+
+&lt;h3 id=&quot;baca-aturan-pakai&quot;&gt;Baca Aturan Pakai&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Sebagaimana obat, ada aturan pakai yang harus ditaati agar tidak celaka. Ikuti dengan benar.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Untuk optimalisasi gambar, selipkan &lt;em&gt;domain&lt;/em&gt; pembungkus setelah protokol (&lt;code class=&quot;highlighter-rouge&quot;&gt;http://&lt;/code&gt; atau &lt;code class=&quot;highlighter-rouge&quot;&gt;https://&lt;/code&gt;) dari tautan gambar yang ingin kamu optimasi. Sebagai contoh, gambar &lt;a href=&quot;assets/logo-dwarkop.jpg&quot;&gt;logo ini&lt;/a&gt; punya ukuran file yang besar dan berpotensi menghabiskan jatah bandwith selain itu cukup berat dimuat jika disematkan dalam halaman web. Untuk membuat gambar lebih ramah hosting dan lebih ringan gunakan salah satu domain pembungkus, misal &lt;code class=&quot;highlighter-rouge&quot;&gt;i0.wp.com&lt;/code&gt; kedalam tautan https://www.paciran.com/assets/images/logo-dwarkop.jpg sehingga menjadi https://i0.wp.com/www.paciran.com/assets/images/logo-dwarkop.jpg&lt;/p&gt;
+
+&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+
+&lt;!-- AtasArtikel --&gt;
+&lt;p&gt;&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:block&quot; data-ad-client=&quot;ca-pub-8526606076277673&quot; data-ad-slot=&quot;8771412334&quot; data-ad-format=&quot;auto&quot; data-full-width-responsive=&quot;true&quot;&gt;&lt;/ins&gt;&lt;script&gt;
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Untuk memotong atau merubah ukuran (lebar, tinggi), tempatkan &lt;em&gt;query&lt;/em&gt; (&lt;code class=&quot;highlighter-rouge&quot;&gt;?resize=&lt;/code&gt; atau &lt;code class=&quot;highlighter-rouge&quot;&gt;?crop=&lt;/code&gt;) di akhir tautan gambar yang sudah dibungkus sebelumnya. Yang terpenting adalah nilai setelah &lt;em&gt;query&lt;/em&gt; yang menentukan ukuran dari gambar dalam satuan &lt;em&gt;pixel&lt;/em&gt; dengan format: &lt;code class=&quot;highlighter-rouge&quot;&gt;lebar,tinggi&lt;/code&gt; yang di-inginkan. Jika ingin gambar berukuran lebar 400px dan tinggi 320px, formatnya menjadi &lt;code class=&quot;highlighter-rouge&quot;&gt;400,320&lt;/code&gt;. Setelah digabung, tautan akan terlihat seperti ini: &lt;code class=&quot;highlighter-rouge&quot;&gt;https://www.paciran.com/assets/images/logo-dwarkop.jpg?resize=400,320&lt;/code&gt; Mudah, dan &lt;em&gt;efisien&lt;/em&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Catatan untuk webmaster: Trik ini sebenarnya masih punya kekurangan. Salah satunya adalah gambar biasanya tidak ter-cache oleh CDN karena mengandung &lt;em&gt;query&lt;/em&gt;. Toh masih bisa diatasi dengan menambahkan parameter &lt;em&gt;query&lt;/em&gt; tersebut dalam daftar yang boleh di &lt;em&gt;cache&lt;/em&gt; pada panel penyedia layanan CDN yang dipakai.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sebagai contohnya, sudah saya manfaatkan untuk postingan &lt;a href=&quot;https://www.paciran.com/desain-logo-dwarkop-paciran-corel-draw&quot;&gt;ini (1)&lt;/a&gt; dan &lt;a href=&quot;https://www.paciran.com/borongan-desain-banner-sketsel-piala-ppc-2.html&quot;&gt;ini (2)&lt;/a&gt;. Contoh pemakaian lainnya seperti gambar cover di atas. Tautan gambar asli yang besar adalah &lt;a href=&quot;https://www.scad.edu/sites/default/files/styles/swarm16x7_1170/public/Academics/Illustration/Tim-Kaminski_Illustration_Drummond-A1-Workshop.jpg&quot;&gt;di sini&lt;/a&gt;. Kemudian  dioptimasi sekaligus merubah ukurannya dengan server wordpress seperti pada &lt;a href=&quot;https://i0.wp.com/www.scad.edu/sites/default/files/styles/swarm16x7_1170/public/Academics/Illustration/Tim-Kaminski_Illustration_Drummond-A1-Workshop.jpg?resize=800,400&quot;&gt;tautan ini&lt;/a&gt;. Baru kemudian saya unduh dan unggah kembali ke server hosting. Jadi, banyak sekali pilihan yang bisa dipakai dalam memanfaatkan server wordpress sebagai alat optimasi gambar.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Tips Do it like a pro: Kamu juga bisa memanfaatkan trik ini untuk &lt;em&gt;cropping&lt;/em&gt; gambar tertentu yang terlalu besar yang ingin kamu jadikan wallpaper hape android agar pas dengan layar :)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Trik optimasi gambar dengan server wordpress, jelas &lt;strong&gt;lebih efisien&lt;/strong&gt; walaupun belum bisa dikatakan &lt;strong&gt;sangat mudah untuk dilakukan&lt;/strong&gt; jika dibandingkan dengan metode-metode optimasi gambar yang lain yang dijelaskan dalam artikel ini. Setidaknya, optimasi gambar secara online ini tidak memerlukan bantuan perangkat lunak maupun membuka situs optimasi gambar lain. Dan yang penting: tidak perlu download dan re-upload ke server hosting baik internal maupun external.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Hoahem…. ngantuk, tak tinggal ngopi sek bruh.&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Jon Mukidi</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="tutorial" />
+      
+        <category term="menulis" />
+      
+
+      
+        <summary type="html">Fungsi gambar baik berupa foto ataupun hasil editing mempunyai peran yang lumayan penting saat menulis artikel. Utamanya saat menulis di blog atau media online lainnya. Seperti ujaran yang cukup populer: “Satu gambar lebih efektif daripada seribu kata.” Atau menurut generasi milenial: “No pict = Hoax.”</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Desain Baru Logo D Warkop Paciran (CorelDraw 12)</title>
@@ -113,10 +204,10 @@ Niatnya, Kingin memajang kode sematan ( &lt;em&gt;embed&lt;/em&gt; ) yang  saya 
       <content type="html" xml:base="https://www.paciran.com/borongan-desain-banner-sketsel-piala-ppc-2">&lt;p&gt;Piye rasanae &lt;em&gt;ndisain&lt;/em&gt; banner sketsel yang akan dipasang pada event &lt;strong&gt;Piala PPC II&lt;/strong&gt; yang digelar di GOR Ayu Indah pada tanggal 23 Agustus 2018? Tak cuma satu desain, &lt;em&gt;luweh teko saklosen (12+) seng tak garap&lt;/em&gt;. Borongan lur. Sebenarnya, saya juga sudah menggarap desain-desain untuk event Piala PPC ke-2 ini secara &lt;strong&gt;sukarela&lt;/strong&gt; sejak beberapa minggu yang lalu. Seperti desain untuk kaos seragam panitia, baliho dan pernik lain. Termasuk desain logo juga &lt;em&gt;Saia&lt;/em&gt; yang &lt;em&gt;nggarap&lt;/em&gt;. Tetapi memang tidak ada niatan untuk ikut campur dalam pembuatan banner sketsel/pembatas antar lapangan.&lt;/p&gt;
 
 &lt;h3 id=&quot;storyline&quot;&gt;Storyline&lt;/h3&gt;
-
+&lt;!--
+![Desain Grafis](https://3.bp.blogspot.com/-AF-_s700foM/V52yZuvyHCI/AAAAAAAAABM/zQsM2JepxhoysGTRslUKLDKRJzaPXUqsACLcB/s720/_-desaingrafis.jpg) 
+--&gt;
 &lt;p&gt;Selesai menggarap desain sketesel untuk &lt;strong&gt;D’ Warkop&lt;/strong&gt; dan &lt;strong&gt;Tim Hore&lt;/strong&gt; sebenarnya sudah berniat untuk pulang menyambangi kasurku yang hampir seminggu tida &lt;em&gt;Saia&lt;/em&gt; tiduri. Namun, saat hasil desain disetor kepada panitia event (Piala PPC II) agar bisa segera di cetak, ternyata ada beberapa sponsor yang tidak menyetorkan desain untuk banner sketsel. Dari &lt;em&gt;omong opyok&lt;/em&gt;, &lt;em&gt;Saia&lt;/em&gt; pun mengetahui bahwa jika desain dipasrahkan ke percetakan ada tambahan biaya senilai rokol kuli satu pak beserta satu cangkir kopi, per desain.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://3.bp.blogspot.com/-AF-_s700foM/V52yZuvyHCI/AAAAAAAAABM/zQsM2JepxhoysGTRslUKLDKRJzaPXUqsACLcB/s720/_-desaingrafis.jpg&quot; alt=&quot;Desain Grafis&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Sementara pelaksanaan event tanggal 23 September 2018 memang sudah mepet, &lt;em&gt;Saia&lt;/em&gt; pun menawari untuk meng &lt;em&gt;handle&lt;/em&gt; semua desain yang tersisa &lt;strong&gt;dengan imbalan 2 (dua) spot iklan sketsel&lt;/strong&gt;. Jadilah acara borongan desain banner sketsel &lt;em&gt;sak losen&lt;/em&gt;, lembur luur…&lt;/p&gt;
 
@@ -203,7 +294,7 @@ Niatnya, Kingin memajang kode sematan ( &lt;em&gt;embed&lt;/em&gt; ) yang  saya 
       
         <category term="desain" />
       
-        <category term="piala ppc" />
+        <category term="olahraga" />
       
 
       
@@ -768,75 +859,6 @@ _ &lt;strong&gt;jon mukidi&lt;/strong&gt;&lt;/p&gt;
 
       
         <summary type="html">Criptocurrency. Bagi telinga awam, istilah itu mungkin terasa asing bingits. Tetapi, coba lafalkan kata: bit-koooo-iiiinnn, Bitcoin. Kata merdu Ooh… berbarengan dengan terbentuknya ekspresi “seolah paham” akan terpampang diwajah mereka. Padahal belum tentu tahu benar Bitcoin itu apa, setidaknya pernah dengar.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Mendengarkan Kembali Lagu Para Penerka</title>
-      <link href="https://www.paciran.com/para-penerka-iwan-fals-noah" rel="alternate" type="text/html" title="Mendengarkan Kembali Lagu Para Penerka" />
-      <published>2018-08-08T09:00:00+00:00</published>
-      <updated>2018-08-08T09:00:00+00:00</updated>
-      <id>https://www.paciran.com/para-penerka-iwan-fals-noah</id>
-      <content type="html" xml:base="https://www.paciran.com/para-penerka-iwan-fals-noah">&lt;p&gt;Tiga tahun berselang, ketika para penerka makin merajalela. Dugaan-dugaan yang makin keterlaluan..&lt;/p&gt;
-
-&lt;p&gt;Ketika para pencela merajalela dan timeline media sosial dipenuhi dengan kepberpihakan yang keterlaluan.&lt;/p&gt;
-
-&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-&lt;video class=&quot;embed-respomsive-item&quot; poster=&quot;&quot; controls=&quot;controls&quot;&gt;
-  &lt;source src=&quot;https://cdn.rawgit.com/knoacc/pcr/9f60712c/images/posts/iwanFals.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;span&gt;your browser does not support the video tag.&lt;/span&gt;
-&lt;/video&gt;
-&lt;/div&gt;
-&lt;p&gt;Lagu yang pernah &lt;a href=&quot;https://id.wikipedia.org/wiki/SATU_(album_Iwan_Fals)#Para_Penerka&quot;&gt;rilis tiga tahun lalu&lt;/a&gt; ini rasanya cukup mewakili panasnya ruang publik sekarang. Entah di sudut-sudut warung kopi, emperan &lt;em&gt;langgar&lt;/em&gt; dan surau, juga ruang kantor guru hingga kantin sekolah menengah atas.&lt;/p&gt;
-
-&lt;h3 id=&quot;stunt-man&quot;&gt;Stunt-man&lt;/h3&gt;
-
-&lt;p&gt;Agak pening juga kepala kalau sudah dengar &lt;em&gt;adu mulut&lt;/em&gt; yang bikin pahit hati. &lt;em&gt;Nek iso dik rem saktik cah..&lt;/em&gt; Jangan sampai jadi &lt;em&gt;jotos-jotosan&lt;/em&gt;. &lt;em&gt;Saia&lt;/em&gt; tak punya kapabilitas untuk bicara politik, jadi ya cukup mengutip vlog-nya Deddy saja (yang belum tentu juga punya kapabilitas berpolitik).&lt;/p&gt;
-
-&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-&lt;video class=&quot;embed-respomsive-item&quot; poster=&quot;https://i0.wp.com/cdn2.tstatic.net/medan/foto/bank/images/stuntman-jokowi-dan-deddy-corbuzier_20180821_100653.jpg&quot; controls=&quot;controls&quot;&gt;
-  &lt;source src=&quot;https://raw.githubusercontent.com/knoacc/pcr/images/posts/dedi.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;span&gt;your browser does not support the video tag.&lt;/span&gt;
-&lt;/video&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Setidaknya, dia lebih bisa mengutarakan maksudnya daripada &lt;em&gt;saia&lt;/em&gt;. Minimal dia orang &lt;em&gt;entertainment&lt;/em&gt; saat &lt;em&gt;ngoceh&lt;/em&gt; dalam &lt;em&gt;video blog&lt;/em&gt; di atas. Untuk jaga-jaga barangkali kamu tidak tahu apa itu &lt;strong&gt;Stuntman&lt;/strong&gt; ini ada &lt;a href=&quot;https://id.wikipedia.org/wiki/Pemeran_pengganti&quot;&gt;link wikipedia&lt;/a&gt; yang menjelaskan apa itu &lt;em&gt;stuntman&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;pesta-sate&quot;&gt;Pesta Sate&lt;/h3&gt;
-
-&lt;p&gt;Sedangkan &lt;em&gt;saia&lt;/em&gt; mau menulis tentang &lt;em&gt;pulitik&lt;/em&gt;, takut kena sembelih. Ya sudah posting video saja sambil &lt;em&gt;ngemil&lt;/em&gt; sate kambing yang cuma bisa kita nikmati &lt;a href=&quot;https://www.bing.com/search?q=pesta+sate+kurban&quot; target=&quot;_blank&quot;&gt;setahun sekali ini&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Video mentahnya disini:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.paciran.com/assets/video/iwanFals.mp4&quot;&gt;Para Penerka&lt;/a&gt; &lt;a href=&quot;https://cdn.rawgit.com/knoacc/pcr/9f60712c/images/posts/iwanFals.mp4&quot;&gt;cermin&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.paciran.com/assets/video/dedi.mp4&quot;&gt;Deddy Corbuzier&lt;/a&gt; &lt;a href=&quot;https://cdn.rawgit.com/knoacc/pcr/19a5cbb9/images/posts/dedi.mp4&quot;&gt;cermin&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Jon Mukidi</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="politik" />
-      
-        <category term="para penerka" />
-      
-
-      
-        <summary type="html">Tiga tahun berselang, ketika para penerka makin merajalela. Dugaan-dugaan yang makin keterlaluan..</summary>
       
 
       

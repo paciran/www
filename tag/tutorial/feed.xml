@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://www.paciran.com/tag/tutorial/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://www.paciran.com/" rel="alternate" type="text/html" />
-  <updated>2018-10-09T21:09:52+00:00</updated>
+  <updated>2018-10-10T09:07:09+00:00</updated>
   <id>https://www.paciran.com/tag/tutorial/feed.xml</id>
 
   
@@ -34,6 +34,97 @@
   
   
 
+  
+    <entry>
+      <title type="html">Mudahnya Trik Cropping Gambar Online Memakai Server Wordpress Tanpa Akun</title>
+      <link href="https://www.paciran.com/memanfaatkan-server-wordpress-untuk-cropping-gambar-secara-online" rel="alternate" type="text/html" title="Mudahnya Trik Cropping Gambar Online Memakai Server Wordpress Tanpa Akun" />
+      <published>2018-10-09T20:20:20+00:00</published>
+      <updated>2018-10-09T20:20:20+00:00</updated>
+      <id>https://www.paciran.com/memanfaatkan-server-wordpress-untuk-cropping-gambar-secara-online</id>
+      <content type="html" xml:base="https://www.paciran.com/memanfaatkan-server-wordpress-untuk-cropping-gambar-secara-online">&lt;p&gt;Fungsi gambar baik berupa foto ataupun hasil editing mempunyai peran yang lumayan penting saat menulis artikel. Utamanya saat menulis di blog atau media online lainnya. Seperti ujaran yang cukup populer: “Satu gambar lebih efektif daripada seribu kata.” Atau menurut generasi milenial: “No pict = Hoax.”&lt;/p&gt;
+
+&lt;p&gt;Untuk keperluan ilustrasi tulisan, blogger atau penulis, lebih memilih untuk memasukkan gambar yang didapatkan dari situs lain dengan alasan tertentu. Masalahnya, gambar yang didapat seacara online bisa jadi mempunyai ukuran yang lebih besar dari yang dibutuhkan. Ukuran yang dimaksud disini bisa berarti terlalu lebar/tinggi. bisa juga ukuran file bitmap (jpg/png) terlampau berat untuk dibuka sehingga mempengaruhi pemuatan halaman secara keseluruhan.&lt;/p&gt;
+
+&lt;h3 id=&quot;bandwith-dan-gambar-online&quot;&gt;Bandwith dan Gambar Online&lt;/h3&gt;
+
+&lt;p&gt;Untuk mengatasi masalah di atas, biasanya penulis/blogger harus mengunduh terlebih dahulu file gambar dan melakukan pemotongan gambar agar sesuai dengan yang diinginkan. Kemudian mengunggah kembali gambar hasil &lt;em&gt;editing&lt;/em&gt;. Entah mengunggah langsung ke hosting blog/atau situs yang saat ini dipakai untuk mempublikasikan tulisan (pilihan pertama) maupun mengunggah ke situs hosting gambar external (pilihan kedua) semacam imgur.com, kemudian menyematkan tautan langsung gambar yang telah diunggah.&lt;/p&gt;
+
+&lt;p&gt;Pilihan pertama, tak akan menjadi masalah jika menggunakan media publikasi gratisan seperti Blogger (sub domain blogspot.com) atau Wordpress (versi gratis, sub domain wordpress.com) dan platform blogging lokal seperti Kompasiana. Karena penulis tidak perlu memikirkan apakah jatah bandwith akan terlampaui ketika artikel menjadi populer dan berkali-kali dibaca.&lt;/p&gt;
+
+&lt;p&gt;Pilihan kedua mejadi alternatif bagi blogger yang mempublikasikan tulisan secara mandiri menggunakan CMS (Content Management System) seperti CMS Wordpres, Jomla maupun Drupal dengan menyewa hosting sendiri. Ini karena umumnya, hosting situs melakukan pembatasan jumlah arus data yang dipakai dalam satu bulan. Sedangkan file gambar cukup memakan data dibandingkan dengan teks, apalagi jika file gambar punya ukuran yang besar.&lt;/p&gt;
+
+&lt;h3 id=&quot;optimalisasi-gambar-ilustrasi&quot;&gt;Optimalisasi Gambar Ilustrasi&lt;/h3&gt;
+
+&lt;p&gt;Seperti yang sudah disinggung sebelumnya, gambar dengan resolusi yang tajam pasti punya ukuran file yang besar. Besarnya file gambar turut mempengaruhi pemuatan situs oleh browser. Apalagi jika diakses dari jaringan internet yang lemah. Untuk itu, file gambar perlu di-optimasi sehingga ukuran file lebih kecil namun tetap bisa menampilkan gambar yang cukup layak untuk dilihat. Bagi yang cukup akrab dengan perangkat lunak Adobe Photoshop, perkara optimasi gambarcukup mudah untuk dilakukan. Tetapi, proses dan langkah dari menemukan gambar ilustrasi hingga bisa dipakai dalam publishing cukup memakan waktu.&lt;/p&gt;
+
+&lt;p&gt;Untuk mempersingkat proses optimasi gambar, blogger bisa memanfaatkan layanan optimasi gambar online yang sudah banyak tersebar di internet. Beberapa situs optimasi gambar bahkan mempermudah dengan hanya mnyuruh menyalin tautan gambar ke kolom yang disediakan dan tinggal mengunduh hasil gambar optimasi. Tetapi sekali lagi pilihan optimasi gambar ini juga masih terlalu panjang dan tidak &lt;em&gt;efisien&lt;/em&gt; (ramah waktu) dalam prosesnya.&lt;/p&gt;
+
+&lt;h3 id=&quot;memanfaatkan-server-wordpress&quot;&gt;Memanfaatkan Server Wordpress&lt;/h3&gt;
+
+&lt;p&gt;Hemm… Kalau dari judulnya, cara ini sepertinya &lt;em&gt;bakal&lt;/em&gt; ribet lagi. Oh, tentu tidak. Jika kamu berpikiran bahwa cara ini membutuhkan akun wordpress kamu salah besar. Cara atau trik optimasi gambar yang satu bisa dimanfaatkan siapapun asal masih terhubung dengan internet. Tertarik kan? Tidak mungkin kamu membaca hingga sampai di sini jika tidak tertarik.&lt;/p&gt;
+
+&lt;p&gt;Hal terpenting yang perlu kamu ingat adalah &lt;em&gt;domain&lt;/em&gt; ini: &lt;code class=&quot;highlighter-rouge&quot;&gt;i0.wp.com, i1.wp.com, i2.wp.com dan i3.wp.com yang akan kamu pakai untuk **membungkus tautan gambar** yang ingin dioptimalisasi agar lebih ringan dan format _query_ untuk **merubah ukuran atau memotong gambar** yakni: &lt;/code&gt;?resize=&lt;code class=&quot;highlighter-rouge&quot;&gt; dan &lt;/code&gt;?crop=`.&lt;/p&gt;
+
+&lt;h3 id=&quot;baca-aturan-pakai&quot;&gt;Baca Aturan Pakai&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Sebagaimana obat, ada aturan pakai yang harus ditaati agar tidak celaka. Ikuti dengan benar.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Untuk optimalisasi gambar, selipkan &lt;em&gt;domain&lt;/em&gt; pembungkus setelah protokol (&lt;code class=&quot;highlighter-rouge&quot;&gt;http://&lt;/code&gt; atau &lt;code class=&quot;highlighter-rouge&quot;&gt;https://&lt;/code&gt;) dari tautan gambar yang ingin kamu optimasi. Sebagai contoh, gambar &lt;a href=&quot;assets/logo-dwarkop.jpg&quot;&gt;logo ini&lt;/a&gt; punya ukuran file yang besar dan berpotensi menghabiskan jatah bandwith selain itu cukup berat dimuat jika disematkan dalam halaman web. Untuk membuat gambar lebih ramah hosting dan lebih ringan gunakan salah satu domain pembungkus, misal &lt;code class=&quot;highlighter-rouge&quot;&gt;i0.wp.com&lt;/code&gt; kedalam tautan https://www.paciran.com/assets/images/logo-dwarkop.jpg sehingga menjadi https://i0.wp.com/www.paciran.com/assets/images/logo-dwarkop.jpg&lt;/p&gt;
+
+&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+
+&lt;!-- AtasArtikel --&gt;
+&lt;p&gt;&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:block&quot; data-ad-client=&quot;ca-pub-8526606076277673&quot; data-ad-slot=&quot;8771412334&quot; data-ad-format=&quot;auto&quot; data-full-width-responsive=&quot;true&quot;&gt;&lt;/ins&gt;&lt;script&gt;
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Untuk memotong atau merubah ukuran (lebar, tinggi), tempatkan &lt;em&gt;query&lt;/em&gt; (&lt;code class=&quot;highlighter-rouge&quot;&gt;?resize=&lt;/code&gt; atau &lt;code class=&quot;highlighter-rouge&quot;&gt;?crop=&lt;/code&gt;) di akhir tautan gambar yang sudah dibungkus sebelumnya. Yang terpenting adalah nilai setelah &lt;em&gt;query&lt;/em&gt; yang menentukan ukuran dari gambar dalam satuan &lt;em&gt;pixel&lt;/em&gt; dengan format: &lt;code class=&quot;highlighter-rouge&quot;&gt;lebar,tinggi&lt;/code&gt; yang di-inginkan. Jika ingin gambar berukuran lebar 400px dan tinggi 320px, formatnya menjadi &lt;code class=&quot;highlighter-rouge&quot;&gt;400,320&lt;/code&gt;. Setelah digabung, tautan akan terlihat seperti ini: &lt;code class=&quot;highlighter-rouge&quot;&gt;https://www.paciran.com/assets/images/logo-dwarkop.jpg?resize=400,320&lt;/code&gt; Mudah, dan &lt;em&gt;efisien&lt;/em&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Catatan untuk webmaster: Trik ini sebenarnya masih punya kekurangan. Salah satunya adalah gambar biasanya tidak ter-cache oleh CDN karena mengandung &lt;em&gt;query&lt;/em&gt;. Toh masih bisa diatasi dengan menambahkan parameter &lt;em&gt;query&lt;/em&gt; tersebut dalam daftar yang boleh di &lt;em&gt;cache&lt;/em&gt; pada panel penyedia layanan CDN yang dipakai.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sebagai contohnya, sudah saya manfaatkan untuk postingan &lt;a href=&quot;https://www.paciran.com/desain-logo-dwarkop-paciran-corel-draw&quot;&gt;ini (1)&lt;/a&gt; dan &lt;a href=&quot;https://www.paciran.com/borongan-desain-banner-sketsel-piala-ppc-2.html&quot;&gt;ini (2)&lt;/a&gt;. Contoh pemakaian lainnya seperti gambar cover di atas. Tautan gambar asli yang besar adalah &lt;a href=&quot;https://www.scad.edu/sites/default/files/styles/swarm16x7_1170/public/Academics/Illustration/Tim-Kaminski_Illustration_Drummond-A1-Workshop.jpg&quot;&gt;di sini&lt;/a&gt;. Kemudian  dioptimasi sekaligus merubah ukurannya dengan server wordpress seperti pada &lt;a href=&quot;https://i0.wp.com/www.scad.edu/sites/default/files/styles/swarm16x7_1170/public/Academics/Illustration/Tim-Kaminski_Illustration_Drummond-A1-Workshop.jpg?resize=800,400&quot;&gt;tautan ini&lt;/a&gt;. Baru kemudian saya unduh dan unggah kembali ke server hosting. Jadi, banyak sekali pilihan yang bisa dipakai dalam memanfaatkan server wordpress sebagai alat optimasi gambar.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Tips Do it like a pro: Kamu juga bisa memanfaatkan trik ini untuk &lt;em&gt;cropping&lt;/em&gt; gambar tertentu yang terlalu besar yang ingin kamu jadikan wallpaper hape android agar pas dengan layar :)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Trik optimasi gambar dengan server wordpress, jelas &lt;strong&gt;lebih efisien&lt;/strong&gt; walaupun belum bisa dikatakan &lt;strong&gt;sangat mudah untuk dilakukan&lt;/strong&gt; jika dibandingkan dengan metode-metode optimasi gambar yang lain yang dijelaskan dalam artikel ini. Setidaknya, optimasi gambar secara online ini tidak memerlukan bantuan perangkat lunak maupun membuka situs optimasi gambar lain. Dan yang penting: tidak perlu download dan re-upload ke server hosting baik internal maupun external.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Hoahem…. ngantuk, tak tinggal ngopi sek bruh.&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Jon Mukidi</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="tutorial" />
+      
+        <category term="menulis" />
+      
+
+      
+        <summary type="html">Fungsi gambar baik berupa foto ataupun hasil editing mempunyai peran yang lumayan penting saat menulis artikel. Utamanya saat menulis di blog atau media online lainnya. Seperti ujaran yang cukup populer: “Satu gambar lebih efektif daripada seribu kata.” Atau menurut generasi milenial: “No pict = Hoax.”</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">How to reset your Apple ID password</title>

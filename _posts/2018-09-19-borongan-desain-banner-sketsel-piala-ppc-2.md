@@ -5,7 +5,7 @@ cover: assets/images/event-ppc-2.jpg
 navigation: True
 ttitle: Borongan Desain Sketsel Event Piala PPC II
 description: "Dadakan, hajar 12 banner sponsor untuk event Piala PPC 2"
-tags: [desain, piala ppc]
+tags: [desain, olahraga]
 author: mukidi
 date: 2018-09-16 03:28:09 +7
 class: post-template
@@ -15,10 +15,10 @@ logo: assets/images/box.jpg
 Piye rasanae _ndisain_ banner sketsel yang akan dipasang pada event **Piala PPC II** yang digelar di GOR Ayu Indah pada tanggal 23 Agustus 2018? Tak cuma satu desain, _luweh teko saklosen (12+) seng tak garap_. Borongan lur. Sebenarnya, saya juga sudah menggarap desain-desain untuk event Piala PPC ke-2 ini secara **sukarela** sejak beberapa minggu yang lalu. Seperti desain untuk kaos seragam panitia, baliho dan pernik lain. Termasuk desain logo juga _Saia_ yang _nggarap_. Tetapi memang tidak ada niatan untuk ikut campur dalam pembuatan banner sketsel/pembatas antar lapangan.
 
 ### Storyline
-
+<!--
+![Desain Grafis](https://3.bp.blogspot.com/-AF-_s700foM/V52yZuvyHCI/AAAAAAAAABM/zQsM2JepxhoysGTRslUKLDKRJzaPXUqsACLcB/s720/_-desaingrafis.jpg) 
+-->
 Selesai menggarap desain sketesel untuk **D' Warkop** dan **Tim Hore** sebenarnya sudah berniat untuk pulang menyambangi kasurku yang hampir seminggu tida _Saia_ tiduri. Namun, saat hasil desain disetor kepada panitia event (Piala PPC II) agar bisa segera di cetak, ternyata ada beberapa sponsor yang tidak menyetorkan desain untuk banner sketsel. Dari _omong opyok_, _Saia_ pun mengetahui bahwa jika desain dipasrahkan ke percetakan ada tambahan biaya senilai rokol kuli satu pak beserta satu cangkir kopi, per desain. 
-
-![Desain Grafis](https://3.bp.blogspot.com/-AF-_s700foM/V52yZuvyHCI/AAAAAAAAABM/zQsM2JepxhoysGTRslUKLDKRJzaPXUqsACLcB/s720/_-desaingrafis.jpg)
 
 Sementara pelaksanaan event tanggal 23 September 2018 memang sudah mepet, _Saia_ pun menawari untuk meng _handle_ semua desain yang tersisa **dengan imbalan 2 (dua) spot iklan sketsel**. Jadilah acara borongan desain banner sketsel _sak losen_, lembur luur...
 

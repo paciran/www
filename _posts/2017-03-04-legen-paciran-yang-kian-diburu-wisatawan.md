@@ -1,12 +1,12 @@
 ---
 layout: post
 current: post
-permalink: 2017/03/legen-paciran-yang-kian-diburu-wisatawan.html
+class: post-template
+permalink: 2017/03/legen-paciran-yang-kian-diburu-wisatawan
 cover: assets/images/cematan-siwalan.jpg
 title: Legen Paciran yang Kian Diburu Wisatawan
 excerpt: Kata Légen sendiri berasal dari kata dasar legi (bahasa Jawa) yang artinya manis. Karena pada dasarnya memang minuman ini akan berasa sangat manis dan segar bila diminum ketika baru disadap dari pohonnya langsung
 author: itmam
-tags: [tutorial, apple id]
 date: 2017-03-04 08:11:00 +7
 last_updated: 2018-10-11 00:11:00 +7
 tags: [kuliner, khas paciran]
@@ -18,7 +18,7 @@ Kota-kota lain yang juga menjadi habitat pohon siwalan dan menghasilkan minuman 
 Kata Légen sendiri berasal dari kata dasar legi (bahasa Jawa) yang artinya manis. Karena pada dasarnya memang minuman ini akan berasa sangat manis dan segar bila diminum ketika baru disadap dari pohonnya langsung [1](https://id.wikipedia.org/wiki/Legen). Mungkin inilah yang menjadi dasar kata Légen yang diambil dari kata _leLégen_ atau pemanis
 Légen dihasilkan dari penyadapan bunga pohon Siwalan atau yang biasa kita (masyarakat Paciran) sebut ‘cematan’ jenis perempuan yang bunganya berbentuk sulur. Sulur bunga ini dipotong sedikit demi sedikit untuk disadap getahnya yang ditampung pada sebuah tabung yang biasanya terbuat dari potongan batang bambu satu ruas yang dikenal dengan nama ‘Bhétek’. Lama penyadapan ini biasanya semalaman atau sekitar 12 jam. Pada sore hari Bhétek ini diletakkan sebagai penampung, maka pada pagi harinya sudah memuat penuh satu tabung.
 
-![Cematan: Pohon Siwalan]https://2.bp.blogspot.com/-Z0GAZ22s4QM/WLlwiM4kqAI/AAAAAAAABgE/jy4uU93LXRsUNzknYqm07EwyLD1EVu3gQCLcB/s800/20150713_081053.jpg)
+![Cematan: Pohon Siwalan](https://2.bp.blogspot.com/-Z0GAZ22s4QM/WLlwiM4kqAI/AAAAAAAABgE/jy4uU93LXRsUNzknYqm07EwyLD1EVu3gQCLcB/s800/20150713_081053.jpg)
 
 Satu pohon Siwalan rata-rata dapat menghasilkan sekitar enam liter Air Légen, tetapi itu pun tergantung cuaca, mengingat deras tidaknya yang dihasilkan dari penyadapan tersebut tidak selalu sama setiap waktunya. Apalagi jika musim penghujan, disamping produktifitas dari pohon akan menurun biasanya rasa dari Légen pun akan berkurang kesegarannya karena sedikit banyak akan tercampur air hujan. Pada saat pengambilan dan pemasangan béthek ke pohon biasanya, pada dasar béthek ditaburi sedikit air kapur Untuk mengurangi rasa asam yang dihasilkan oleh air Légen dari pohonnya.
 
@@ -31,3 +31,5 @@ Bagi yang pernah menginjakkan kaki di kawasan Paciran pastilah pesona Légen ada
 Atau kalau Anda sedang melintas dari arah Tuban ke Surabaya atau sebaliknya lewat jalur pantura, Anda bisa sekedar melepas lelah dan mencicipi minuman tradisional ini sambil bersantai di warung-warung gubuk sederhana sepanjang KM 74 dari arah Surabaya di kawasan desa paciran. Sambil menikmati segelas Légen lidah anda juga akan dimanjakan dengan jajanan khas paciran lainnya seperti jumbrek, Buah ental (siwalan), Rujak Khas Pantura Paciran dan jajanan-jajanan khas Paciran lainnya.
 
 <noscript><img src="https://1.bp.blogspot.com/-KWJpOgFhuGA/WLtsalZJkXI/AAAAAAAABho/LWldKP7Z8a4kPeyLeJziwVeBkvMjOyk_wCPcB/s320/LegenCiran3.jpg"></img></noscript>
+
+_editor_: **jon mukidi**

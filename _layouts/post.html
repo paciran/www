@@ -48,7 +48,7 @@ into the {body} of the default.hbs template -->
 
             <section class="post-full-content">
                 <div class="kg-card-markdown">
-                    [{{ site.title }}]({{ site.url }}). {{ content }}
+                    <a href="{{ site.url }}" rel="home" title="{{ site.title }} {{ site.tagline }}">{{ site.title }}</a>. {{ content }}
                 </div>
             </section>
 

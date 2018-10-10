@@ -41,7 +41,7 @@ Hal terpenting yang perlu kamu ingat adalah _domain_ ini: `i0.wp.com, i1.wp.com,
 
 > Sebagaimana obat, ada aturan pakai yang harus ditaati agar tidak celaka. Ikuti dengan benar.
 
-Untuk optimalisasi gambar, selipkan _domain_ pembungkus setelah protokol (`http://` atau `https://`) dari tautan gambar yang ingin kamu optimasi. Sebagai contoh, gambar [logo ini](assets/logo-dwarkop.jpg) punya ukuran file yang besar dan berpotensi menghabiskan jatah bandwith selain itu cukup berat dimuat jika disematkan dalam halaman web. Untuk membuat gambar lebih ramah hosting dan lebih ringan gunakan salah satu domain pembungkus, misal `i0.wp.com` kedalam tautan https://i0.wp.com/www.paciran.com/assets/images/logo-dwarkop.jpg sehingga menjadi https://i0.wp.com/www.paciran.com/assets/images/logo-dwarkop.jpg
+Untuk optimalisasi gambar, selipkan _domain_ pembungkus setelah protokol (`http://` atau `https://`) dari tautan gambar yang ingin kamu optimasi. Sebagai contoh, gambar [logo ini](assets/logo-dwarkop.jpg) punya ukuran file yang besar dan berpotensi menghabiskan jatah bandwith selain itu cukup berat dimuat jika disematkan dalam halaman web. Untuk membuat gambar lebih ramah hosting dan lebih ringan gunakan salah satu domain pembungkus, misal `i0.wp.com` kedalam tautan https://www.paciran.com/assets/images/logo-dwarkop.jpg sehingga menjadi https://i0.wp.com/www.paciran.com/assets/images/logo-dwarkop.jpg
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- AtasArtikel -->
@@ -54,7 +54,7 @@ Untuk optimalisasi gambar, selipkan _domain_ pembungkus setelah protokol (`http:
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Untuk memotong atau merubah ukuran (lebar, tinggi), tempatkan _query_ (`?resize=` atau `?crop=`) di akhir tautan gambar yang sudah dibungkus sebelumnya. Yang terpenting adalah nilai setelah _query_ yang menentukan ukuran dari gambar dalam satuan _pixel_ dengan format: `lebar,tinggi` yang di-inginkan. Jika ingin gambar berukuran lebar 400px dan tinggi 320px, formatnya menjadi `400,320`. Setelah digabung, tautan akan terlihat seperti ini: `https://www.paciran.com/assets/images/logo-dwarkop.jpg?resize=400,320` Mudah, dan _efisien_.
+Untuk memotong atau merubah ukuran (lebar, tinggi), tempatkan _query_ (`?resize=` atau `?crop=`) di akhir tautan gambar yang sudah dibungkus sebelumnya. Yang terpenting adalah nilai setelah _query_ yang menentukan ukuran dari gambar dalam satuan _pixel_ dengan format: `lebar,tinggi` yang di-inginkan. Jika ingin gambar berukuran lebar 400px dan tinggi 320px, formatnya menjadi `400,320`. Setelah digabung, tautan akan terlihat seperti ini: `https://i0.wp.com/www.paciran.com/assets/images/logo-dwarkop.jpg?resize=400,320` Mudah, dan _efisien_.
 
 > Catatan untuk webmaster: Trik ini sebenarnya masih punya kekurangan. Salah satunya adalah gambar biasanya tidak ter-cache oleh CDN karena mengandung _query_. Toh masih bisa diatasi dengan menambahkan parameter _query_ tersebut dalam daftar yang boleh di _cache_ pada panel penyedia layanan CDN yang dipakai.
 

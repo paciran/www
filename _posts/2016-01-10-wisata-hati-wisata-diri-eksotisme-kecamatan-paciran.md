@@ -33,3 +33,5 @@ Oke… it’s time to go home…..!!!!!
 Semua sudah berkemas, jangan lupa oleh-oleh untuk yang dirumah, semoga berkesan dengan perjalanan kali ini dan jangan lupa untuk bercerita dengan siapa saja tentang semua ke-eksotisan kecamatan Paciran ini. Tentu saja jangan lupa untuk sempatkan waktu datang kembali
 
 #PaciranBerkesan,
+
+_editor: **jon mukidi**_

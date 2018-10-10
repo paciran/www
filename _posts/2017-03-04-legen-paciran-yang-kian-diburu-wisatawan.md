@@ -32,4 +32,4 @@ Atau kalau Anda sedang melintas dari arah Tuban ke Surabaya atau sebaliknya lewa
 
 <noscript><img src="https://1.bp.blogspot.com/-KWJpOgFhuGA/WLtsalZJkXI/AAAAAAAABho/LWldKP7Z8a4kPeyLeJziwVeBkvMjOyk_wCPcB/s320/LegenCiran3.jpg"></img></noscript>
 
-_editor_: **jon mukidi**
+_editor: **jon mukidi**_

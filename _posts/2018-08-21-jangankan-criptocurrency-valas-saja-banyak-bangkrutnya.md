@@ -47,6 +47,17 @@ Ada unsur [spekulasi](https://kbbi.web.id/spekulasi.html) disitu. Bagi yang tida
 
 Bagaimana jika ingin menambang sendiri? Yakin? Saya tanya lagi, yakin ingin menambang Bitcoin secara serius? Modalnya _gedhe bruh_. Sumberdaya yang dibutuhkan untuk menambang juga gak kepalang tanggung. Kamu kira hardware untuk mining itu tidak [makan daya yang buuuessaaar](https://www.pcauthority.com.au/news/bitcoin-mining-eats-up-more-energy-than-the-entirety-of-ireland-uses-in-a-year-478360){:. title="Pakai gugel trenslet ya.."}??? Coba saja dihitung dan jawab secara jujur, jika dijual saat itu juga, berapa profit yang didapat setelah biaya operasional. Profitnya gak seberapa kan? Kecuali jika mau dan rela untuk menyimpan hasil _mining_ tahun ini hingga tahun depan atau tahun depannya lagi.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- AtasArtikel -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8526606076277673"
+     data-ad-slot="8771412334"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins><script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 _Worth it_ kah? Silahkan jawab sendiri. Kalau bagi saya mending kerja jadi kuli, kerja minggu ini minggu depan nyaman di warung kopi. Yes, _saia_ bukan termasuk orang yang punya ambisi besar, betul sekali _kisanak_. Itulah makanya saia bukan termasuk orang sukses, kalau ukurannya adalah materi tentu saja.
 
 ### Jangan Jadi Sapi

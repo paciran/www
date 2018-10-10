@@ -1,19 +1,19 @@
 desain:
   name: desain
   description: Desain grafis, adalah menggambar. entah dengan pena dan kertas maupun lewat corel dan photoshop. 
-  cover: assets/images/design.jpg
+  cover: False
 ekonomi:
   name: ekonomi
   description: Duit, dari riuhnya pasar lokal sampai investasi bodong hingga pertuyulan online.
-  cover: assets/images/bitcoin-price.jpg
+  cover: False
 fiksi:
   name: fiksi
   description: Kisah fiksi imajiner yang tidak dimaksudkan untuk hiburan semata
   cover: False
 fotografi:
   name: fotografi
-  description: Some of the greatest words ever spoken.
-  cover: assets/images/speeches.jpg
+  description: Galeri foto lokal/interlokal dan tips fotografi meskipun amatiran.
+  cover: False
 fables:
   name: fables
   description: Short stories that make you think.
@@ -25,7 +25,7 @@ kuliner:
 menulis:
   name: menulis
   description: Literasi. Mulai kisah nge-blog hingga budaya baca tulis
-  cover: assets/images/writing.jpg
+  cover: False
 olahraga:
   name: olahraga
   description: Olahraga dong. Kalau mau gerak, pasti sehat.
@@ -33,16 +33,16 @@ olahraga:
 politik:
   name: politik
   description: Bukan artikel politik biasa, bisa lokal bisa interlokal.
-  cover: assets/images/the-first-purge-2018.jpg
+  cover: False
 romansa:
   name: romansa
   description: Kisah romansa durjana para bujang lapuk di Paciran. Juga kenangan masa kecil yang istimewa
-  cover: assets/images/lips-paciran.jpg
+  cover: False
 tutorial:
   name: tutorial
   description: Apakah ini memang tutorial, kalian yang menentukan
-  cover: assets/images/advanced.jpg
+  cover: False
 getting-started:
   name: getting-started
   description: False
-  cover: assets/images/paciran.jpg
+  cover: False

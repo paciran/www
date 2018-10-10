@@ -27,6 +27,17 @@ Loh, itu kan menurutmu wahai para jomblo. Mestinya kalian berusaha sedikit denga
 
 Hemm.. Jaman sekarang, siapa yang tak punya gawai-cerdas? Entah itu gawai yang mahalnya seharga sapi seperti produk buatan Apple Inc., atau semurah kripik tempe lokal ber-OS Android semacam Adv•n. Yang kalau _saia_ disuruh makek pun mualess gara-gara disisipi **adware**. Bukan apa-apa, aplikasi semcam ini penyebab utama _malware_ menerobos masuk lewat kode jahat yang diselundupkan lewat iklan (entah bagaimana caranya), yang kalau sudah dipakai beberapa bulan menjadi _naudubilah_ lemotnya. 
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- AtasArtikel -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8526606076277673"
+     data-ad-slot="8771412334"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins><script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Nah, dengan gawai cerdas (yang bagus ya?) ini, kamu jomblowan yang mulia bisa mengobati rasa _sepi-mampri_ di hati dengan _nyetriming_ siaran pertandingan bola. Sebagai siraman rohani, terapi biar hati sejuk.
 
 ![Gawai Cerdas](https://www.mobdro.sc/assets/images/ui.png)

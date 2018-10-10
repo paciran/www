@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/destination-wedding-poster.jpg
+cover: assets/images/lips-paciran.jpg
 navigation: True
 class: post-template
 subclass: 'post tag-romansa'

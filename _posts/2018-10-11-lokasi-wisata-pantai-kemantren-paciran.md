@@ -30,7 +30,7 @@ Suasana asri berpadu dengan ombak yang tidak terlalu besar, bahkan cenderung ten
 
 Wisata yang dibuka sejak dua tahun yang lalu ini bisa kamu jadikan tujuan alternatif wisata sebelum atau setelah mengunjungi lokasi lain seperti makam Sunan Drajat yang berjarak sekitar 2,7 KM saja.
 
-![Lokasi Pantai Kemantren](assets/image/pantai-kemantren-sunan-drajat.jpg)
+![Lokasi Pantai Kemantren](assets/images/pantai-kemantren-sunan-drajat.jpg)
 
 Hampir serupa dengan wisata yang dikelola secara swadaya lain di sekitar Paciran, tiket masuk pun gratis. Menurut informasi dari pengelola juga mengungkapkan bahwa tidak ada biaya tiket masuk ke pantai Kemantren. Akan tetapi, pengunjung hanya perlu membayar jasa parkir. Untuk kendaraan roda dua dikenakan tarif Rp 3000, sedangkan untuk mobil sebesar Rp 5000. Biaya parkir inilah yang kemudian dialokasikan untuk pembangunan fasilitas serta membayar penjaga kebersihan lokasi wisata. Pembangunan untuk memperbaiki fasilitas di area wissata juga masih terus dilakukan. 
 

@@ -14,6 +14,10 @@ fotografi:
   name: fotografi
   description: Galeri foto lokal/interlokal dan tips fotografi meskipun amatiran.
   cover: False
+wisata:
+  name: wisata
+  description: Tempat tempat yang layak dikunjungi di wilayah Paciran dan sekitarnya.
+  cover: False
 fables:
   name: fables
   description: Short stories that make you think.

@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/lips-paciran.jpg
+cover: assets/images/pantai-maldives-paciran.jpg
 navigation: True
 class: post-template
 subclass: 'post tag-wisata'
@@ -10,7 +10,7 @@ author: mukidi
 title: Saung Bambu di Tengah Laut Wisata Pantai Kemantren
 description: "Untuk pengguna instagram maupun penghobi fotografi, lokasi ini juga punya spot-spot keren untuk diabadikan. Utamanya pemandangan laut senja di musim-musim saat matahari berada di utara pulau Jawa"
 tags: [wisata, pantai]
-date: 2018-09-11 15:15:00 +7
+date: 2018-09-11 10:15:00
 ---
 
 Wisata Pantai Kemantren terletak di Desa Kemantren, Kecamatan Paciran, Kabupaten Lamongan. Sebagai ancer-ancer, Wisata pantai ini berjarak sekitar 5,5 KM sebelah timur Wisata Bahari Lamongan. Pantai yang dikelola secara swadaya oleh masyarakat ini juga menarik minat pengunjung.

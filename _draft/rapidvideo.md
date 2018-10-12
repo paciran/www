@@ -38,4 +38,4 @@ All our systems are designed to work redundant with fail-over techniques. Even i
 > _remember this:_ The links provided above is not appear out of nowhere. It is loaded from the pages or article before you came here. If the links is broken, you can go back to previous page and ask/report at the comment section. **Reload or clear browser cache if to long**.
 {: id="notice"}
 
-{% include adsense2.html %}
+{% include respo.html %}

@@ -23,9 +23,7 @@ Untuk mengatasi masalah di atas, biasanya [penulis/blogger](https://www.paciran.
 
 Pilihan pertama, tak akan menjadi masalah jika menggunakan media publikasi gratisan seperti **Blogger** (sub-domain blogspot.com) atau **Wordpress** (versi gratis, sub domain wordpress.com) dan platform blogging lokal seperti **Kompasiana**. Karena penulis tidak perlu memikirkan apakah jatah bandwith akan terlampaui ketika artikel menjadi populer dan berkali-kali dibaca.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- AtasArtikel -->
-<ins class="adsbygoogle"
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-8526606076277673"
      data-ad-slot="8771412334"

@@ -15,11 +15,22 @@ subclass: 'post tag-fiksi'
 ---
 > Film kriminal misteri millenial ini layaknya _guide_ bagi orang awam untuk melakukan _stalking_ alias ngasih _sampeyan_ cara untuk mencari rekam jejak digital seseorang. Film ini juga membuat _sampeyan_ cerdas dalam berselancar di dunia maya.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- AtasArtikel -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8526606076277673"
+     data-ad-slot="8771412334"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins><script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Sudah nonton Film Searching (2018)? Sebuah film misteri yang bercerita tentang pembunuhan, penculikan, dan detektif boleh dikata _tricky_. Alasannya, tidak semua film misteri mampu membuat penonton tetap fokus sepanjang film. Apalagi jika isinya hanya seputar pencarian sesuatu atau seseorang, dengan bumbu adegan _gepuk-gepuk-an_ (baku hantam). Tampaknya, plot tersebut sudah _buuuppiyasa_. Namun, berbeda dengan film _Searching_. Film yang sudah muncul b4j4kannya ini digarap dengan brilian meski plotnya _sodok pasaran_.
 
 > **Sinopsis:** Bercerita tentang David Kim, seorang ayah yang tengah kehilangan anak semata wayangnya bernama Margot Kim. David pun melaporkan peristiwa kehilangan putrinya pada pihak keamanan. Kemudian, dia mendapat bantuan dari seorang detektif untuk memecahkan masalah kehilangan anaknya. Namun, dalam waktu 37 jam, Margot tidak kunjung ditemukan. Hingga, David mendapatkan cara sendiri untuk menemukan putrinya.
 
-<iframe src="//www.youtube-nocookie.com/embed/3Ro9ebQxEOY" width="680" height="480" alkamuwfullscreen="alkamuwfullscreen"></iframe>
+<iframe src="//www.youtube-nocookie.com/embed/3Ro9ebQxEOY?rel=0&showinfo=0&controls=0" frameborder="0" mozallowfullscreen webkitAllowFullScreen allowfullscreen></iframe>
 
 Sekilas, membaca sinopsisnya, _sampeyan_ bakal _ngroso_ film _Searching_ punya plot yang umum: penculikan yang melibatkan detektif. Begitu pula ketika _sampeyan_ lihat cuplikannya di Youtube, _jekene_ kok biasa saja. Nah, hal ini menimbulkan dua persepsi. Pertama, bisa membuat orang penasaran dengan filmnya karena ulasan di media luar negeri yang positif. Kedua, justru bisa jadi _boomerang_ buat penonton yang tertarik nonton film karena sinopsis dan video cuplikannya.
 

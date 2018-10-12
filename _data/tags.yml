@@ -6,9 +6,17 @@ ekonomi:
   name: ekonomi
   description: Duit, dari riuhnya pasar lokal sampai investasi bodong hingga pertuyulan online.
   cover: False
+religi:
+  name: religi
+  description: Lakum diinukum wa liyadiin - لكم دينكم ولي دين
+  cover: False
 fiksi:
   name: fiksi
-  description: Kisah fiksi imajiner yang tidak dimaksudkan untuk hiburan semata
+  description: Kisah-kisah imajiner dan fiksi (film, novel, cerpen) yang tidak dimaksudkan untuk hiburan semata.
+  cover: False
+internet:
+  name: internet
+  description: Bau-bau kuota paketan internet atau waifian semalam suntuk.
   cover: False
 fotografi:
   name: fotografi

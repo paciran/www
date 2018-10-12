@@ -22,7 +22,7 @@ oneng:
   username: oneng
   name: Neng Oneng
   url_full: https://www.paciran.com/author/sukadi
-  url: /author/oneng
+  url: False
   bio: False
   picture: assets/images/oneng.jpg
   facebook: holy

@@ -1,7 +1,6 @@
 ---
 title: "Download File from Mediafire"
 permalink: "/mediafire"
-cover: https://cdn.neow.in/news/images/uploaded/2016/03/mediafire-logo_story.jpg
 date: 2018-07-31 21:14:00 +7
 last_modified: 2018-07-31 21:14:00 +7
 layout: transit
@@ -10,6 +9,8 @@ navigation: True
 class: page-template
 ---
 _remember this:_ the links provide here it not appear out of nowhere suddenly, it is loaded from the pages or article from before you came here. So if the links is broken, you can go back to previous page and ask/report at the comment section.
+
+![mediafire](https://cdn.neow.in/news/images/uploaded/2016/03/mediafire-logo_story.jpg)
 
 ### How good is Mediafire?
 

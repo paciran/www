@@ -2,7 +2,6 @@
 permalink: "/mortgage"
 title: The 6 Worst Mortgage You Can Make
 description: "A house may be the most important purchase of your life. Don't blow it by making one of these dumb mistakes."
-cover: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBMLnbG.img?h=0&w=720&m=6&q=60
 date: 2018-07-31 21:14:00 +7
 last_modified: 2018-07-31 21:14:00 +7
 layout: transit
@@ -12,6 +11,7 @@ class: page-template
 ---
 > Link is generated at bottom, link ada di bawah posting.
 
+![mortgage](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBMLnbG.img?h=0&w=720&m=6&q=60)
 _Is your house your castle? Or a monkey on your back?_
 
 The answer might depend on your mortgage. Getting an affordable property at a great rate can make you feel as if life couldn’t be any sweeter.

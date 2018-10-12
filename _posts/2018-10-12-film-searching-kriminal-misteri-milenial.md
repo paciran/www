@@ -58,4 +58,6 @@ Sedangkan efek suara yang ditampilkan benar-benar sudut pandang media komunikasi
 
 ### Nonton Karo Sopo Enak-e?
 
-Film _Searching_ ditujukan untuk penonton 13 tahun ke atas. Jadi, kalau _sampeyan_ pengen mengajak _dedek kecil_ di bawah usia tersebut, ojo! _Sampeyan_ gak pengen toh, kalau fokus _sampeyan_ terganggu dengan kerewelan mereka? Satu lagi, sebelum nonton, pastikan _sampeyan_ tidak sedang murus-murus atau tidak minum banyak. __Soale nek sampeyan klewat sak _scene_, _sampeyan_ bakal rugi. Film ini sudah ditayangkan sejak 24 Agustus 2018 lalu. Tetapi ya itu, saya baru bisa nonton baru-baru ini karena menunggu versi b4j4k4nnya berkualitas bagus.
+Film _Searching_ ditujukan untuk penonton 13 tahun ke atas. Jadi, kalau _sampeyan_ pengen mengajak _dedek kecil_ di bawah usia tersebut, ojo! _Sampeyan_ gak pengen toh, kalau fokus _sampeyan_ terganggu dengan kerewelan mereka? Satu lagi, sebelum nonton, pastikan _sampeyan_ tidak sedang murus-murus atau tidak minum banyak. __Soale nek sampeyan klewat sak _scene_, _sampeyan_ bakal rugi. Film ini sudah ditayangkan sejak 24 Agustus 2018 lalu. Tetapi ya itu, saya baru bisa nonton baru-baru ini karena menunggu [**versi b4j4k4nnya**](https://goo.gl/veWtHH) berkualitas bagus.
+
+{% include adsense2.html %}

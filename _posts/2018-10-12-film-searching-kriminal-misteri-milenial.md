@@ -40,7 +40,7 @@ Kalau _sampeyan_ pernah nonton film _Unfriended_ (2014), film ini punya _treatme
 
 Uniknya, film ini _relate_ abis dengan perilaku manusia di internet. Kalau _sampeyan_ suka _stalking_ seseorang, film ini layaknya _guide_ bagi orang awam untuk melakukan _stalking_. Lebih tepatnya, film ini ngasih _sampeyan_ cara untuk mencari rekam jejak digital seseorang. Film ini juga membuat _sampeyan_ cerdas dalam berselancar di dunia maya.
 
-Kalau banyak film yang cuma mengandalkan satu plot _twist_ demi mengejutkan penonton, film ini justru sebaliknya. _Searching_ malah memiliki banyak plot _twist_ yang membuat _sampeyan_ terus dikasih kejutan. Di akhir film _sampeyan_ bakal takjub kepada Chaganty. Kok bisa-bisanya dia kepikiran membuat plot sederhana tapi _mind-bkamuwing_.
+Kalau banyak film yang cuma mengandalkan satu plot _twist_ demi mengejutkan penonton, film ini justru sebaliknya. _Searching_ malah memiliki banyak plot _twist_ yang membuat _sampeyan_ terus dikasih kejutan. Di akhir film _sampeyan_ bakal takjub kepada Chaganty. Kok bisa-bisanya dia kepikiran membuat plot sederhana tapi _mind-blowing_.
 
 ### Penokohan
 

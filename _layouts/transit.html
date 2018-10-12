@@ -27,12 +27,12 @@ into the {body} of the default.hbs template -->
             <header class="post-full-header">
                 <h1 class="post-full-title">{{ page.title }}</h1>
             </header>
-<noscript>
+
             {% if page.cover %}
-            <figure class="post-full-image" style="background-image: url({{ site.baseurl }}{{ page.cover }})">
-            </figure>
+            <noscript><figure class="post-full-image" style="background-image: url({{ page.cover }})">
+            </figure></noscript>
             {% endif %}
-</noscript>
+
 <div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block"

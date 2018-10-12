@@ -18,10 +18,11 @@ layout: compress
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/screen.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/screen.edited.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/syntax.css" />
-    <!-- highlight.js -->
+    {% if page.layout == "transit" %}{% else %}
+	<!-- highlight.js -->
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
     <style>.hljs { background: none; }</style>
-
+	{% endif %}
     <!--[if IE]>
         <style>
             p, ol, ul{
@@ -57,7 +58,7 @@ layout: compress
                 {% include post_pagination.html %}
             {% endif %}
         {% endif %}
-
+		{% if page.layout == "transit" %}{% endif %}
         <!-- The footer at the very bottom of the screen -->
         <footer class="site-footer outer">
             <div class="site-footer-content inner">
@@ -73,7 +74,7 @@ layout: compress
                 </nav>
             </div>
         </footer>
-
+		{% endif %}
     </div>
 
     <!-- The big email subscribe modal content -->
@@ -90,7 +91,7 @@ layout: compress
             </div>
         </div>
     {% endif %}
-
+	{% if page.layout == "transit" %}{% else %}
     <!-- highlight.js -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js"></script>
     <script>$(document).ready(function() {
@@ -98,6 +99,7 @@ layout: compress
         hljs.highlightBlock(block);
       });
     });</script>
+	{% endif %}
 
     <!-- jQuery + Fitvids, which makes all video embeds responsive -->
     <script
@@ -105,9 +107,11 @@ layout: compress
         integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
         crossorigin="anonymous">
     </script>
+	
+	{% if page.layout == "transit" %}{% else %}
     <script type="text/javascript" src="{{ site.baseurl }}assets/js/jquery.fitvids.js"></script>
     <script type="text/javascript" src="https://demo.ghost.io/assets/js/jquery.fitvids.js?v=724281a32e"></script>
-
+	{% endif %}
 
     <!-- Paginator increased to "infinit" in _config.yml -->
     <!-- if paginator.posts  -->
@@ -117,6 +121,7 @@ layout: compress
     <script src="{{ site.baseurl }}assets/js/infinitescroll.js"></script> -->
     <!-- /endif -->
 
+{% if page.layout == "transit" %}{% else %}
     {% if paginator.total_pages > site.paginate %}
     <script>
         var maxPages = parseInt('{{ paginator.total_pages }}');
@@ -124,15 +129,14 @@ layout: compress
     <script src="{{ site.baseurl }}assets/js/infinitescroll.js"></script>
     {% endif %}
 
-
     <!-- Add Google Analytics  -->
     {% include analytics.html %}
-
+{% endif %}
     <!-- The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in post.hbs, but it needs to be included down here, after jQuery has already loaded. -->
     {% if page.class == "post-template" %}
         {% include post-scripts.html %}
-    {% elsif page.class == "page-template" %}
-        {% include page-scripts.html %}
+    {% elsif page.class == "page-template" %}        
+	{% if page.layout == "transit" %}{% else %}{% include page-scripts.html %}{% endif %}
     {% endif %}
 
     <!-- Ghost outputs important scripts and data with this tag - it should always be the very last thing before the closing body tag -->

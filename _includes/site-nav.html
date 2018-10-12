@@ -8,7 +8,7 @@
             {% endif %}
         {% endif %}
         {% if page.navigation %}
-            {% include navigation.html %}
+            {% if page.layout == "transit" %}{% else %}{% include navigation.html %}{% endif %}
         {% endif %}
     </div>
     <div class="site-nav-right">

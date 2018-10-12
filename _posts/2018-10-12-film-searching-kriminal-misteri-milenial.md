@@ -1,6 +1,5 @@
 ---
-title: 
-description: "Menikmati Seramnya Dunia Maya dalam Film Searching (2018)"
+title: "Menikmati Seramnya Dunia Maya dalam Film Searching (2018)"
 description: "Film ini layaknya panduan bagi orang awam untuk melakukan stalking alias ngasih sampeyan cara untuk mencari rekam jejak digital seseorang. Film ini juga membuat sampeyan cerdas dalam berselancar di dunia maya."
 date: 2018-10-11 21:23:00
 last_updated: 2018-10-12 11:23:00

@@ -11,7 +11,7 @@ navigation: True
 class: post-template
 subclass: 'post tag-fiksi'
 ---
-> Film ini layaknya _guide_ bagi orang awam untuk melakukan _stalking_ alias ngasih _sampeyan_ cara untuk mencari rekam jejak digital seseorang. Film ini juga membuat _sampeyan_ cerdas dalam berselancar di dunia maya.
+> Film kriminal misteri millenial ini layaknya _guide_ bagi orang awam untuk melakukan _stalking_ alias ngasih _sampeyan_ cara untuk mencari rekam jejak digital seseorang. Film ini juga membuat _sampeyan_ cerdas dalam berselancar di dunia maya.
 
 Sudah nonton Film Searching (2018)? Sebuah film misteri yang bercerita tentang pembunuhan, penculikan, dan detektif boleh dikata _tricky_. Alasannya, tidak semua film misteri mampu membuat penonton tetap fokus sepanjang film. Apalagi jika isinya hanya seputar pencarian sesuatu atau seseorang, dengan bumbu adegan _gepuk-gepuk-an_ (baku hantam). Tampaknya, plot tersebut sudah _buuuppiyasa_. Namun, berbeda dengan film _Searching_. Film yang sudah muncul b4j4kannya ini digarap dengan brilian meski plotnya _sodok pasaran_.
 

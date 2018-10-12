@@ -28,7 +28,7 @@ Our infrastructure is build to handle large amounts of files. Our system has clo
 ### Available 24/7/365
 All our systems are designed to work redundant with fail-over techniques. Even in a worst case scenario, you files will stay available and you will not notice a single outage.
 
-{% include adesense1.html %}
+{% include adsense1.html %}
 
 <a href="/" id="ravid" class="author-card-button" rel="external noindex nofollow noreferer noopener">processing...</a>
 {: style="display:block;text-align:center"}

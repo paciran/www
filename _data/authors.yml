@@ -27,7 +27,7 @@ oneng:
   picture: assets/images/oneng.jpg
   facebook: holy
   twitter: False
-  cover: assets/images/senja-laut-paciran.jpg
+#  cover: assets/images/senja-laut-paciran.jpg
 itmam:
   username: itmam
   name: It Mam

@@ -7,7 +7,7 @@ layout: transit
 current: page
 class: page-template
 ---
-> Link is generated at bottom, link ada di bawah posting.
+> Link is generated at bottom, link ada [di bawah](#respo) posting.
 
 ## What is RapidVideo?
 
@@ -26,10 +26,10 @@ Our infrastructure is build to handle large amounts of files. Our system has clo
 ### Available 24/7/365
 All our systems are designed to work redundant with fail-over techniques. Even in a worst case scenario, you files will stay available and you will not notice a single outage.
 
-<div><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8526606076277673" data-ad-slot="7369031133" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+<div id="respo"><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8526606076277673" data-ad-slot="7369031133" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
 <p><a href="/" id="ravid" class="author-card-button" rel="external noindex nofollow noreferer noopener" style="display:block;text-align:center">processing...</a>
 <script type="text/javascript">function getQueryVariable(e){for(var r=window.location.search.substring(1),t=r.split("&"),n=0;n<t.length;n++){var a=t[n].split("=");if(a[0]==e)return a[1]}return!1}window.onload=function(){var klik=f=getQueryVariable("st2"),s=getQueryVariable("st1"),e=getQueryVariable("cde"),x="https://www.rapidvideo.com";document.getElementById("ravid").innerHTML=s,document.getElementById("ravid").href=x+"/"+f+"/"+e;document.getElementById("notice").innerHTML="Your link now ready, click the button <b>"+s+"</b> above!"};</script></p>
-<div><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8526606076277673" data-ad-slot="7712851534" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+<div id="ads1"><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8526606076277673" data-ad-slot="7712851534" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
 
 > _remember this:_ The links provided above is not appear out of nowhere. It is loaded from the pages or article before you came here. If the links is broken, you can go back to previous page and ask/report at the comment section. **Reload or clear browser cache if to long**.
 {: id="notice"}

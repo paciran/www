@@ -38,13 +38,13 @@ Jadi, _saia_ mewanti-wanti pengguna CorelDraw X7 atau X8 yang ingin mengunduh fi
 
 ### Seperti Bebek mencoba berbicara pada Kambing
 
-Jika dipikir, ini gara-gara pemberian nomor versi CorelDraw yang salah. Yang saya ingat, perubahan nomor versi ini memang sejak versi 12 menjadi versi 13. Nah versi 13 ini yang kemudian menjadi X3 karena menghindari angka 13 yang dianggap sial. Dan penomoran versi yang begini yang membikin runyam. Kenapa tidak pakai X sebagai angka satu sejak Corel 10 coba?
+Jika dipikir, ini gara-gara pemberian nomor versi CorelDraw yang salah. Yang saya ingat, perubahan nomor versi ini memang sejak versi 12 menjadi versi 13. Nah versi 13 ini yang kemudian menjadi X3 karena menghindari angka 13 yang dianggap sial. Dan penomoran versi model begini yang membikin runyam. Kenapa tidak pakai X sebagai pengganti angka satu sejak Corel 10 coba?
 
-Intinya, Perbedaan penyebutan versi ini jadi gak nyambung karena kita beda generasi. Dia masuk generasi _milenial_ yang mengenal Corel versi X yang menganggap bahwa X itu tidak punya arti, sedangkan _saia_ termasuk generasi _antique_ peninggalan jaman batu yang sudah mengenal Corel sejak Corel 9 dan paham bahwa X itu adalah pengganti angka 10. Itu saja sih..
+Intinya, Perbedaan penyebutan versi ini jadi gak nyambung karena kita beda pemahaman. Dia masuk generasi _milenial_ yang mengenal Corel versi X yang menganggap bahwa X itu tidak punya arti, sedangkan _saia_ termasuk generasi _antique_ peninggalan jaman batu yang sudah mengenal Corel sejak Corel 9 dan paham bahwa X itu adalah pengganti angka 10. Itu saja sih..
 
 ### Bonus Anime dan Corel Draw 12
 
 Anime dengan judul: **Sword Art Online: Alicization** Episode 1, (kebetulan) sudah _saia_ tunggu-tunggu. 
 Niatnya, Kingin memajang kode sematan ( _embed_ ) yang  saya ambil paksa memakai fitur _inspect element_ dari browser Chrome dari situs berbagi video [zippyshare](http://corneey.com/wL8gfg){: target="_blank" rel="noreferer nofollow"}. Tetapi selang satu hari kemudian tidak bisa diputar. Jadi saya hilangkan saja.
 
-Untuk jaga-jaga kalau installer saya hilang atau terhapus atau ganti laptop, _saia_ tempelkan beberapa link Software Corel Draw Graphic Suite 12 yang cukup susah untuk didapatkan saat ini. Ada 3 link unduhan saya dapatkan dari postingan blog lawas _forumgenkster.blogspot.com_. Dari ketiga tautan hanya ada satu yang masih aktif, yakni dari situs solidfiles. Silahkan unduh [di sini](http://www.solidfiles.com/d/6c7ad8fb15/) dan ekstrak menggunakan software [winrar](https://www.rarlab.com/download.htm) dengan memasukkan password: `www.frankyshare.us`
+Untuk jaga-jaga kalau installer saya hilang atau terhapus atau ganti laptop, _saia_ tempelkan link download Corel Draw Graphic Suite 12 yang agak susah untuk didapatkan saat ini. Ada 3 link unduhan saya dapatkan dari postingan blog lawas `forumgenkster.blogspot.com`.{% include respo.html %} Dari ketiga tautan, hanya ada satu yang masih aktif, yakni dari situs solidfiles. Silahkan unduh [di sini](/mortgage?hst=www.solidfiles.com&cde=d/6c7ad8fb15&st1=Solidfiles&st2=pasword:www.frankyshare.us) dan ekstrak menggunakan software [winrar](https://www.rarlab.com/download.htm) dengan password seperti yang muncul dalam tautan di atas.

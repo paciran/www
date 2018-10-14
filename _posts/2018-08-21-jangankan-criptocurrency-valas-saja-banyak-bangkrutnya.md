@@ -15,7 +15,7 @@ _**Criptocurrency**_. Bagi telinga awam, istilah itu mungkin terasa asing _bingi
 
 ![Bitcoin Prices](https://i3.wp.com/fortunedotcom.files.wordpress.com/2018/04/long-blockchain-bitcoin-stock-price.jpg?resize=700,380)
 
-Masih ingat sekali saya sekitar tahun 2015 melihat betapa Bitcoin, sebagai leader dari _criptocurrency_ ini menjadi _booming_ dengan segala rumor minus yang berputar pada penggunaannya sebagai mata uang virtual yang tak terlacak. Entah untuk membeli barang terlarang semisal _illegal drugs_, prostitusi anak, penjualan organ, hingga yang paling seram; sewa pembunuh bayaran, yang ada dan tersedia di _dark-web_ yang tak mungkin muncul di kolom pencarian Google, Bing atau Duckduckgo. Kala itu juga _Trending_ tentang Bitcoin yang dipakai untuk mencuci uang, --eh? _Bitcoin_ bukan merk mesin cuci bro, hanya salah satu dari sekian **mata uang digital terenkripsi**.
+Masih ingat sekali saya sekitar tahun 2015 melihat betapa Bitcoin, sebagai leader dari _criptocurrency_ ini menjadi _booming_ dengan segala rumor minus yang berputar pada penggunaannya sebagai mata uang virtual yang tak terlacak. Entah untuk membeli barang terlarang semisal _illegal drugs_, prostitusi anak, penjualan organ, hingga yang paling seram; sewa pembunuh bayaran, yang ada dan tersedia di _dark-web_ yang tak mungkin muncul di kolom pencarian Google, Bing atau Duckduckgo. Kala itu juga _trending_ tentang Bitcoin yang dipakai untuk mencuci uang, --eh? _Bitcoin_ bukan merk mesin cuci bro, hanya salah satu dari sekian **mata uang digital terenkripsi**.
 
 > Haha, lagian siapa juga yang mau mengartikan mencuci uang secara harafiah?
 
@@ -27,7 +27,7 @@ Ohya, saya tidak mau menjelaskan bahkan mengomentari turunnya nilai pasar Bitcoi
 
 Ketika itu, _saia_ juga tak begitu meng _gobres_ dengan pemberitaan negatif yang beredar. Layaknya pisau kan ya? Bisa sangat bermanfaat sekali misalnya; untuk memotong kancing celana yang tersangkut dan tak mau lepas saat kamu begitu ingin... buang hajat, dan tepat berada disampingmu. _A wonderfull knife, isn't it?_
 
-Tetapi bisa sangat membuatmu ingin mengutuk para dewa ketika kamu berprofesi sebagai _calak_ (yu _know?_, tukang sunat) dan sedang menghadapi sepotong _lombok_ yang imut untuk diambil sedikit kuncupnya. Dan tiba-tiba saja pisau yang sejatinya sudah _dibacem_ dua hari tiga malam raib! Padahal kamu yakin itu pisau barusan ada dalam kotak peralatan. Dan saat wajahmu menengadah, ternyata pisaumu sudah ada ditangan balita pemilik _lombok_ imut yang histeris protes dengan mata basah yang melotot sambil mengacungkan pisau kearahmu. Bayangkan! Betapa negatif, betapa berbahaya...
+Tetapi bisa sangat membuatmu ingin mengutuk para dewa ketika kamu berprofesi sebagai _calak_ (yu _know?_, tukang sunat) dan sedang menghadapi sepotong _lombok_ yang imut untuk diambil sedikit kuncupnya. Dan tiba-tiba saja pisau yang sejatinya sudah _dibacem_ dua hari tiga malam raib! Padahal kamu yakin itu pisau barusan ada dalam kotak peralatan. Dan saat wajahmu menengadah, ternyata pisaumu sudah ada ditangan balita pemilik _lombok_ yang imut namun histeris protes dengan mata basah, melotot, sambil mengacungkan pisau kearahmu. Bayangkan! Betapa negatif, betapa berbahaya...
 
 ### Trading
 
@@ -39,11 +39,11 @@ Balik lagi, sebenarnya bukan masalah jika ingin ikut bermain. Tapi coba pertimba
 
 Ada unsur [spekulasi](https://kbbi.web.id/spekulasi.html) disitu. Bagi yang tidak paham benar bagaimana mekanismenya. Bagi yang terjun karena terbuai dengan angin surga, cepat kaya, untung banyak kalau harga naik, bisa saya pastikan orang semacam ini cuma modal untung-untungan. Tak pandai matematika, maaf, bukan meremehkan tapi memang iya. Membeli disaat harga turun dan menjual disaat harga mahal? Tak segampang itu _luur_...
 
-> Sorry, _saia_ sudah berusaha semaksimal mungkin untuk tidak: **Sinis**.
+> Sorry, _saia_ sudah berusaha semaksimal mungkin untuk tidak **Sinis**.
 
 ### Mining
 
-![Criotocurrency Mining](https://i1.wp.com/typodar.ru/wp-content/uploads/2017/11/The-Tech-Farm-mod.jpg)
+![Criptocurrency Mining](https://i1.wp.com/typodar.ru/wp-content/uploads/2017/11/The-Tech-Farm-mod.jpg)
 
 Bagaimana jika ingin menambang sendiri? Yakin? Saya tanya lagi, yakin ingin menambang Bitcoin secara serius? Modalnya _gedhe bruh_. Sumberdaya yang dibutuhkan untuk menambang juga gak kepalang tanggung. Kamu kira hardware untuk mining itu tidak [makan daya yang buuuessaaar](https://www.pcauthority.com.au/news/bitcoin-mining-eats-up-more-energy-than-the-entirety-of-ireland-uses-in-a-year-478360){:. title="Pakai gugel trenslet ya.."}??? Coba saja dihitung dan jawab secara jujur, jika dijual saat itu juga, berapa profit yang didapat setelah biaya operasional. Profitnya gak seberapa kan? Kecuali jika mau dan rela untuk menyimpan hasil _mining_ tahun ini hingga tahun depan atau tahun depannya lagi.
 

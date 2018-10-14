@@ -31,7 +31,7 @@ Makanan rumahan sebagaimana makanan pada umumnja biasa kita konsumsi sebagai pen
 
 Bagi kita sebagai orang desa tidak ada urusan makanan itu bergizi atawa tidak, empat sehat lima sempurna atawa tidak, bisa ketemu makanan di rumah tiap hari sadja itu sudah seperti hidup di surga.
 
-![Bakso Kipu Awu](https://i0.wp.com/www.paciran.com/assets/images/bakso-kipu.jpg?resize=460,460){: style="float:left;clear:left;margin:0 1em 1em 0"} Oleh karena itu kali ini saja akan membagikan satu foto makanan jang sudah masuk kedalam perut saja sore tadi. Jumat (07/09/2018). Saja memberikan nama untuk makanan ini dengan nama "Bakso Kipu-Awu" ada alasan chusus kenapa saja memberi makanan ini dengan nama jang mengundang hati kepengen selalu berontak. Konon katanja Bakso adalah salah satu makanan favorit Obama. Itu pun djika kabar itu bisa dipertjaja.
+![Bakso Kipu Awu](https://i0.wp.com/www.paciran.com/assets/images/bakso-kipu.jpg?resize=320,320){: style="float:left;clear:left;margin:0 1em 1em 0"} Oleh karena itu kali ini saja akan membagikan satu foto makanan jang sudah masuk kedalam perut saja sore tadi. Jumat (07/09/2018). Saja memberikan nama untuk makanan ini dengan nama "Bakso Kipu-Awu" ada alasan chusus kenapa saja memberi makanan ini dengan nama jang mengundang hati kepengen selalu berontak. Konon katanja Bakso adalah salah satu makanan favorit Obama. Itu pun djika kabar itu bisa dipertjaja.
 
 Baiklah. Saja akan sedikit mendjelaskan bagaimana duduk perkaranja, maksudku soal rasa dan kenikmatannja. Menjantap Bakso Kipu-Awu anda akan disudutkan pada situasi jang sulit untuk dinegosiasikan ulang.
 

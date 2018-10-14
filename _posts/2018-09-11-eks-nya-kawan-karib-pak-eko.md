@@ -5,7 +5,6 @@ cover: False
 navigation: True
 class: post-template
 subclass: 'post tag-romansa'
-logo: assets/images/box.jpg
 author: mukidi
 title: "X-nya Kawan Karib, Masuk Pak Eko?"
 description: Sebuah skenario sulap, ilusi yang sempurna di acara kondangan yang trak butuh bantuan Deddy Corbuzier
@@ -29,7 +28,7 @@ Adegan saling berbisik-bisik ditelinga ketika sedang duduk berdua dalam acara ko
 
 Entah Saia yang memanfaatkan situasi untuk menghilangkan status jomblo untuk sementara atau dimanfaatkan partner untuk _manas-manasi_ X-nya yang kebetulan adalah kawan karib Saia sendiri, adalah hal yang tak jelas. Dalam alur telenovela ini, posisi memanfaatkan atau dimanfaatkan sudah tak jadi soal. Sebab, sak _ngertiku_, memang belum ada batasan atau definisi khusus yang pernah dirumuskan oleh pakar sosiolog.
 
-![Jempol Pak Eko](assets/images/masuk-pak-eko.jpg)
+![Masuk Pak Eko](assets/images/masuk-pak-eko.jpg)
 
 Hasil akhir dari skenario ini pun tetap menjadi misteri. Berperan untuk siapa? Hasilnya apa? Semua serba GG dan GJ, _gak guna_ serta _gak jelas_.
 

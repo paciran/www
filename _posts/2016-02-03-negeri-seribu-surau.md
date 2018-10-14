@@ -23,8 +23,10 @@ Menara pantau yang saat ini berada di dalam kawasan Tanjung Kodok Beach Resort i
 
 Menyambangi Paciran dengan segala religiusitasnya mungkin akan banyak membelalakkan mata kita, hampir di setiap RT di desa Paciran memiliki musholla-nya sendiri dan beberapa RW juga memiliki masjid sendiri disamping ‘Masjid Agung Paciran’ (kalo boleh disebut sih..) atau masjid jami’ At-Taqwa Paciran yang sekarang sedang melaksanakan mega proyek pemugaran untuk mendapatkan ‘view’ yang lebih _mantesi_ (lebih pantas_red), sehingga untuk urusan akses beribadah bagi umat Islam menjadi sangatlah mudah di Paciran.
 
+> kultur religiusitas itu sudah banyak berkurang dan perlahan melemah
+
 Hal ini juga-lah yang menjadi tren positif dimana ketika waktu shalat telah tiba, bersahut-sahutan muadzin menggemakan adzan dan iqamah ke seantero Paciran, menyegarkan pendengaran dan hati siapa saja yang saat itu berada di desa Paciran.
 
-Sedikit muluk tapi mengena membuat saya memberikan caption di atas, yaahh….!! Negeri Seribu Surau, untuk Paciran-ku, desa dengan ribuan kenangan. walaupun kultur religiusitas itu sudah banyak berkurang dan perlahan melemah seiring mudahnya informasi dan budaya yang mudah disajikan dan dinikmati banyak kalangan sehingga cenderung ‘mempengaruhi’, tetapi masihlah banyak terlihat dipertahankan disana-sini dengan bertumbuhnya pesantren yang terus muncul dan tentu saja semoga bisa kembali mengerakkan religiusitas generasi-generasi selanjutnya di kecamatan Paciran.
+Sedikit muluk tapi mengena membuat saya memberikan caption di atas, yaahh….!! Negeri Seribu Surau, untuk Paciran-ku, desa dengan ribuan kenangan. Walaupun kultur religiusitas itu sudah banyak berkurang dan perlahan melemah seiring mudahnya informasi dan budaya yang mudah disajikan dan dinikmati banyak kalangan sehingga cenderung ‘mempengaruhi’, tetapi masihlah banyak terlihat dipertahankan disana-sini dengan bertumbuhnya pesantren yang terus muncul dan tentu saja semoga bisa kembali mengerakkan religiusitas generasi-generasi selanjutnya di kecamatan Paciran.
 
 _editor: **jon mukidi**_

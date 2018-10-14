@@ -13,7 +13,7 @@ tagline: "Truth, Faith & Fakes"
 url: "https://www.paciran.com"
 baseurl: /
 cover: assets/images/sunset-di-paciran.jpg
-logo: assets/images/blog-icon.png
+logo: # assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 production_url: https://www.paciran.com

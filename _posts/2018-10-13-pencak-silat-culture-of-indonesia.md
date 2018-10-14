@@ -16,6 +16,8 @@ subclass: 'post tag-desain'
 
 Pencak silat atau silat adalah suatu seni bela diri tradisional yang berasal dari Kepulauan Nusantara. Seni bela diri ini secara luas dikenal di Indonesia, Malaysia, Brunei, dan Singapura, Filipina selatan, dan Thailand selatan sesuai dengan penyebaran berbagai suku bangsa Nusantara. _[wikipedia](https://en.wikipedia.org/wiki/Pencak_Silat)_
 
+Desain menggunakan ikon baru pencak silat yang dikenal di dunia barat: Kerambit. Lihat [gambar kerambit](https://upload.wikimedia.org/wikipedia/commons/c/cc/Kerambit_knife_and_sheath.JPG)
+
 ![desain kaos hitam penccak silat](assets/images/silat-hitam.jpg)
 
 ![desain kaos merah penccak silat](assets/images/silat-merah.jpg)

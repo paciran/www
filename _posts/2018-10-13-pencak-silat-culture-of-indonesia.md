@@ -18,7 +18,7 @@ Pencak silat atau silat adalah suatu seni bela diri tradisional yang berasal dar
 
 ## Desain Kata 'Silat' Dekoratif
 
-Desain menggunakan salah satu senjata yang menjadi ikon baru beladiri pencak silat. Ikon baru ini mulai dikenal di dunia barat sejak Film Merantau, yakni: _Kerambit_ atau _Karambit_. Lihat gambar kerambit yang sebenarnya (asli) [di sini](https://upload.wikimedia.org/wikipedia/commons/c/cc/Kerambit_knife_and_sheath.JPG).
+Desain menggunakan salah satu senjata yang menjadi ikon baru beladiri pencak silat. Ikon baru ini mulai dikenal di dunia barat sejak Film [**Merantau** (2009)](#merantau-2009), yakni: _Kerambit_ atau _Karambit_. Lihat gambar kerambit yang sebenarnya (asli) [di sini](https://upload.wikimedia.org/wikipedia/commons/c/cc/Kerambit_knife_and_sheath.JPG).
 
 [![desain kaos hitam pencak silat](https://i2.wp.com/www.paciran.com/assets/images/silat-hitam.jpg?resize=640,420)](assets/images/silat-hitam.jpg)
 
@@ -42,3 +42,9 @@ Pemakaian: bebas. Bisa untuk sablon kaos, stiker dan media publikasi lain. File 
 Sebagai bonus untuk _sampeyan_ yang punya minat pada olahraga beladiri pencak silat. Berikut ini ada buku lama yang sudah di _scan_ dalam bentuk file PDF.
 
 Download [PDF] **[Pentjak Silat - The Indonesian Fighting Art](assets/pdf/Pentjak-Silat-The-Indonesian-Fighting-Art.pdf)**
+
+### Merantau (2009)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EiGcLPTW6z8?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8526606076277673" data-ad-slot="7712851534" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>

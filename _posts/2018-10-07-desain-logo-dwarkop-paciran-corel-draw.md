@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/corel-draw-12.jpg
+cover: assets/images/logo-dwarkop.jpg
 navigation: True
 title: "Desain Baru Logo D Warkop Paciran (CorelDraw 12)"
 description: "Gambar jpg dan cdr desain baru logo D Warkop Paciran menggunakan CorelDraw 12"
@@ -44,7 +44,13 @@ Intinya, Perbedaan penyebutan versi ini jadi gak nyambung karena kita beda pemah
 
 ### Bonus Anime dan Corel Draw 12
 
+![Corel Draw 12](https://i1.wp.com/www.paciran.com/assets/images/corel-draw-12.jpg?resize=700,300)
+
 Anime dengan judul: **Sword Art Online: Alicization** Episode 1, (kebetulan) sudah _saia_ tunggu-tunggu. 
 Niatnya, Kingin memajang kode sematan ( _embed_ ) yang  saya ambil paksa memakai fitur _inspect element_ dari browser Chrome dari situs berbagi video [zippyshare](http://corneey.com/wL8gfg){: target="_blank" rel="noreferer nofollow"}. Tetapi selang satu hari kemudian tidak bisa diputar. Jadi saya hilangkan saja.
 
-Untuk jaga-jaga kalau installer saya hilang atau terhapus atau ganti laptop, _saia_ tempelkan link download Corel Draw Graphic Suite 12 yang agak susah untuk didapatkan saat ini. Ada 3 link unduhan saya dapatkan dari postingan blog lawas `forumgenkster.blogspot.com`.{% include respo.html %} Dari ketiga tautan, hanya ada satu yang masih aktif, yakni dari situs solidfiles. Silahkan unduh [di sini](/mortgage?hst=www.solidfiles.com&cde=d/6c7ad8fb15&st1=Solidfiles&st2=pasword:www.frankyshare.us) dan ekstrak menggunakan software [winrar](https://www.rarlab.com/download.htm) dengan password seperti yang muncul dalam tautan di atas.
+Untuk jaga-jaga kalau installer saya hilang atau terhapus atau ganti laptop, _saia_ tempelkan link download Corel Draw Graphic Suite 12 yang agak susah untuk didapatkan saat ini. Ada 3 link unduhan saya dapatkan dari postingan blog lawas `forumgenkster.blogspot.com`. Dari ketiga tautan, hanya ada satu yang masih aktif, yakni dari situs solidfiles. 
+
+{% include respo.html %}
+
+Silahkan unduh [di sini](/mortgage?hst=www.solidfiles.com&cde=d/6c7ad8fb15&st1=Solidfiles&st2=pasword:www.frankyshare.us) dan ekstrak menggunakan software [winrar](https://www.rarlab.com/download.htm) dengan password seperti yang muncul dalam tautan di atas.

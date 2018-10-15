@@ -3,7 +3,7 @@ title: "Membunuh Waktu: Membuat Playlist Lagu-lagu Padi, Online Boss!"
 description: Dengan tingkat kesenggangan waktu yang begitu tak terbatas,
 layout: post
 current: post
-cover: False
+cover: /assets/images/padi-reborn.jpg
 navigation: True
 date: 2018-08-08 09:00:00
 class: post-template
@@ -52,8 +52,6 @@ Yasudahlah.. Pakai tag audio saja
 Jika berhasil, ya, jika berhasil, _yo uapik sanget toh_.
 
 Mmm... sudah hampir 2 jam terlewati hanya untuk tulisan ini. Dan menghabiskan waktu se-sore kemarin untuk mencoba di localhost. Lumayanlah, bisa membunuh waktu dengan hal berguna yang sebenarnya _gak guna banget_.
-
-![Padi Reborn](https://i0.wp.com/ikhwanalim.files.wordpress.com/2017/12/maxresdefault.jpg?resize=840,450)
 
 Untuk saat ini, dunia musik Indonesia, khususnya sobat Padi, masih _hype_ atas band legendaris Padi yang lahir kembali.
 Saat konser pulang kampung di Surabaya 10 November, ada kado kecil berupa single terbaru berjudul **Kau Malaikatku**. - [link](/assets/audio/padi-reborn-malaikatku.mp3)

@@ -18,7 +18,7 @@ subclass: 'post tag-desain'
 
 ## Logo Paciran Mesuwur
 
-Dalam pengerjaaan _remake_ ini tidak ada perubahan desain. Hanya vektorisasi logo akun instagram [@paciranmesuwur](https://www.instagram.com/paciranmesuwur). Dan penyesuaian font kata **'MESUWUR'** dan angka **'01 s/d 25'**, menggunakan font _*Mekanik LET_. Font untuk kata **'paciran'** tetap memakai gaya huruf dekoratif _Canterbury_
+Dalam pengerjaaan _remake_ ini tidak ada perubahan desain. Hanya vektorisasi logo akun instagram [@paciranmesuwur](https://www.instagram.com/paciranmesuwur). Dan penyesuaian font kata **'MESUWUR'** dan angka **'01 s/d 25'**, menggunakan font _Mekanik LET_. Font untuk kata **'paciran'** tetap memakai gaya huruf dekoratif _Canterbury_
 ![logo paciran mesuwur](https://i1.wp.com/www.paciran.com/assets/images/paciran-mesuwur-instagram.jpg?resize=450,450)
 Dalam file corel ada 2 halaman. Halaman 1 hanya kata "Paciran Mesuwur" warna hitam background putih untuk sablon kaos. Halaman 2 full logo warna putih dengan latar belakang hitam. Untuk keperluan repro gambar jpg resolusi tinggi yang bisa disesuaikan untuk keperluan publikasi.
 

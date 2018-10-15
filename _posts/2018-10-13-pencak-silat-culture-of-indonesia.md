@@ -20,7 +20,7 @@ Pencak silat atau silat adalah suatu seni bela diri tradisional yang berasal dar
 
 Desain menggunakan salah satu senjata yang menjadi ikon baru beladiri pencak silat. Ikon baru ini mulai dikenal di dunia barat sejak Film Merantau, yakni: _Kerambit_ atau _Karambit_. Lihat gambar kerambit yang sebenarnya (asli) [di sini](https://upload.wikimedia.org/wikipedia/commons/c/cc/Kerambit_knife_and_sheath.JPG).
 
-[![desain kaos hitam pencak silat](https://i0.wp.com/www.paciran.com/assets/images/silat-hitam.jpg)](assets/images/silat-hitam.jpg)
+[![desain kaos hitam pencak silat](https://i2.wp.com/www.paciran.com/assets/images/silat-hitam.jpg?resize=640,420)](assets/images/silat-hitam.jpg)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- AtasArtikel -->
@@ -33,7 +33,7 @@ Desain menggunakan salah satu senjata yang menjadi ikon baru beladiri pencak sil
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-[![desain kaos merah pencak silat](https://i0.wp.com/www.paciran.com/assets/images/silat-merah.jpg)](assets/images/silat-merah.jpg)
+[![desain kaos merah pencak silat](https://i2.wp.com/www.paciran.com/assets/images/silat-merah.jpg?resize=640,420)](assets/images/silat-merah.jpg)
 
 Pemakaian: bebas. Bisa untuk sablon kaos, stiker dan media publikasi lain. File vektor (CDR) bisa di minta dengan meninggalkan alamat e-mail di kolom komentar.
 

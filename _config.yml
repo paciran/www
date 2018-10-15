@@ -101,4 +101,4 @@ exclude:
 compress_html:
   clippings: all
   comments: all
-#  blanklines: true
+  blanklines: true

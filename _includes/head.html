@@ -1,6 +1,6 @@
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 <link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}{{ site.favicon }}" type="image/png" />
-<link rel="canonical" href="https://www.paciran.com/{{ page.url }}" />
+<link rel="canonical" href="https://www.paciran.com{{ page.url }}" />
 <meta name="referrer" content="no-referrer-when-downgrade" />
 {% if page.content and page.current == 'post' or page.current == 'about' %}
 {% assign excerpt = page.content | strip_html | truncatewords: 50, "" %}

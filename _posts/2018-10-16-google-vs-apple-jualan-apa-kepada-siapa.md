@@ -33,7 +33,7 @@ Google juga pasti bisa menyimpulkan pola kebiasaan kamu dari data yang dikumpulk
 
 Menjual akses informasi yang didapatkan dari kamu kepada orang lain atau pihak ketiga, adalah model bisnis Google. Namun (untungnya) bukan kepada lembaga pemerintahan maupun penyelidik prifat, karena mereka tidak akan mau membeli data sensitif ini dengan harga mahal. Mereka adalah yang merupakan _pioneer_ dalam model bisnis ini, yang kemudian ditiru dan dikembangkan lebih jauh oleh Facebook.
 
-[![Google Adsense](https://i0.wp.com/www.paciran.com/assets/google-Adsense.png?resize=640,320)](assets/google-Adsense.png)
+[![Google Adsense](https://i0.wp.com/www.paciran.com/assets/images/google-Adsense.png?resize=640,320)](assets/images/google-Adsense.png)
 
 Bisa dibilang bahwa Google, [mendapatkan penghasilan](https://www.paciran.com/jangan-ngeblog-kamu-gak-akan-kuat) yang sangat besar dengan menjual akses untuk melihat informasimu kepada orang yang ingin menjual sesuatu kepadamu.
 

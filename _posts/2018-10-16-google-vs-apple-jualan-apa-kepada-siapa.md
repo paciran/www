@@ -9,7 +9,7 @@ author: mukidi
 layout: post
 current: post
 navigation: True
-cover: assets/google-vs-apple.jpg
+cover: assets/images/google-vs-apple.jpg
 ---
 > "Why can Google give me unlimited storage for life and Apple charges for more than more 5Gb?"
 

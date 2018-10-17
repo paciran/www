@@ -12,7 +12,7 @@ navigation: True
 cover: False
 ---
 
-Senja telah menghitam, kini langit berganti wajah dengan jutaan bintik-bintik putih dalam kelam, Lawu seorang nelayan di desa pesisir, sedang duduk di teras rumahnya yang menghadap langsung ke laut. Laki-laki itu tidak bisa dia lama-lama menikmati pesona cahaya dan kilauan jutaan bintang malam itu.
+Senja telah menghitam, kini langit berganti wajah dengan jutaan bintik-bintik putih dalam kelam, Lawu seorang nelayan di desa pesisir, sedang duduk di teras rumahnya yang menghadap langsung ke laut. Laki-laki itu tidak bisa lama-lama menikmati pesona cahaya dan kilauan jutaan bintang malam itu.
 
 Dia mesti bergegas, bergelut dengan sang waktu untuk ngayum (menyulam) jaring, menyulam tiap sisi jaring yang rusak. Pada alat jaringnya, dia percaya ada kesaktian maha agung yang melebihi kekuatan dari segala senjata para kesatria.
 
@@ -21,7 +21,7 @@ Dia lebih mempercayai kesaktian alat jaring yang telah memberikan sumber kehidup
 Dahulu kala, pernah diwariskan padanya sebilah Keris pusaka oleh Ayahandanya. Saat memberi senjata tajam itu, bapaknya berpesan.
 “Simpan baik-baik Keris ini, Keris pusaka keluarga ini sakti mandraguna, nenek-moyangmu telah turun-temurun mendapatkan berkah dari kesaktiannya. Pergunakan Keris ini dengan bijaksana, dan jangan lupa untuk mencucinya pada bulan Suro.” Tutur bapaknya kala itu.
 
-Bila terkenan dengan pesan ayahandanya itu, Lawu suka tersenyum-senyum, teringat akan ulah bedugalnya sendiri, yang membuang Keris warisan itu di tengah lautan.
+Bila terkenang dengan pesan ayahandanya itu, Lawu suka tersenyum-senyum, teringat akan ulah bedugalnya sendiri, yang membuang Keris warisan itu di tengah lautan.
 
 Tanpa dia sadari, istrinya diam-diam telah memperhatikan tingkah lakunya, yang datang menghampirinya dengan secangkir kopi sambil berucap.
 “Kamu ini kenapa kok senyum-senyum sendiri to, Kang? ini minum kopi dulu, biar gak edan.”
@@ -55,7 +55,7 @@ Kini, Lawu mengambil posisi duduk lebih rapat dengan istrinya. Lantas dengan sik
 Belumlah selesai Lawu bicara, istrinya sudah lebih dulu memotong curahan hatinya.
 “Aku sudah terbawa suasana malam yang indah ini, dan mengira kamu akan merayuku, kang, lah dalah, Sampean kok malah mau bahas politik. Kalau tahu begini mah, lebih baik aku tidur duluan.”
 
-Seperti tersengat aliran listrik dengan tegangan tinggi, Lawu menatap wajah istrinya dan memasang wajah melasa, minta ampun dengan sungguh-sungguh.
+Seperti tersengat aliran listrik dengan tegangan tinggi, Lawu menatap wajah istrinya dan memasang wajah melas, minta ampun dengan sungguh-sungguh.
 “Maafkan, kangmas, karena telah membuatmu salah menduga, ini salahku karena tidak pandai membaca keinginan hati perempuan, Dek.”
 
 Dengan tangan yang masih digenggam oleh Lawu, istrinya berdiri, mengekspresikan wajah merajuk, hendak beranjak masuk ke dalam kamar, dan Lawu makin menggenggam erat tangan istrinya, untuk melanjutkan aji-aji melasnya.

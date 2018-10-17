@@ -1,7 +1,7 @@
 ---
 title: "Google vs Apple: Apa yang Dijual, Kepada Siapa?"
 description: Menelisik model bisnis Google dan Apple, apa yang mereka jual dan kepada siapa mereka menjual. Kenapa layanan Apple berbayar, sedangkan Google bisa gratis?
-date: 2018-10-17 23:37:03
+date: 2018-10-17 09:37:03
 last_updated: 2018-10-18 01:38:12
 tags: [internet, ekonomi]
 sub-class: [post, tag-internet]

@@ -1,8 +1,8 @@
 ---
 title: "Cerpen 2016: Bocah Blandit"
 description: Dahulu kala, pernah diwariskan padanya sebilah Keris pusaka oleh Ayahandanya
-date: 2018-10-17 21:00:03
-last_updated: 2018-10-17 23:38:12
+date: 2018-10-15 21:00:03
+last_updated: 2018-10-17 21:38:12
 tags: [fiksi, cerpen]
 sub-class: [post, tag-fiksi]
 author: sukadi
@@ -91,5 +91,4 @@ Dan tanpa dinyana, anaknya membalas dengan suara ngorok.
 
 “Bocah blandit.” Lawu pun memaki anaknya sendiri.
 
-
-_(editor: **jon mukidi**, cerpen ditulis pada 11 Desember 2016 di kirim ke paciran.com 17 Oktober 2018 )_{:.small}
+_(editor: **jon mukidi**, cerpen ditulis pada 11 Desember 2016 dipublikasikan di paciran.com 17 Oktober 2018 )_{:.small}

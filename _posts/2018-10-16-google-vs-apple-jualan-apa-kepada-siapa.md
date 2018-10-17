@@ -29,7 +29,7 @@ Semua aktivitas yang kamu lakukan dengan memakai semua layanan gratis yang dised
 
 Google juga pasti bisa menyimpulkan pola kebiasaan kamu dari data yang dikumpulkan. Semisal, jam berapa kamu mulai bekerja dan berapa jarak tempatmu bekerja dengan rumah kamu. Bisa jadi, Google juga tahu ketika kamu pernah/sedang berselingkuh. Informasi yang didapat dengan meng-gratis-kan semua layanannya ini bisa dikatakan bisa membuat organisasi agen mata-mata klasik, sebut saja KGB atau CIA, malu segaligus meneteskan air liur, iri.
 
-{% include respo.html }
+{% include respo.html %}
 
 Menjual akses informasi yang didapatkan dari kamu kepada orang lain atau pihak ketiga, adalah model bisnis Google. Namun (untungnya) bukan kepada lembaga pemerintahan maupun penyelidik prifat, karena mereka tidak akan mau membeli data sensitif ini dengan harga mahal. Mereka adalah yang merupakan _pioneer_ dalam model bisnis ini, yang kemudian ditiru dan dikembangkan lebih jauh oleh Facebook.
 

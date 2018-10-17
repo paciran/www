@@ -3,7 +3,7 @@ title: How to reset your Apple ID password
 description: "Having trouble logging in? Here's how to reset your Apple ID password"
 cover: assets/images/reset-apple-id-password-1200-700.jpg
 tags: [tutorial, apple id]
-date: 2018-09-03 19:45:00 +7
+date: 2018-09-03 19:45:00
 layout: post
 current: post
 navigation: True
@@ -14,8 +14,6 @@ author: mukidi
 
 Everyone with an iPhone, iPad, iPod, or Apple Watchhas an Apple ID. It’s essential to getting the most out of Apple’s services, including the iTunes Store, the App Store, Apple Music, and iCloud. An Apple ID isn’t the only account with credentials you need to be keeping track of these days, however, and as such, there’s always the possibility that you may forget certain login information — like your all-important password.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- AtasArtikel -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-8526606076277673"
@@ -25,7 +23,7 @@ Everyone with an iPhone, iPad, iPod, or Apple Watchhas an Apple ID. It’s essen
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Thankfully, there’s no need to panic if you do forget your Apple ID password, as it happens to all of us from time to time. When it happens to you, there are steps you can take to reset your Apple ID password, all of which are pretty straightforward. There’s no way for Apple to simply tell you what your current password is, though, not even through email. Instead, every method to deal with a forgotten Apple ID password involves resetting it completely. Here’s how. Once you get your Apple ID password reset, we have a guide to things you can do to make your iPhone safer.
+Thankfully, there’s no need to panic if you do forget your Apple ID password, as it happens to all of us from time to time. When it happens to you, there are steps you can take to **reset your Apple ID password**, all of which are pretty straightforward. There’s no way for Apple to simply tell you what your current password is, though, not even through email. Instead, every method to deal with a forgotten Apple ID password involves resetting it completely. Here’s how. Once you get your Apple ID password reset, we have a guide to things you can do to make your iPhone safer.
 
 ### Reset your password using the Apple ID account page
 

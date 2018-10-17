@@ -22,8 +22,6 @@ Dalam pengerjaaan _remake_ ini tidak ada perubahan desain. Hanya vektorisasi log
 ![logo paciran mesuwur](https://i1.wp.com/www.paciran.com/assets/images/paciran-mesuwur-instagram.jpg?resize=450,450)
 Dalam file corel ada 2 halaman. Halaman 1 hanya kata "Paciran Mesuwur" warna hitam background putih untuk sablon kaos. Halaman 2 full logo warna putih dengan latar belakang hitam. Untuk keperluan repro gambar jpg resolusi tinggi yang bisa disesuaikan untuk keperluan publikasi.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- AtasArtikel -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-8526606076277673"

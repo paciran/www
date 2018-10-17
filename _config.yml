@@ -1,9 +1,19 @@
 # Jekyll configuration
 markdown: kramdown
+language: 'id-ID'
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 highlighter: rouge
-paginate: 100 # it will paginate after this number
-language: 'en-uk'
-
+paginate: 50 # it will paginate after this number
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md,txt"
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 # Website info
 
@@ -39,6 +49,7 @@ google_analytics: UA-127077893-1
 
 # Permalinks
 permalink: /:title
+timezone: Indonesia/Jakarta
 # permalink: /author/:author
 # permalink: /tag/:tag
 
@@ -47,7 +58,7 @@ permalink: /:title
 
 # gems and other configs
 plugins_dir: [_plugins]
-plugins: [jekyll-paginate, jekyll-feed, jekyll-seo-tag]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-sitemap]
 
 feed:
   path: feed.xml
@@ -97,7 +108,16 @@ exclude:
   - changelog.md
   - "*.Rmd"
   - .git*
- 
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      current: post
+      navigation: True
+      class: post-template
 compress_html:
   clippings: all
   comments: all

@@ -7,7 +7,7 @@ date: 2018-08-08 09:00:00
 class: post-template
 subclass: 'post tag-menulis'
 author: mukidi
-title: Jangan ngeBlog Kamu Gak Akan Kuat
+title: Jangan nge-Blog Kamu Gak Akan Kuat
 description: Catatan saat hanya membelitkan handuk sembari tiduran setelah mandi siang. Berusaha meng-koreksi diri.
 tags: [menulis, adblock]
 ---

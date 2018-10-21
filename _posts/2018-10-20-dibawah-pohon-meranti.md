@@ -3,9 +3,9 @@ title: "Cerpen 2014: Di bawah Pohon Meranti"
 description: Singa muda itu meradang, tak terima jiwa satrianya dilecehkan mentah-mentah oleh seekor burung dara.
 layout: post
 current: post
-cover: /assets/images/padi-reborn.jpg
+cover: False
 navigation: True
-date: 2018-08-08 09:00:00
+date: 2018-10-20 09:00:00
 class: post-template
 tags: [fiksi, fables]
 subclass: 'post tag-fables'
@@ -37,6 +37,8 @@ Sapari maklum, kepalanya menunduk takdim tanda memberi hormat. Dengan lemah lemb
 Mata raja singa melotot, wibawanya tercoreng oleh tingkah laku burung dara yang lihai. Dengan mimik wajah serius, raja singa menimpali. “Aku singa, sang raja hutan di rimba belantara ini. Aku tak punya rasa khawatir, rasa khawatir itu hanya ada pada mangsa-mangsa ku, seperti kau burung sok tahu dan sombong.”
 
 Sapari mengepakkan satu sayapnya ke dada--dengan pelan kepalanya menunduk lebih rendah, memberi hormat pada sang raja hutan. “Mohon beribu ampun paduka raja, bila hamba telah lancang bicara. Benar, tiada yang salah, apa yang sudah paduka raja katakan itu, hanya pada kamilah yang lebih lemah untuk selalu cemas dan khawatir. Barangkali paduka raja belum tahu. Apakah paduka tak lihat di seberang hutan ini ada puluhan manusia. Hanya puluhan paduka, tak sampai seratus, belumlah sampai jutaan jumlahnya, itu akan lebih mengkhawatir lagi, gawat. Bila paduka raja tak bersahabat dengan semua hewan di hutan ini. Maka akan semakin cepat hutan ini akan dikuasai oleh manusia.”
+
+![lion king disney]{https://dettoldisney.files.wordpress.com/2013/07/the-lion-king-original.jpg?w=700&h=450)
 
 Raja singa tertawa, gigi-gigi taringnya terlihat. “Ha-ha-ha, Ha-ha-ha. Wahai rakyatku sekalian, kalian sudah dengar apa yang dikatakan oleh burung tak elok ini." Dan kawanan singa itu ikut tertawa.
 
@@ -78,19 +80,19 @@ Dalam kalut dia berteriak pekak. "Kenapa kalian tembak, singa itu!" Jerit pilu b
 
 "Justru kami sedang menyelamatkan nyawamu dari terkaman singa itu, goblok!" Sergah kakaknya dengan ketus.
 
-Bercak merah menyala menyolok pandangan mata, di tanah dan rerumputan di bawah pohon meranti masih segar diingatan bocah kecil itu. Meski singa malang itu tak lagi di sana. Jasadnya telah berpindah tempat ke dalam gerobak yang ditarik dua ekor kuda.
-
+Bercak merah menyala menyolok pandangan mata, di tanah dan rerumputan [di bawah pohon meranti](https://www.paciran.com/di-bawah-pohon-meranti) masih segar diingatan bocah kecil itu. Meski singa malang itu tak lagi di sana. Jasadnya telah berpindah tempat ke dalam gerobak yang ditarik dua ekor kuda.
 
 Tamat.
+<hr />
 
-************
-
-Awalnya dongeng ini sudah pernah aku tulis lewat pesan singkat atau bisa dikatakan aku ceritakan pada orang lain. Aku hanya bisa mengingat tahunnya, saat itu tahun 2014. Tanggal dan bulannya aku sudah lupa. Seingatku kala menulis kisah ini saat malam, lebih tepatnya dini hari .
-
-Maksudku saat itu aku sedang bingung harus bercerita tentang hewan apa. Cerita di atas ide awalnya sebagai pengantar tidur untuk seseorang, (ora usah dadak baper) itu kenapa aku linglung pada awalnya.
-
-Lalu daya imajinasi diri ini memunculkan gambaran burung, singa, hutan belantara dan tentu saja manusia dengan segala sifat ambisi dan naifnya. Daya khayalku kala itu terkenang dengan dongeng lama saat masih duduk di bangku TK dulu.
-
-Meski tidak secepat kilat tangan ini mengetik dengan sendirinya. Hasilnya seperti yang kalian baca di atas. Tentu saja sesudah aku edit di sana-sini terlebih dahulu.
-
-Semoga kalian yang sudah baca kisah ini tidak jadi tidur. Jangan tanya! kenapa endingnya Tidak, jelas terkesan dipotong. Pada hakekatnya memang sengaja saya potong, sebab saya bukan dalang kentrung. Kalau tidak saya potong seperti itu, saya sendiri yang tidak tidur, tidur.
+> Catatan penulis: Awalnya [dongeng](/tag/fables) ini sudah pernah aku tulis lewat pesan singkat atau bisa dikatakan aku ceritakan pada orang lain. Aku hanya bisa mengingat tahunnya, saat itu tahun 2014. Tanggal dan bulannya aku sudah lupa. Seingatku kala menulis kisah ini saat malam, lebih tepatnya dini hari .
+>
+> Maksudku saat itu aku sedang bingung harus bercerita tentang hewan apa. Cerita di atas ide awalnya sebagai pengantar tidur untuk seseorang, (ora usah dadak baper) itu kenapa aku linglung pada awalnya.
+>
+> Lalu daya imajinasi diri ini memunculkan gambaran burung, singa, hutan belantara dan tentu saja manusia dengan segala sifat ambisi dan naifnya. Daya khayalku kala itu terkenang dengan dongeng lama saat masih duduk di bangku TK dulu.
+>
+> Meski tidak secepat kilat tangan ini mengetik dengan sendirinya. Hasilnya seperti yang kalian baca di atas. Tentu saja sesudah aku edit di sana-sini terlebih dahulu.
+>
+> Semoga kalian yang sudah baca kisah ini tidak jadi tidur. Jangan tanya! kenapa endingnya Tidak, jelas terkesan dipotong. Pada hakekatnya memang sengaja saya potong, sebab saya bukan dalang kentrung. Kalau tidak saya potong seperti itu, saya sendiri yang tidak tidur, tidur.
+>
+> komentar editor: Ada rekomendasi bacaan yang bagus berjudul _[Disney vs Nature #3: The Lion King](https://dettoldisney.wordpress.com/2013/08/17/disney-vs-nature-3-the-lion-king/)_, di artikel ini, editor juga menemukan gambar ilustrasi untuk ccerpen ini.

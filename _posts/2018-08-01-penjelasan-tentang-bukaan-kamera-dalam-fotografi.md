@@ -13,8 +13,6 @@ subclass: 'post tag-fotografi'
 author: mukidi
 ---
 
-![Camera Lens - What is Appertures?](https://i0.wp.com/attach.en.miui.com/image/004/72/52/43_2000_550.jpg?resize=720,360)
-
 {% include adsense1.html %}
 
 Banyak orang menyukai fotografi, tetapi apakah Anda tahu pengetahuan paling dasar tentang fotografi? Artikel ini terutama memperkenalkan fungsi, jenis, dan metrik bukaan.
@@ -27,7 +25,8 @@ Bukaan (Inggris: Apperture) mengacu pada pembukaan diafragma lensa melalui cahay
 
 Bukaan dapat disesuaikan untuk mengontrol jumlah cahaya ke permukaan sensitif dari lensa ke dalam tubuh kamera, yang merupakan indeks penting untuk kamera dan di dalam lensa pada umumnya. Ukurannya akan mengatur jumlah cahaya yang masuk ke _komponen peka cahaya_ melalui lensa.
 
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8526606076277673" data-ad-slot="8771412334" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
+![Camera Lens - What is Appertures?](https://i0.wp.com/attach.en.miui.com/image/004/72/52/43_2000_550.jpg?resize=720,360)
 
 ## Jenis-jenis Apertures
 
@@ -35,13 +34,15 @@ Bukaan dapat disesuaikan untuk mengontrol jumlah cahaya ke permukaan sensitif da
 
 Kamera paling sederhana memiliki bukaan tetap dengan hanya satu lubang — **Walter Houser Aperture**.
 
-### 2. Bukaan Variabel:
+### 2. Variabel apperture:
 
 Hanya serangkaian ukuran lubang melingkar yang berbeda yang disusun di sekitar cakram dengan poros pusat; rotasi disk dapat memindahkan ukuran lubang melingkar yang sesuai pada sumbu optik untuk mencapai efek aperture kontrol. Di pertengahan abad ke-19, John Walter Houser menemukan celah ini.
 
 ### 3. Aperture Cat-Eye:
 
 Hal ini dipisahkan dari dua komponen oleh lembaran logam tipis dengan lubang berbentuk oval atau berlian di pusatnya, membuat dua lembaran logam tipis dengan lubang semi-elips atau semi-berlian berbentuk menentang diatur dan gerakan relatif dapat membentuk Cat-Eye Bukaan yang umum digunakan untuk kamera sederhana.
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8526606076277673" data-ad-slot="8771412334" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 ### 4. Iris-tipe aperture:
 
@@ -69,5 +70,5 @@ Setiap dua blok yang jumlah perjalanan cahaya dengan perbedaan ganda.Sebagai con
 
 Saat ini, lensa di bidang telepon selular dapat dicapai bahwa aperture maksimum adalah F1.8 yang merupakan mainstream untuk standar aperture besar di bidang kamera digital juga dan efek foto yang lebih cerah dan hidup yang halus.
 
-Sumber: [English MIUI Forum](//en.miui.com/forum)
+> Sumber: [English MIUI Forum](//en.miui.com/forum), pernah dipublikasikan di situs [Mi Fans Lamongan](https://mi.knoacc.org/) sebelum dipindahkan ke paciran.com.
 {:.notice.notice--info}

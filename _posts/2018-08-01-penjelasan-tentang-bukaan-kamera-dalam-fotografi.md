@@ -1,10 +1,16 @@
 ---
 title: "Penjelasan Lengkap Tentang Camera Aperture"
 description: "Semua yang perlu kamu tahu tentang bukaan kamera. Perdalam pengetahuan fotografi kamu di sini"
-cover: False
-tags:[fotografi, tutorial]
-date: 2018-08-01 00:00:04 +7
-last_modified: 2018-10-16 17:05:00 +7
+tags: [fotografi, tutorial]
+date: 2018-08-01 00:00:04
+last_updated: 2018-10-16 17:05:00
+layout: post
+current: post
+cover: /assets/images/lensa-kamera-dslr.jpeg
+navigation: True
+class: post-template
+subclass: 'post tag-fotografi'
+author: mukidi
 ---
 
 ![Camera Lens - What is Appertures?](https://i0.wp.com/attach.en.miui.com/image/004/72/52/43_2000_550.jpg?resize=720,360)

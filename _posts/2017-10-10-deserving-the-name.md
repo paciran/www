@@ -14,6 +14,15 @@ author: infiroh
 
 Live Up to Your Name adalah serial televisi Korea Selatan bergenre fantasi medis tahun 2017 yang dibintangi Kim Nam-gil dan Kim Ah-joong tentang dokter terampil abad ke-17 dan 21. Serial ini menandai kembalinya layar kecil Kim Nam-gil setelah empat tahun.
 
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8526606076277673"
+     data-ad-slot="8771412334"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins><script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Episode pertama: 12 Agustus 2017
 Episode terakhir: 1 Oktober 2017
 Judul asli: 명불허전

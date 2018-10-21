@@ -95,4 +95,4 @@ Meski tidak secepat kilat tangan ini mengetik dengan sendirinya. Hasilnya sepert
 
 Semoga kalian yang sudah baca kisah ini tidak jadi tidur. Jangan tanya! kenapa endingnya Tidak, jelas terkesan dipotong. Pada hakekatnya memang sengaja saya potong, sebab saya bukan dalang kentrung. Kalau tidak saya potong seperti itu, saya sendiri yang tidak tidur, tidur.
 
-> Dari [editor](/author/mukidi): Ada rekomendasi bacaan yang bagus berjudul _[Disney vs Nature #3: The Lion King](https://dettoldisney.wordpress.com/2013/08/17/disney-vs-nature-3-the-lion-king/)_, di artikel ini, editor juga menemukan gambar ilustrasi untuk ccerpen ini.
+> Dari [editor](/author/mukidi): Ada rekomendasi bacaan yang bagus berjudul _[Disney vs Nature #3: The Lion King](https://dettoldisney.wordpress.com/2013/08/17/disney-vs-nature-3-the-lion-king/)_, di artikel ini, editor juga menemukan gambar ilustrasi.

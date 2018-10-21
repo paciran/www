@@ -73,6 +73,8 @@ Subtitle via <a href="https://subscene.com/subtitles/live-up-to-your-name-dr-heo
 
 #### Episode 8
 
+{% include respo.html %}
+
 360p : [drive](https://mi.knoacc.org/dl/drive?id=0B387gMJkFaWzUjVkMXFMOTVIa00) [openload](https://mi.knoacc.org/dl/any?dom=oload.stream&code=eohnTwhYu7o&name=Deserving.of.the.Name.E08.360p.mp4) 
 720p : [drive](https://mi.knoacc.org/dl/drive?id=0B387gMJkFaWzeGtiVXFNNVR5SkE) [openload](https://mi.knoacc.org/dl/any?dom=oload.stream&code=1HbYp2a53uA&name=Deserving.of.the.Name.E08.720p.mp4) 
 
@@ -115,7 +117,10 @@ Subtitle via <a href="https://subscene.com/subtitles/live-up-to-your-name-dr-heo
 
 360p : [drive](https://mi.knoacc.org/dl/drive?id=0B387gMJkFaWzQzctNXpsMGxDUlE) [openload](https://mi.knoacc.org/dl/any?dom=oload.stream&code=SI_u-OgmKoA&name=Deserving.of.the.Name.E16.end.360p.mp4)
 720p : [drive](https://mi.knoacc.org/dl/drive?id=0B387gMJkFaWzaHAyNjlwLUNoeFU) 
-END
+
+### END
+
+{% include adsense1.html %}
 
 ### Subtitle
 

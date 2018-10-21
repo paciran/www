@@ -2,6 +2,7 @@
 title: Deserving The Name
 description: "Live Up to Your Name (Deserving The Name) adalah serial televisi Korea Selatan bergenre fantasi medis tahun 2017"
 tags: [fiksi, drakor]
+date: 2017-10-10 10:10:10
 layout: post
 current: post
 cover: False

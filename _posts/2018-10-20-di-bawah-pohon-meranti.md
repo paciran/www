@@ -38,7 +38,7 @@ Mata raja singa melotot, wibawanya tercoreng oleh tingkah laku burung dara yang 
 
 Sapari mengepakkan satu sayapnya ke dada--dengan pelan kepalanya menunduk lebih rendah, memberi hormat pada sang raja hutan. “Mohon beribu ampun paduka raja, bila hamba telah lancang bicara. Benar, tiada yang salah, apa yang sudah paduka raja katakan itu, hanya pada kamilah yang lebih lemah untuk selalu cemas dan khawatir. Barangkali paduka raja belum tahu. Apakah paduka tak lihat di seberang hutan ini ada puluhan manusia. Hanya puluhan paduka, tak sampai seratus, belumlah sampai jutaan jumlahnya, itu akan lebih mengkhawatir lagi, gawat. Bila paduka raja tak bersahabat dengan semua hewan di hutan ini. Maka akan semakin cepat hutan ini akan dikuasai oleh manusia.”
 
-![lion king disney]{https://dettoldisney.files.wordpress.com/2013/07/the-lion-king-original.jpg?w=700&h=450)
+![lion king disney](https://dettoldisney.files.wordpress.com/2013/07/the-lion-king-original.jpg?w=700&h=450)
 
 Raja singa tertawa, gigi-gigi taringnya terlihat. “Ha-ha-ha, Ha-ha-ha. Wahai rakyatku sekalian, kalian sudah dengar apa yang dikatakan oleh burung tak elok ini." Dan kawanan singa itu ikut tertawa.
 

@@ -85,14 +85,14 @@ Bercak merah menyala menyolok pandangan mata, di tanah dan rerumputan [di bawah 
 Tamat.
 <hr />
 
-> Catatan penulis: Awalnya [dongeng](/tag/fables) ini sudah pernah aku tulis lewat pesan singkat atau bisa dikatakan aku ceritakan pada orang lain. Aku hanya bisa mengingat tahunnya, saat itu tahun 2014. Tanggal dan bulannya aku sudah lupa. Seingatku kala menulis kisah ini saat malam, lebih tepatnya dini hari .
->
-> Maksudku saat itu aku sedang bingung harus bercerita tentang hewan apa. Cerita di atas ide awalnya sebagai pengantar tidur untuk seseorang, (ora usah dadak baper) itu kenapa aku linglung pada awalnya.
->
-> Lalu daya imajinasi diri ini memunculkan gambaran burung, singa, hutan belantara dan tentu saja manusia dengan segala sifat ambisi dan naifnya. Daya khayalku kala itu terkenang dengan dongeng lama saat masih duduk di bangku TK dulu.
->
-> Meski tidak secepat kilat tangan ini mengetik dengan sendirinya. Hasilnya seperti yang kalian baca di atas. Tentu saja sesudah aku edit di sana-sini terlebih dahulu.
->
-> Semoga kalian yang sudah baca kisah ini tidak jadi tidur. Jangan tanya! kenapa endingnya Tidak, jelas terkesan dipotong. Pada hakekatnya memang sengaja saya potong, sebab saya bukan dalang kentrung. Kalau tidak saya potong seperti itu, saya sendiri yang tidak tidur, tidur.
->
-> komentar editor: Ada rekomendasi bacaan yang bagus berjudul _[Disney vs Nature #3: The Lion King](https://dettoldisney.wordpress.com/2013/08/17/disney-vs-nature-3-the-lion-king/)_, di artikel ini, editor juga menemukan gambar ilustrasi untuk ccerpen ini.
+Catatan penulis: Awalnya [dongeng](/tag/fables) ini sudah pernah aku tulis lewat pesan singkat atau bisa dikatakan aku ceritakan pada orang lain. Aku hanya bisa mengingat tahunnya, saat itu tahun 2014. Tanggal dan bulannya aku sudah lupa. Seingatku kala menulis kisah ini saat malam, lebih tepatnya dini hari .
+
+Maksudku saat itu aku sedang bingung harus bercerita tentang hewan apa. Cerita di atas ide awalnya sebagai pengantar tidur untuk seseorang, (ora usah dadak baper) itu kenapa aku linglung pada awalnya.
+
+Lalu daya imajinasi diri ini memunculkan gambaran burung, singa, hutan belantara dan tentu saja manusia dengan segala sifat ambisi dan naifnya. Daya khayalku kala itu terkenang dengan dongeng lama saat masih duduk di bangku TK dulu.
+
+Meski tidak secepat kilat tangan ini mengetik dengan sendirinya. Hasilnya seperti yang kalian baca di atas. Tentu saja sesudah aku edit di sana-sini terlebih dahulu.
+
+Semoga kalian yang sudah baca kisah ini tidak jadi tidur. Jangan tanya! kenapa endingnya Tidak, jelas terkesan dipotong. Pada hakekatnya memang sengaja saya potong, sebab saya bukan dalang kentrung. Kalau tidak saya potong seperti itu, saya sendiri yang tidak tidur, tidur.
+
+> Dari [editor](/author/mukidi): Ada rekomendasi bacaan yang bagus berjudul _[Disney vs Nature #3: The Lion King](https://dettoldisney.wordpress.com/2013/08/17/disney-vs-nature-3-the-lion-king/)_, di artikel ini, editor juga menemukan gambar ilustrasi untuk ccerpen ini.

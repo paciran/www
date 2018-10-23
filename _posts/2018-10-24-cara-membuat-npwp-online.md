@@ -41,7 +41,7 @@ Langkah pertama yang perlu kamu lakukan adalah membuat akun di [Ereg Pajak](htt
 
 Setelah memiliki akun di Ereg Pajak, kamu perlu mengidentifikasi atau dengan kata lain mengetahui jenis atau kategori NPWP mana yang akan kamu buat. Secara umum, ada **tiga kategori wajib pajak** yang akan dikenakan sesuai dengan pekerjaan, badan usaha atau kondisi keluarga dari orang yang akan membuat NPWP.
 
-{% include alt="persyaratan npwp online" url="https://assets.jalantikus.com/assets/cache/650/450/userfiles/2018/08/10/cara-membuat-npwp-online-2-fa792.jpg" caption="Sumber foto: ShopBack" %}
+{% include figuretml alt="persyaratan npwp online" url="https://assets.jalantikus.com/assets/cache/650/450/userfiles/2018/08/10/cara-membuat-npwp-online-2-fa792.jpg" caption="Sumber foto: ShopBack" %}
 
 Berikut ini adalah tiga kategori wajib pajak yang harus kamu ketahui beserta berkas apa saja yang harus kamu siapkan sebagai persyaratan yang harus dipenuhi. Kamu selanjutnya harus mengunggah dokumen-dokumen ini ke [Ereg Pajak](https://ereg.pajak.go.id/login) untuk melanjutkan proses pembuatan NPWP.
 
@@ -93,7 +93,7 @@ Saking pentingnya dokumen yang satu ini, bahkan jika suatu saat kamu mengalami 
 
 Lalu bagaimana jika masih ada orang-orang yang entah karena malas atau tidak tahu, mereka tidak punya NPWP? Apakah akan mempengaruhi penghasilan mereka? Atau adakah hukum yang bisa menjerat orang-orang tanpa NPWP? Berikut beberapa hal yang bisa terjadi untuk kamu yang memiliki penghasilan secara konsisten, tidak memiliki kartu NPWP.
 
-{% include alt="hukum, npwp" url"https://assets.jalantikus.com/assets/cache/650/450/userfiles/2018/08/10/hukum-npwp-0d339.jpg" caption="Sumber foto: iStock" %}
+{% include figure.html alt="hukum, npwp" url"https://assets.jalantikus.com/assets/cache/650/450/userfiles/2018/08/10/hukum-npwp-0d339.jpg" caption="Sumber foto: iStock" %}
 
 Yang pertama, kamu akan terkena potongan pajak penghasilan yang lebih tinggi jika dibandingkan dengan orang yang memiliki NPWP. Bahkan, tarif pajak buat kamu yang tergolong tanpa NPWP adalah sebesar 20% lebih tinggi dari tarif normal. Padahal, pajak penghasilan menurut Undang-Undang Pasal 21 hanyalah sebesar 5%. Ngeri kan? Makanya segera buat NPWP secara online!
 
@@ -103,4 +103,4 @@ Dari segi hukum, kamu bisa terkena beberapa sanksi hingga ancaman kurungan penj
 
 Itulah langkah-langkah cara membuat NPWP online dengan mudah dan tentunya lengkap. Kini tak ada lagi alasan untuk kamu lupa atau tidak sama sekali membayar pajak. Apalagi dengan cara mendaftar yang terbilang sangat mudah, kamu harusnya sudah jadi salah satu warga negara yang baik dengan memiliki NPWP dan taat membayar pajak. Setuju?
 
-Banner: KlikPajak
+_Suber gambar banner: KlikPajak_

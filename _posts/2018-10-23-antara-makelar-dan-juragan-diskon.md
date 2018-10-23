@@ -3,7 +3,7 @@ layout: post
 current: post
 class: post-template
 subclass: [post, tag-olahraga]
-tags: [olahraga, sosial]
+tags: [olahraga, romansa]
 author: sukadi
 editor: mukidi
 cover: False

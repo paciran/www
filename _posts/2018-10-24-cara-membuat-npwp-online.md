@@ -93,7 +93,7 @@ Saking pentingnya dokumen yang satu ini, bahkan jika suatu saat kamu mengalami 
 
 Lalu bagaimana jika masih ada orang-orang yang entah karena malas atau tidak tahu, mereka tidak punya NPWP? Apakah akan mempengaruhi penghasilan mereka? Atau adakah hukum yang bisa menjerat orang-orang tanpa NPWP? Berikut beberapa hal yang bisa terjadi untuk kamu yang memiliki penghasilan secara konsisten, tidak memiliki kartu NPWP.
 
-{% include figure.html alt="hukum, npwp" url"https://assets.jalantikus.com/assets/cache/650/450/userfiles/2018/08/10/hukum-npwp-0d339.jpg" caption="Sumber foto: iStock" %}
+{% include figure.html alt="hukum, npwp" url="https://assets.jalantikus.com/assets/cache/650/450/userfiles/2018/08/10/hukum-npwp-0d339.jpg" caption="Sumber foto: iStock" %}
 
 Yang pertama, kamu akan terkena potongan pajak penghasilan yang lebih tinggi jika dibandingkan dengan orang yang memiliki NPWP. Bahkan, tarif pajak buat kamu yang tergolong tanpa NPWP adalah sebesar 20% lebih tinggi dari tarif normal. Padahal, pajak penghasilan menurut Undang-Undang Pasal 21 hanyalah sebesar 5%. Ngeri kan? Makanya segera buat NPWP secara online!
 

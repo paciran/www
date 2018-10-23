@@ -2,7 +2,7 @@
 layout: post
 current: post
 class: post-template
-subclass: [post, post-olahraga]
+subclass: [post, tag-olahraga]
 tags: [olahraga, sosial]
 author: sukadi
 editor: mukidi

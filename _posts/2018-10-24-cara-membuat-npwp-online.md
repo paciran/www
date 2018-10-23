@@ -2,7 +2,7 @@
 layout: post
 current: post
 class: post-template
-subclass: [post, post-tutorial]
+subclass: [post, tag-tutorial]
 tags: [tutorial, npwp, internet]
 author: mukidi
 # editor: mukidi

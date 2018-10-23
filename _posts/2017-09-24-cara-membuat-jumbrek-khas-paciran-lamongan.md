@@ -1,6 +1,6 @@
 ---
 layout: post
-current: post
+current: kuliner
 class: post-template
 cover: assets/images/jumbreg-celorot.jpg
 title: "Cara Membuat Jumbreg Khas Paciran Lamongan"
@@ -8,8 +8,8 @@ excerpt: Percayalah makanan yang terbuat dari campuran tepung beras, santan, dan
 author: infiroh
 date: 2017-03-04 08:11:00 +7
 last_updated: 2018-10-11 00:11:00 +7
-tags: [kuliner, khas paciran]
-subclass: 'post tag-romansa'
+tags: [kuliner, tutorial]
+subclass: 'post tag-kuliner'
 navigation: True
 ---
 

@@ -10,7 +10,7 @@ cover: False
 title: "Antara Makelar & Juragan Diskon"
 description: "Sebagaimana kilau redup senja, datangnya sibuk menyeret-nyeret kerinduan, begitu juga kekalahan dan tragedi"
 date: 2018-10-23 23:00:01 +-7
-----
+---
 
 Kisah tragedi salam jari tengah ini benar-benar berbarengan dengan perhelatan akbar sepakbola sejagat. Kala itu gelaran pesta sepakbola piala dunia sudah masuk babak akhir penyisihan grup. Pada laga terakhir penyisihan grup F piala dunia 2018. Laga krusial itu berlangsung di stadion Kazan Arena. Rusia. Rabu 27 Juni 2018.
 

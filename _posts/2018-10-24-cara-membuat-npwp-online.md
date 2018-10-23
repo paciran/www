@@ -16,7 +16,9 @@ Sebagai warga negara yang baik, sudah sepatutnya kita menaati berbagai aturan d
 
 Untuk bisa membayar pajak, kamu yang sudah memiliki pekerjaan maupun usaha haruslah memiliki NPWP.
 
-NPWP alias Nomor Pokok Wajib Pajakmenurut situs resmi [Online Pajak](https://www.online-pajak.com/) adalah rangkaian nomor seri yang digunakan kantor pajak untuk mengidentifikasi para wajib pajak, baik orang pribadi maupun badan. Lalu gimana cara mendapatkan kartu yang dikeluarkan Direktorat Wajib Pajak ini? Tenang! Berikut ini adalah panduan  langkah demi langkah cara daftar pajak online secara lengkap.
+{% include adsense1.html %}
+
+NPWP alias Nomor Pokok Wajib Pajakmenurut situs resmi [Online Pajak](https://www.online-pajak.com/) adalah rangkaian nomor seri yang digunakan kantor pajak untuk mengidentifikasi para wajib pajak, baik orang pribadi maupun badan. Lalu gimana cara mendapatkan kartu yang dikeluarkan Direktorat Wajib Pajak ini? Tenang! Berikut ini adalah panduan  langkah demi langkah cara daftar pajak online secara lengkap.
 
 > Sudah punya e-KTP belum? Penting banget loh segera buat, kalau sudah coba cara cek e KTP online 2018 berikut:
 > [Cek Data E-KTP dengan Mudah di Sini!](/cara-cek-data-e-ktp-mudah)
@@ -78,6 +80,8 @@ Selesai mengirim berkas, kamu masih harus menunggu email konfirmasi untuk bisa m
 Setelah menyelesaikan pengisian formulir dan melengkapi berkas-berkas yang diminta, kamu kemudian tinggal menunggu karena kartu NPWP kamu akan segera diproses alias dibuat. Jika nantinya sudah selesai, kartu NPWP bisa kamu ambil ke kantor pajak terdekat yang ada di daerah tempat tinggal kamu atau kantor yang kamu daftarkan dalam formulir.
 
 Mudah banget kan cara membuat NPWP online ini? Yuk buruan cobain buat NPWP sekarang!
+
+{% include respo.html %}
 
 ## Kenapa Perlu Membuat NPWP Online?
 

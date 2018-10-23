@@ -8,7 +8,7 @@ author: sukadi
 editor: mukidi
 cover: False
 title: "Antara Makelar & Juragan Diskon"
-description: Sebagaimana kilau redup senja, datangnya sibuk menyeret-nyeret kerinduan, begitu juga kekalahan dan tragedi"
+description: "Sebagaimana kilau redup senja, datangnya sibuk menyeret-nyeret kerinduan, begitu juga kekalahan dan tragedi"
 date: 2018-10-23 23:00:01 +-7
 ----
 

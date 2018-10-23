@@ -7,7 +7,7 @@ tags: [tutorial, npwp, internet]
 author: mukidi
 # editor: mukidi
 date: 2018-10-24 04:18:20 +7
-cover: assets/images/npwp.jpg
+cover: assets/images/cara-membuat-npwp.jpg
 title: Cara Membuat NPWP Online Mudah dan Lengkap
 description: Nomor Pokok Wajib Pajak atau NPWP adalah salah satu dokumen penting yang wajib dimiliki seorang warga negara yang memiliki pekerjaan atau usaha pribadi. Berikut ini uraian cara membuat NPWP online secara mudah, lengkap dengan berkas-berkas yang harus disiapkan.
 ---

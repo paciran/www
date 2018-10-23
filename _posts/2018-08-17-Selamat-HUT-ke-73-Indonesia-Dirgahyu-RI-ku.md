@@ -1,6 +1,6 @@
 ---
 layout: post
-current: post
+current: menulis
 cover:  assets/images/dirgahayuRI.jpg
 navigation: True
 title: "Selamat HUT ke-73, Dirgahayu RI-ku!"

@@ -1,6 +1,6 @@
 ---
 layout: post
-current: post
+current: romansa
 class: post-template
 cover: assets/images/visit-Paciran.jpg
 title: "Wisata hati, Wisata diri; Eksotisme Kecamatan Paciran"

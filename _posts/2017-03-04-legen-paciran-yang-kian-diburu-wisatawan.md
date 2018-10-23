@@ -7,9 +7,10 @@ cover: assets/images/cematan-siwalan.jpg
 title: Legen Paciran yang Kian Diburu Wisatawan
 excerpt: Kata Légen sendiri berasal dari kata dasar legi (bahasa Jawa) yang artinya manis. Karena pada dasarnya memang minuman ini akan berasa sangat manis dan segar bila diminum ketika baru disadap dari pohonnya langsung
 author: itmam
+editor: mukidi
 date: 2017-03-04 08:11:00 +7
 last_updated: 2018-10-11 00:11:00 +7
-tags: [kuliner, khas paciran]
+tags: [kuliner, budaya]
 navigation: True
 ---
 _**Légen**_ adalah salah satu nama minuman tradisional yang yang diambil dari bagian pohon siwalan atau biasa disebut dengan istilah cematan oleh masyarakat Paciran. Diakui atau tidak seiring dengan pesatnya perkembangan pariwisata di kawasan Paciran turut meroketkan minuman tradisional ini menjadi salah satu icon kuliner dari desa Paciran Kecamatan Paciran Kabupaten Lamongan dan menjadi buruan utama wisatawan. Meskipun ternyata bukan hanya kawasan Paciran saja yang menjadi habitat tumbuh kembang dari tanaman pohon siwalan ini, karena hampir di sepanjang pantura sekitar wilayah Jawa Tengah dan Jawa Timur, Indonesia. Kita bisa menemukan banyak sekali pohon ini tumbuh, mengingat pohon yang masuk kategori palem-paleman ini memang sangatlah cocok di kawasan tropis seperti sepanjang jalan pantura ini

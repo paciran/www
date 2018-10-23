@@ -1,11 +1,11 @@
 ---
 title: "Penjelasan Lengkap Tentang Camera Aperture"
 description: "Semua yang perlu kamu tahu tentang bukaan kamera. Perdalam pengetahuan fotografi kamu di sini"
-tags: [fotografi, tutorial]
+tags: [fotografi]
 date: 2018-08-01 00:00:04
 last_updated: 2018-10-16 17:05:00
 layout: post
-current: post
+current: fotografi
 cover: /assets/images/lensa-kamera-dslr.jpeg
 navigation: True
 class: post-template

@@ -1,12 +1,13 @@
 ---
 layout: post
-current: post
+current: romansa
 class: post-template
 permalink: 2016/02/negeri-seribu-surau.html
 cover: assets/images/paciran-seribu-surau.jpg
 title: "Desa Paciran, Negeri Seribu Surau"
 excerpt: Paciran bisa jadi merupakan kawasan paling religius di kabupaten Lamongan, hampir setiap RT di desa Paciran memiliki musholla-nya sendiri
 author: itmam
+editor: mukidi
 date: 2016-02-03 11:11:00 +7
 last_updated: 2018-10-11 00:11:00 +7
 tags: [romansa, religi]
@@ -29,4 +30,3 @@ Hal ini juga-lah yang menjadi tren positif dimana ketika waktu shalat telah tiba
 
 Sedikit muluk tapi mengena membuat saya memberikan caption di atas, yaahh….!! Negeri Seribu Surau, untuk Paciran-ku, desa dengan ribuan kenangan. Walaupun kultur religiusitas itu sudah banyak berkurang dan perlahan melemah seiring mudahnya informasi dan budaya yang mudah disajikan dan dinikmati banyak kalangan sehingga cenderung ‘mempengaruhi’, tetapi masihlah banyak terlihat dipertahankan disana-sini dengan bertumbuhnya pesantren yang terus muncul dan tentu saja semoga bisa kembali mengerakkan religiusitas generasi-generasi selanjutnya di kecamatan Paciran.
 
-_editor: **jon mukidi**_

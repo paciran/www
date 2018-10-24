@@ -1,6 +1,6 @@
 ---
 layout: post
-current: post
+current: romansa
 cover: False
 navigation: True
 class: post-template
@@ -8,7 +8,7 @@ subclass: 'post tag-romansa'
 author: mukidi
 title: "X-nya Kawan Karib, Masuk Pak Eko?"
 description: Sebuah skenario sulap, ilusi yang sempurna di acara kondangan yang trak butuh bantuan Deddy Corbuzier
-tags: [romansa, pak eko, kondangan]
+tags: [romansa, budaya]
 date: 2018-09-11 07:00:00
 ---
 

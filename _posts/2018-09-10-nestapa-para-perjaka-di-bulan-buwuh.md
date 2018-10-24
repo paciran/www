@@ -1,6 +1,6 @@
 ---
 layout: post
-current: post
+current: romansa
 cover: assets/images/lips-paciran.jpg
 navigation: True
 class: post-template

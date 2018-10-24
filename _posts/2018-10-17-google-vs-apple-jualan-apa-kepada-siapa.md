@@ -7,7 +7,7 @@ tags: [internet, ekonomi]
 sub-class: [post, tag-internet]
 author: mukidi
 layout: post
-current: post
+current: internet
 navigation: True
 cover: assets/images/google-vs-apple.jpg
 ---

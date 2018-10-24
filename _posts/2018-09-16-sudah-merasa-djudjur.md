@@ -1,6 +1,6 @@
 ---
 layout: post
-current: post
+current: sosial
 cover: assets/images/malu-malu.jpg
 navigation: True
 title: Sudah Merasa Djudjur

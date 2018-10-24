@@ -2,7 +2,7 @@
 title: "Cerpen 2014: Di bawah Pohon Meranti"
 description: Singa muda itu meradang, tak terima jiwa satrianya dilecehkan mentah-mentah oleh seekor burung dara.
 layout: post
-current: post
+current: fiksi
 cover: False
 navigation: True
 date: 2018-10-20 09:00:00
@@ -82,11 +82,9 @@ Dalam kalut dia berteriak pekak. "Kenapa kalian tembak, singa itu!" Jerit pilu b
 
 Bercak merah masih menyala dan menyolok pandangan mata, di tanah dan di rerumputan tepat di bawah pohon meranti. Genangan warna merah darah masih segar diingatan bocah kecil itu. Meski kini singa malang itu tak lagi di tempat semula. Jasadnya telah berpindah tempat ke dalam gerobak yang ditarik dua ekor kuda.
 
-
 Tamat.
 
 <hr />
-
 Catatan penulis: Awalnya dongeng ini sudah pernah aku tulis lewat pesan singkat atau bisa dikatakan aku ceritakan pada orang lain. Aku hanya bisa mengingat tahunnya, waktu itu tahun 2014. Tanggal dan bulannya aku sudah lupa. Seingatku kala menulis kisah ini saat malam, lebih tepatnya dini hari .
 
 Maksudku saat itu aku sedang bingung harus bercerita tentang hewan apa. Cerita di atas ide awalnya sebagai pengantar tidur untuk seseorang, (ora usah dadak baper) itu kenapa aku linglung pada awalnya.

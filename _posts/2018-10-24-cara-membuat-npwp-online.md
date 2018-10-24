@@ -3,7 +3,7 @@ layout: post
 current: tutorial
 class: post-template
 subclass: [post, tag-tutorial]
-tags: [tutorial, npwp, internet]
+tags: [tutorial, npwp]
 author: mukidi
 # editor: mukidi
 date: 2018-10-24 04:18:20 +7
@@ -18,7 +18,7 @@ Untuk bisa membayar pajak, kamu yang sudah memiliki pekerjaan maupun usaha harus
 
 {% include adsense1.html %}
 
-NPWP alias Nomor Pokok Wajib Pajakmenurut situs resmi [Online Pajak](https://www.online-pajak.com/) adalah rangkaian nomor seri yang digunakan kantor pajak untuk mengidentifikasi para wajib pajak, baik orang pribadi maupun badan. Lalu gimana cara mendapatkan kartu yang dikeluarkan Direktorat Wajib Pajak ini? Tenang! Berikut ini adalah panduan  langkah demi langkah cara daftar pajak online secara lengkap.
+NPWP alias Nomor Pokok Wajib Pajak menurut situs resmi [Online Pajak](https://www.online-pajak.com/) adalah rangkaian nomor seri yang digunakan kantor pajak untuk mengidentifikasi para wajib pajak, baik orang pribadi maupun badan. Lalu gimana cara mendapatkan kartu yang dikeluarkan Direktorat Wajib Pajak ini? Tenang! Berikut ini akan Mukidi jelaskan langkah demi langkah cara daftar pajak online secara lengkap.
 
 > Sudah punya e-KTP belum? Penting banget loh segera buat, kalau sudah coba cara cek e KTP online 2018 berikut:
 > [Cek Data E-KTP dengan Mudah di Sini!](/cara-cek-data-e-ktp-mudah)
@@ -50,6 +50,8 @@ Berikut ini adalah tiga kategori wajib pajak yang harus kamu ketahui beserta ber
 - Kartu Tanda Penduduk (KTP) atau kartu identitas lain bagi Warga Negara Indonesia (WNI)
 - Paspor dan KITAS/KITAP bagi Warga Negara Asing (WNA)
 
+Lihat juga panduan lengkap [cara membuat NPWP pribadi](https://www.paciran.com/cara-membuat-npwp-pribadi).
+
 #### 2. Wajib Pajak Orang Pribadi Menjalankan Usaha atau Pekerjaan Bebas
 
 - KTP bagi WNI
@@ -62,8 +64,7 @@ Berikut ini adalah tiga kategori wajib pajak yang harus kamu ketahui beserta ber
 - Paspor dan KITAS/KITAP bagi WNA
 - Fotokopi kartu NPWP suami
 - Fotokopi Kartu Keluarga (KK)
-
-Fotokopi surat perjanjian pemisahan penghasilan dan harta. Bisa juga surat pernyataan yang menghendaki melaksanakan hak dan kewajiban perpajakan terpisah dari hak kewajiban perpajakan suami.
+- Fotokopi surat perjanjian pemisahan penghasilan dan harta. Bisa juga surat pernyataan yang menghendaki melaksanakan hak dan kewajiban perpajakan terpisah dari hak kewajiban perpajakan suami.
 
 Belum selesai sampai di sini, masih ada langkah berikut untuk menyelesaikan NPWP kamu secara online. 
 

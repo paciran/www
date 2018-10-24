@@ -2,7 +2,8 @@
 layout: post
 current: romansa
 class: post-template
-permalink: 2016/02/negeri-seribu-surau.html
+redirect_from:
+  - /2016/02/negeri-seribu-surau.html
 cover: assets/images/paciran-seribu-surau.jpg
 title: "Desa Paciran, Negeri Seribu Surau"
 excerpt: Paciran bisa jadi merupakan kawasan paling religius di kabupaten Lamongan, hampir setiap RT di desa Paciran memiliki musholla-nya sendiri

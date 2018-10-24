@@ -1,6 +1,6 @@
 ---
 layout: post
-current: post
+current: tutorial
 cover: assets/images/gambar-ilustrasi.jpg
 navigation: True
 title: "Mudahnya Trik Cropping Gambar Online Memakai Server Wordpress Tanpa Akun"

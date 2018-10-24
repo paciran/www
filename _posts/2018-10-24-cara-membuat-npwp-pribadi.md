@@ -8,7 +8,7 @@ author: mukidi
 # editor: mukidi
 date: 2018-10-24 18:18:20 +7
 cover: assets/images/cara-membuat-npwp-pribadi.jpg
-title: Cara Membuat NPWP Online Mudah dan Lengkap
+title: Cara Membuat NPWP Prubadi Mudah dan Lengkap
 description: Pembuatan Nomor Pokok Wajib Pajak (NPWP) ternyata tidaklah sulit. Ada berbagai cara yang bisa dilakukan, serta informasi yang tersedia di berbagai media. Berikut cara membuat NPWP pribadi lengkap dengan syarat-syaratnya.
 ---
 Membayar pajak adalah kewajiban kita sebagai warga negara yang baik dan sudah berpenghasilan. Pajak pribadi diatur dalam Nomor Pokok Wajib Pajak (NPWP).

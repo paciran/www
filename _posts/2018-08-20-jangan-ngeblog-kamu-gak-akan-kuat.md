@@ -1,6 +1,6 @@
 ---
 layout: post
-current: post
+current: menulis
 cover:  assets/images/gagal-sukses.jpg
 navigation: True
 date: 2018-08-08 09:00:00

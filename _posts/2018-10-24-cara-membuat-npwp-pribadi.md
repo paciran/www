@@ -6,7 +6,8 @@ subclass: [post, post-tutorial]
 tags: [tutorial, npwp]
 author: mukidi
 # editor: mukidi
-date: 2018-10-24 18:18:20 +7
+date: 2018-10-24 23:18:20 +7
+last_updated: 2018-10-25 +7
 cover: assets/images/cara-membuat-npwp-pribadi.jpg
 title: Cara Membuat NPWP Prubadi Mudah dan Lengkap
 description: Pembuatan Nomor Pokok Wajib Pajak (NPWP) ternyata tidaklah sulit. Ada berbagai cara yang bisa dilakukan, serta informasi yang tersedia di berbagai media. Berikut cara membuat NPWP pribadi lengkap dengan syarat-syaratnya.

@@ -1,6 +1,6 @@
 ---
 layout: post
-current: post
+current: fiksi
 cover: assets/images/film-destination-wedding.jpg
 navigation: True
 class: post-template
@@ -8,9 +8,10 @@ subclass: 'post tag-film'
 logo: assets/images/box.jpg
 date: 2018-09-12 17:03:30
 title: "Oleh2 Dari Nonton Film Destination Wedding"
-tags: [fiksi, film semi]
+tags: [fiksi, film]
 description: monolog sotja dan suki dalam menghayati makna cinta dalam alur film destination wedding
 author: sukadi
+editor: mukidi
 ---
 "Bagaiman bisa ini mendjadi djalan penentuan spesies? Bagaimana bisa (kenapa) akal pikiran kita diberi kelantjangan dan diperbolehkan untuk merasa begitu banjak untuk seseorang jang tak merasakan apa2 kepada kita?" utjap Suki (tikus) penuh pertjaja diri.
 

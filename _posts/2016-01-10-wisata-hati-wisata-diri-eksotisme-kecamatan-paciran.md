@@ -6,7 +6,9 @@ cover: assets/images/visit-Paciran.jpg
 title: "Wisata hati, Wisata diri; Eksotisme Kecamatan Paciran"
 excerpt: Jauh dari hingar bingar wisata glamor seprti Wisata Bahari Lamongan atau Maharani Zoo dan Goa, masih banyak tempat wisata yang bisa dikunjungi.
 author: itmam
-date: 2017-03-04 08:11:00 +7
+redirect_from:
+  - /2016/01/wisata-hati-wisata-diri-eksotisme.html
+date: 2016-01-04 08:11:00 +7
 last_updated: 2018-10-11 00:11:00 +7
 tags: [romansa, wisata]
 subclass: 'post tag-romansa'

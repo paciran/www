@@ -43,38 +43,6 @@ Setelah tahu syarat-syaratnya, ketahui juga cara membuatnya.
 
 Setelah mengetahui berbagai syarat membuat NPWP untuk melamar kerja, kini kamu perlu mengetahui cara atau langkah-langkah membuat NPWP untuk kamu yang belum memiliki pekerjaan. Pastikan kamu telah melengkapi segala persyaratan yang ada di halaman sebelumnya jika ingin melanjutkan proses pembuatan NPWP. Berikut langkah demi langkahnya:
 
-
-
-HomeTips
-
-AppsGamesTipsGadgetGokilNews
-
-Productivity
-
-Cara Mudah Dan Syarat Membuat NPWP Untuk Melamar Kerja
-
-Cara Mudah dan Syarat Membuat NPWP untuk Melamar Kerja
-
-￼
-
-Ditulis oleh Reynaldi Manasse
-
-      
-
-Tautan berhasil disalin
-
-￼
-
-Kamis, 16 Ags 2018, 19:00 WIB
-
-Artikel berhasil disimpan
-
-Membuat NPWP umumnya hanya bisa dilakukan untuk warga negara yang sudah memiliki pekerjaan dan penghasilan. Namun, kamu yang belum punya dan sedang mencari pekerjaan nyatanya juga bisa membuat NPWP. Berikut cara dan syarat membuat NPWP untuk melamar kerja.
-
-Cara Membuat NPWP untuk Melamar Kerja Berdasarkan Persyaratan
-
-Setelah mengetahui berbagai syarat membuat NPWP untuk melamar kerja, kini kamu perlu mengetahui cara atau langkah-langkah membuat NPWP untuk kamu yang belum memiliki pekerjaan. Pastikan kamu telah melengkapi segala persyaratan yang ada di halaman sebelumnya jika ingin melanjutkan proses pembuatan NPWP. Berikut langkah demi langkahnya:
-
 #### 1. Minta Surat Keterangan dari Desa atau Keluharan
 
 Sama seperti yang sudah Mukidi sebutkan sebelumnya, ada baiknya jika kamu terlebih dulu meminta surat keterangan dari Balai Desa atau Kantor Kelurahan tempa tinggalmu. Dengan surat keterangan tersebut, kamu kemudian mempunyai pegangan untuk bisa berangkat ke kantor pajak dan membuat nomor NPWP kamu sendiri.

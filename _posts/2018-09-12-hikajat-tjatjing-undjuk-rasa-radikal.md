@@ -1,6 +1,6 @@
 ---
 layout: post
-current: post
+current: politik
 cover: assets/images/the-first-purge-2018.jpg
 navigation: True
 class: post-template

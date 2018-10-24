@@ -59,7 +59,8 @@ timezone: Indonesia/Jakarta
 # gems and other configs
 plugins_dir: [_plugins]
 plugins: [jekyll-paginate, jekyll-feed, jekyll-sitemap, jekyl-redirect-from]
-
+whitelists: 
+  _ jekyll-redirect-from
 feed:
   path: feed.xml
 

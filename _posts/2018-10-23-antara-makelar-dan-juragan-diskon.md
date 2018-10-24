@@ -1,6 +1,6 @@
 ---
 layout: post
-current: post
+current: olahraga
 class: post-template
 subclass: [post, tag-olahraga]
 tags: [olahraga, romansa]

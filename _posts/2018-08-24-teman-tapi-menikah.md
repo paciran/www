@@ -3,7 +3,7 @@ title: "Teman Tapi Menikah Itu Judul Film Indonesia Cak!"
 description: Niatnya memberi tahu, ternyata tempe. Seng takon lho sopo?
 tags: [fiksi, romansa]
 layout: post
-current: post
+current: fiksi
 cover:  assets/images/teman-tapi-menikah.jpg
 navigation: True
 date: 2018-08-08 09:00:00

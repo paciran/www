@@ -1,6 +1,6 @@
 ---
 layout: post
-current: post
+current: romansa
 cover: assets/images/iwak-dodok-sambel-kelopo.jpg
 navigation: True
 title: Lasak - Sambel Kelopo, Gorengan Iwak Dodok

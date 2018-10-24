@@ -1,6 +1,6 @@
 ---
 layout: post
-current: post
+current: desain
 cover: assets/images/event-ppc-2.jpg
 navigation: True
 ttitle: Borongan Desain Sketsel Event Piala PPC II

@@ -7,7 +7,7 @@ last_updated: 2018-10-15 11:23:00
 last_modified: 2018-10-15 16:23:00
 tags: [fotografi, desain]
 layout: post
-current: post
+current: desain
 cover: assets/images/paciran-mesuwur-instagram.jpg
 navigation: True
 class: post-template

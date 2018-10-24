@@ -1,11 +1,11 @@
 ---
 layout: post
-current: post
+current: romansa
 cover: assets/images/water.jpg
 navigation: True
 title: 'Resensi Tjinta: Dimensi Kehilangan'
 date: 2018-09-08 09:45:00
-tags: [resensi djiwa, purwarupa tjinta, egoisme tjinta sejati]
+tags: [romansa]
 class: post-template
 subclass: 'post tag-romansa'
 logo: assets/images/box.jpg

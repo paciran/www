@@ -5,9 +5,11 @@ class: post-template
 permalink: 2017/03/legen-paciran-yang-kian-diburu-wisatawan
 cover: assets/images/cematan-siwalan.jpg
 title: Legen Paciran yang Kian Diburu Wisatawan
-excerpt: Kata Légen sendiri berasal dari kata dasar legi (bahasa Jawa) yang artinya manis. Karena pada dasarnya memang minuman ini akan berasa sangat manis dan segar bila diminum ketika baru disadap dari pohonnya langsung
+description: Kata Légen sendiri berasal dari kata dasar legi (bahasa Jawa) yang artinya manis. Karena pada dasarnya memang minuman ini akan berasa sangat manis dan segar bila diminum ketika baru disadap dari pohonnya langsung
 author: itmam
 editor: mukidi
+redirect_from:
+  - /2017/03/legen-paciran-yang-kian-diburu-wisatawan.html
 date: 2017-03-04 08:11:00 +7
 last_updated: 2018-10-11 00:11:00 +7
 tags: [kuliner, budaya]

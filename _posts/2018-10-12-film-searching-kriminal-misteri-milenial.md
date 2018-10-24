@@ -5,9 +5,9 @@ author: mukidi
 date: 2018-10-11 21:23:00
 last_updated: 2018-10-12 11:23:00
 last_modified: 2018-10-12 16:23:00
-tags: [fiksi, internet, review film]
+tags: [internet, film]
 layout: post
-current: post
+current: internet
 cover: assets/images/searching-2018.jpeg
 navigation: True
 class: post-template
@@ -15,8 +15,6 @@ subclass: 'post tag-fiksi'
 ---
 > Film kriminal misteri millenial ini layaknya _guide_ bagi orang awam untuk melakukan _stalking_ alias ngasih _sampeyan_ cara untuk mencari rekam jejak digital seseorang. Film ini juga membuat _sampeyan_ cerdas dalam berselancar di dunia maya.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- AtasArtikel -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-8526606076277673"
@@ -30,7 +28,7 @@ Sudah nonton Film Searching (2018)? Sebuah film misteri yang bercerita tentang p
 
 > **Sinopsis:** Bercerita tentang David Kim, seorang ayah yang tengah kehilangan anak semata wayangnya bernama Margot Kim. David pun melaporkan peristiwa kehilangan putrinya pada pihak keamanan. Kemudian, dia mendapat bantuan dari seorang detektif untuk memecahkan masalah kehilangan anaknya. Namun, dalam waktu 37 jam, Margot tidak kunjung ditemukan. Hingga, David mendapatkan cara sendiri untuk menemukan putrinya.
 
-<iframe src="//www.youtube-nocookie.com/embed/3Ro9ebQxEOY?rel=0&showinfo=0&controls=0" frameborder="0" mozallowfullscreen webkitAllowFullScreen allowfullscreen></iframe>
+{% include youtube id="3Ro9ebQxEOY" %}
 
 Sekilas, membaca sinopsisnya, _sampeyan_ bakal _ngroso_ film _Searching_ punya plot yang umum: penculikan yang melibatkan detektif. Begitu pula ketika _sampeyan_ lihat cuplikannya di Youtube, _jekene_ kok biasa saja. Nah, hal ini menimbulkan dua persepsi. Pertama, bisa membuat orang penasaran dengan filmnya karena ulasan di media luar negeri yang positif. Kedua, justru bisa jadi _boomerang_ buat penonton yang tertarik nonton film karena sinopsis dan video cuplikannya.
 
@@ -45,6 +43,8 @@ Kalau banyak film yang cuma mengandalkan satu plot _twist_ demi mengejutkan peno
 ### Penokohan
 
 Hebatnya, Chaganty tidak memakai orang yang benar-benar awam soal internet sebagai pemeran utamanya. Dipilihnya John Cho sebagai pemeran utama, David Kim, tidak membuat _sampeyan_ kesel tentang perilakunya. Sebaliknya, _sampeyan_ malah dibuat salut oleh akting Cho. Dia bisa jadi bapak yang peka dan logis. Dalam waktu yang bersamaan, _sampeyan_ bisa merasakan kekhawatiran seorang ayah ketika anaknya menghilang secara misterius.
+
+{% include respo.html %}
 
 Dibintangi oleh Michele La sebagai Margot remaja yang _garai_ _sampeyan_ _gregetan_, penasaran, sekaligus prihatin dengan hilangnya remaja 16 tahun itu. Sebenarnya, pemeran Margot ada tiga orang lagi. Mereka adalah Alex Jayne Go sebagai Margot lima tahun, Megan Liu sebagai Margot tujuh tahun, dan Kya Dawn Lau sebagai Margot sembilan tahun.
 

@@ -5,13 +5,12 @@ cover: assets/images/reset-apple-id-password-1200-700.jpg
 tags: [tutorial, apple id]
 date: 2018-09-03 19:45:00
 layout: post
-current: post
+current: tutorial
 navigation: True
 class: post-template
-subclass: 'post tag-menulis'
+subclass: 'post tag-tutorial'
 author: mukidi
 ---
-
 Everyone with an iPhone, iPad, iPod, or Apple Watchhas an Apple ID. It’s essential to getting the most out of Apple’s services, including the iTunes Store, the App Store, Apple Music, and iCloud. An Apple ID isn’t the only account with credentials you need to be keeping track of these days, however, and as such, there’s always the possibility that you may forget certain login information — like your all-important password.
 
 <ins class="adsbygoogle"

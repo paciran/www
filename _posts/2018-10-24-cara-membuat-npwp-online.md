@@ -1,6 +1,6 @@
 ---
 layout: post
-current: post
+current: tutorial
 class: post-template
 subclass: [post, tag-tutorial]
 tags: [tutorial, npwp, internet]

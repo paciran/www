@@ -1,6 +1,6 @@
 ---
 layout: post
-current: post
+current: kuliner
 cover: False
 navigation: True
 class: post-template

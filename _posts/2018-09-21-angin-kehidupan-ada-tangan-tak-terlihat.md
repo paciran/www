@@ -1,6 +1,6 @@
 ---
 layout: post
-current: post
+current: romansa
 cover: False #assets/images/waves.jpg
 navigation: True
 class: post-template

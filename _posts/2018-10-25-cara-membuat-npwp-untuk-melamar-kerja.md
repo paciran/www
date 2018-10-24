@@ -6,7 +6,7 @@ subclass: [post, post-tutorial]
 tags: [tutorial, npwp]
 author: mukidi
 # editor: mukidi
-date: 2018-10-25 01:10:20 +7
+date: 2018-10-25 01:00:20 +7
 cover: assets/images/membuat-npwp-syarat-kerja.jpg
 title: Cara Mudah dan Syarat Membuat NPWP untuk Melamar Kerja
 description: Membuat NPWP umumnya hanya bisa dilakukan untuk warga negara yang sudah memiliki pekerjaan dan penghasilan. Namun, kamu yang belum punya dan sedang mencari pekerjaan nyatanya juga bisa membuat NPWP. Berikut cara dan syarat membuat NPWP untuk melamar kerja.

@@ -1,6 +1,6 @@
 ---
 layout: post
-current: post
+current: fiksi
 navigation: True
 cover: False
 class: post-template

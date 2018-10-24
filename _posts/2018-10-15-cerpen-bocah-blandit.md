@@ -7,7 +7,7 @@ tags: [fiksi, cerpen]
 sub-class: [post, tag-fiksi]
 author: sukadi
 layout: post
-current: post
+current: fiksi
 navigation: True
 cover: False
 ---

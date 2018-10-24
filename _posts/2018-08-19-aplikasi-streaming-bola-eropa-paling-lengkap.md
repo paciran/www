@@ -1,7 +1,7 @@
 ---
 layout: post
-current: post
-cover:  assets/images/streaming.jpg
+current: internet
+cover: assets/images/streaming.jpg
 navigation: True
 date: 2018-08-08 09:00:00
 class: post-template
@@ -9,7 +9,7 @@ subclass: 'post tag-tutorial'
 author: mukidi
 title: "Jagan Paten: Aplikasi Streming Bola Eropa"
 description: "Ketika tivi lokal tak siarkan klub bola favorit di malam minggu"
-tags: [tutorial, olahraga]
+tags: [internet, olahraga]
 ---
 Di saat liga-liga di Eropa sana mulai bergulir lagi di musim 2018/2019, jenis manusia berbatang yang _single_, baik yang terang-terangan mengaku _jomblo_ atau meng-iya-kan ke _single_ annya dalam tunduk malu, Minggu dini-hari adalah waktu sakral untuk melampiaskan kejengkelannya pada nasib dengan nonton bola selain (tentu saja) mobalog yang b••s•t itu.
 

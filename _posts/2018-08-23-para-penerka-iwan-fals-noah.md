@@ -1,6 +1,6 @@
 ---
 layout: post
-current: post
+current: politik
 cover:  assets/images/noah_iwanfals.jpg
 navigation: True
 date: 2018-08-08 09:00:00
@@ -9,7 +9,7 @@ subclass: 'post tag-politik'
 author: mukidi
 title: Mendengarkan Kembali Lagu Para Penerka
 description: "Ketika para pencela merajalela dan timeline media sosial dipenuhi dengan kepberpihakan yang keterlaluan"
-tags: [politik, para penerka]
+tags: [politik, musik]
 ---
 Tiga tahun berselang, ketika para penerka makin merajalela. Dugaan-dugaan yang makin keterlaluan..
 

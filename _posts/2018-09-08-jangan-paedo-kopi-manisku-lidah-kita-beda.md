@@ -1,7 +1,7 @@
 ---
 layout: post
-current: post
-cover:  assets/images/kopi-hitam-kental-paciran.jpg
+current: sosial
+cover: assets/images/kopi-hitam-kental-paciran.jpg
 navigation: True
 class: post-template
 subclass: 'post tag-sosial'

@@ -58,7 +58,7 @@ timezone: Indonesia/Jakarta
 
 # gems and other configs
 plugins_dir: [_plugins]
-plugins: [jekyll-paginate, jekyll-feed, jekyll-sitemap]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-sitemap, jekyl-redirect-from]
 
 feed:
   path: feed.xml
@@ -88,8 +88,8 @@ repo: www
 branch: master
 relative_source: ../www/
 destination: _site/
-production_url:  https://www.paciran.com
-source_url:  https://github.com/paciran/www/
+production_url: https://www.paciran.com
+source_url: https://github.com/paciran/www/
 
 exclude:
   - assets/css

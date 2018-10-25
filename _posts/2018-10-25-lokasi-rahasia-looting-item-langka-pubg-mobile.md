@@ -34,7 +34,7 @@ Kalau yang satu ini lokasinya benar-benar susah dideteksi, karena tempat ini ser
 
 ### 3. Radio Gatka
 
-[Radio Gatka](https://assets.jalantikus.com/assets/cache/560/270/userfiles/2018/08/23/radio-gatka-2e6f0.jpeg)
+![Radio Gatka](https://assets.jalantikus.com/assets/cache/560/270/userfiles/2018/08/23/radio-gatka-2e6f0.jpeg)
 
 Masih dari _map_ **Erangel**, kali ini letaknya berada di barat, daerah **Gatka**. Gedung **Radio Gatka** adalah sebuah bangunan pemancar radio. Jika kamu dekat dengan lokasi gedung ini saat terjun awal, pastikan **mendarat tepatcl di atapnya**, sebab atapnya tidak dapat dicapai dengan tangga. Pada bagian atap kamu dapat menemukan senjata langka, seperti **SLR** ataupun **Kar89K**, berikut _scope_ dengan jangkauan zoom yang jauh. Di dalam gedungnya juga terdapat banyak sekali barang jarahan yang tergolong lengkap, mulai dari _armor_, peralatan medis, aksesori senjata, dan bahkan pakaian. Dan karena tempatnya yang berada di dataran tinggi, dari sini kamu bisa dengan santai mengawasi musuh yang datang mendekat.
 

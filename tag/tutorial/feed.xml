@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://www.paciran.com/tag/tutorial/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://www.paciran.com/" rel="alternate" type="text/html" />
-  <updated>2018-10-25T15:14:53+00:00</updated>
+  <updated>2018-10-25T15:22:53+00:00</updated>
   <id>https://www.paciran.com/tag/tutorial/feed.xml</id>
 
   
@@ -540,7 +540,7 @@ Langkah selanjutnya dan selengkapnya bisa kamu lihat dan pelajari melalui artike
 
 &lt;p&gt;Hemm… Kalau dari judulnya, cara ini sepertinya &lt;em&gt;bakal&lt;/em&gt; ribet lagi. Oh, tentu tidak. Jika kamu berpikiran bahwa cara ini membutuhkan akun wordpress kamu salah besar. Cara atau trik optimasi gambar yang satu bisa dimanfaatkan siapapun asal masih terhubung dengan internet. Tertarik kan? Tidak mungkin kamu membaca hingga sampai di sini jika tidak tertarik.&lt;/p&gt;
 
-&lt;p&gt;Hal terpenting yang perlu kamu ingat adalah &lt;em&gt;domain&lt;/em&gt; ini: &lt;code class=&quot;highlighter-rouge&quot;&gt;i0.wp.com, i1.wp.com, i2.wp.com dan i3.wp.com&lt;/code&gt; yang akan kamu pakai untuk &lt;strong&gt;membungkus tautan gambar&lt;/strong&gt; yang ingin dioptimalisasi agar lebih ringan dan format &lt;em&gt;query&lt;/em&gt; untuk &lt;strong&gt;merubah ukuran atau memotong gambar&lt;/strong&gt; yakni: &lt;code class=&quot;highlighter-rouge&quot;&gt;?resize=&lt;/code&gt; dan &lt;code class=&quot;highlighter-rouge&quot;&gt;?crop=&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Hal terpenting yang perlu kamu ingat adalah &lt;em&gt;domain&lt;/em&gt; ini: &lt;code&gt;i0.wp.com, i1.wp.com, i2.wp.com dan i3.wp.com&lt;/code&gt; yang akan kamu pakai untuk &lt;strong&gt;membungkus tautan gambar&lt;/strong&gt; yang ingin dioptimalisasi agar lebih ringan dan format &lt;em&gt;query&lt;/em&gt; untuk &lt;strong&gt;merubah ukuran atau memotong gambar&lt;/strong&gt; yakni: &lt;code&gt;?resize=&lt;/code&gt; dan &lt;code&gt;?crop=&lt;/code&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;baca-aturan-pakai&quot;&gt;Baca Aturan Pakai&lt;/h3&gt;
 
@@ -548,9 +548,9 @@ Langkah selanjutnya dan selengkapnya bisa kamu lihat dan pelajari melalui artike
   &lt;p&gt;Sebagaimana obat, ada aturan pakai yang harus ditaati agar tidak celaka. Ikuti dengan benar.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Untuk optimalisasi gambar, selipkan &lt;em&gt;domain&lt;/em&gt; pembungkus setelah protokol (&lt;code class=&quot;highlighter-rouge&quot;&gt;http://&lt;/code&gt; atau &lt;code class=&quot;highlighter-rouge&quot;&gt;https://&lt;/code&gt;) dari tautan gambar yang ingin kamu optimasi. Sebagai contoh, gambar &lt;a href=&quot;assets/logo-dwarkop.jpg&quot;&gt;logo ini&lt;/a&gt; punya ukuran file yang besar dan berpotensi menghabiskan jatah bandwith selain itu cukup berat dimuat jika disematkan dalam halaman web. Untuk membuat gambar lebih ramah hosting dan lebih ringan gunakan salah satu domain pembungkus, misal &lt;code class=&quot;highlighter-rouge&quot;&gt;i0.wp.com&lt;/code&gt; kedalam tautan https://www.paciran.com/assets/images/logo-dwarkop.jpg sehingga menjadi https://i0.wp.com/www.paciran.com/assets/images/logo-dwarkop.jpg&lt;/p&gt;
+&lt;p&gt;Untuk optimalisasi gambar, selipkan &lt;em&gt;domain&lt;/em&gt; pembungkus setelah protokol (&lt;code&gt;http://&lt;/code&gt; atau &lt;code&gt;https://&lt;/code&gt;) dari tautan gambar yang ingin kamu optimasi. Sebagai contoh, gambar &lt;a href=&quot;assets/logo-dwarkop.jpg&quot;&gt;logo ini&lt;/a&gt; punya ukuran file yang besar dan berpotensi menghabiskan jatah bandwith selain itu cukup berat dimuat jika disematkan dalam halaman web. Untuk membuat gambar lebih ramah hosting dan lebih ringan gunakan salah satu domain pembungkus, misal &lt;code&gt;i0.wp.com&lt;/code&gt; kedalam tautan https://www.paciran.com/assets/images/logo-dwarkop.jpg sehingga menjadi https://i0.wp.com/www.paciran.com/assets/images/logo-dwarkop.jpg&lt;/p&gt;
 
-&lt;p&gt;Untuk memotong atau merubah ukuran (lebar, tinggi), tempatkan &lt;em&gt;query&lt;/em&gt; (&lt;code class=&quot;highlighter-rouge&quot;&gt;?resize=&lt;/code&gt; atau &lt;code class=&quot;highlighter-rouge&quot;&gt;?crop=&lt;/code&gt;) di akhir tautan gambar yang sudah dibungkus sebelumnya. Yang terpenting adalah nilai setelah &lt;em&gt;query&lt;/em&gt; yang menentukan ukuran dari gambar dalam satuan &lt;em&gt;pixel&lt;/em&gt; dengan format: &lt;code class=&quot;highlighter-rouge&quot;&gt;lebar,tinggi&lt;/code&gt; yang di-inginkan. Jika ingin gambar berukuran lebar 400px dan tinggi 320px, formatnya menjadi &lt;code class=&quot;highlighter-rouge&quot;&gt;400,320&lt;/code&gt;. Setelah digabung, tautan akan terlihat seperti ini: &lt;code class=&quot;highlighter-rouge&quot;&gt;https://i0.wp.com/www.paciran.com/assets/images/logo-dwarkop.jpg?resize=400,320&lt;/code&gt; Mudah, dan &lt;em&gt;efisien&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Untuk memotong atau merubah ukuran (lebar, tinggi), tempatkan &lt;em&gt;query&lt;/em&gt; (&lt;code&gt;?resize=&lt;/code&gt; atau &lt;code&gt;?crop=&lt;/code&gt;) di akhir tautan gambar yang sudah dibungkus sebelumnya. Yang terpenting adalah nilai setelah &lt;em&gt;query&lt;/em&gt; yang menentukan ukuran dari gambar dalam satuan &lt;em&gt;pixel&lt;/em&gt; dengan format: &lt;code&gt;lebar,tinggi&lt;/code&gt; yang di-inginkan. Jika ingin gambar berukuran lebar 400px dan tinggi 320px, formatnya menjadi &lt;code&gt;400,320&lt;/code&gt;. Setelah digabung, tautan akan terlihat seperti ini: &lt;code&gt;https://i0.wp.com/www.paciran.com/assets/images/logo-dwarkop.jpg?resize=400,320&lt;/code&gt; Mudah, dan &lt;em&gt;efisien&lt;/em&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Catatan untuk webmaster: Trik ini sebenarnya masih punya kekurangan. Salah satunya adalah gambar biasanya tidak ter-cache oleh CDN karena mengandung &lt;em&gt;query&lt;/em&gt;. Toh masih bisa diatasi dengan menambahkan parameter &lt;em&gt;query&lt;/em&gt; tersebut dalam daftar yang boleh di &lt;em&gt;cache&lt;/em&gt; pada panel penyedia layanan CDN yang dipakai.&lt;/p&gt;
@@ -734,21 +734,21 @@ Langkah selanjutnya dan selengkapnya bisa kamu lihat dan pelajari melalui artike
       <id>https://www.paciran.com/audio-player-html5-playlist</id>
       <content type="html" xml:base="https://www.paciran.com/audio-player-html5-playlist">&lt;p&gt;Seperti biasa, karena &lt;em&gt;saking nganggure&lt;/em&gt;, Saia butuh kegiatan yang membuat jari (secara spesifik: dua jempol) sibuk. Setelah dua hari tak ada hal baru dalam keseharian &lt;em&gt;saia&lt;/em&gt;; ngopi, &lt;em&gt;jandon&lt;/em&gt;, main game &lt;a href=&quot;https://warrobots.net/en&quot;&gt;War Robots&lt;/a&gt; atau &lt;a href=&quot;http://www.pubgmobile.com/en-US&quot;&gt;PUBG&lt;/a&gt; sambil tiduran tentu saja. Akhirnya ketemu juga yang belum pernah saya coba: &lt;strong&gt;Membuat sebuah &lt;em&gt;audio player&lt;/em&gt; sederhana dengan fitur playlist&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Tujuannya tentu saja agar bisa memainkan beberapa file audio sekaligus sesuai dengan urutan yang ditentukan dalam playlist. Secara sederhana, jika hanya memakai tag &lt;code class=&quot;highlighter-rouge&quot;&gt;audio&lt;/code&gt; HTML5 saja hanya bisa &lt;a href=&quot;https://www.knoacc.org/2012/10/menambah-audio-ke-blog-web-dengan-html5.html&quot;&gt;memainkan satu file audio saja&lt;/a&gt; dalam satu tag. Dan harus menekan kembali tombol play lagi jika ingin memutar file audio lainnya. Tidak nyaman tentu saja.&lt;/p&gt;
+&lt;p&gt;Tujuannya tentu saja agar bisa memainkan beberapa file audio sekaligus sesuai dengan urutan yang ditentukan dalam playlist. Secara sederhana, jika hanya memakai tag &lt;code&gt;audio&lt;/code&gt; HTML5 saja hanya bisa &lt;a href=&quot;https://www.knoacc.org/2012/10/menambah-audio-ke-blog-web-dengan-html5.html&quot;&gt;memainkan satu file audio saja&lt;/a&gt; dalam satu tag. Dan harus menekan kembali tombol play lagi jika ingin memutar file audio lainnya. Tidak nyaman tentu saja.&lt;/p&gt;
 
 &lt;p&gt;Setelah melihat beberapa metode yang ada di internet, ada satu cara yang relatif mudah. Dan saia coba implementasikan di halaman lain yang memuat beberapa lagu milik band Indonesia: Padi, dari album pertama.&lt;/p&gt;
 
 &lt;h3 id=&quot;embed&quot;&gt;Embed&lt;/h3&gt;
 
-&lt;p&gt;Dari penjelasannya, untuk melakukannya termasuk mudah dan sudah mampu menampung playlist &lt;code class=&quot;highlighter-rouge&quot;&gt;.m3u&lt;/code&gt;, sebagai contohnya:&lt;/p&gt;
+&lt;p&gt;Dari penjelasannya, untuk melakukannya termasuk mudah dan sudah mampu menampung playlist &lt;code&gt;.m3u&lt;/code&gt;, sebagai contohnya:&lt;/p&gt;
 
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;embed&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;music_playlist&quot;&lt;/span&gt;
-&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/music/music_playlist.m3u&quot;&lt;/span&gt;
-&lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;150&quot;&lt;/span&gt;
-&lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;90&quot;&lt;/span&gt;
-&lt;span class=&quot;na&quot;&gt;loop=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;false&quot;&lt;/span&gt;
-&lt;span class=&quot;na&quot;&gt;autostart=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;true&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;embed name=&quot;music_playlist&quot;
+src=&quot;/music/music_playlist.m3u&quot;
+width=&quot;150&quot;
+height=&quot;90&quot;
+loop=&quot;false&quot;
+autostart=&quot;true&quot;/&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Niatnya, ingin membuat sebuah playlist dengan 3 lagu Padi:&lt;/p&gt;
 
 &lt;ol&gt;

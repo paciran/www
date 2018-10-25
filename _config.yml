@@ -10,8 +10,8 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-highlighter: rouge
-paginate: 50 # it will paginate after this number
+highlighter: none
+paginate: 10 # it will paginate after this number
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md,txt"
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -33,7 +33,7 @@ CNAME: www.paciran.com
 # Social info
 navigation: True # show the navbar links
 subscribers: False # you need to connect an external service for this to work,
-subscribe: https://paciran.us19.list-manage.com/subscribe/post?u=fe5017783814a21bff3579a15&amp;id=92ceeb0d01
+# subscribe: https://paciran.us19.list-manage.com/subscribe/post?u=fe5017783814a21bff3579a15&amp;id=92ceeb0d01
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 twitter: _paciran
@@ -58,9 +58,8 @@ timezone: Indonesia/Jakarta
 
 # gems and other configs
 plugins_dir: [_plugins]
-plugins: [jekyll-paginate, jekyll-feed, jekyll-sitemap, jekyll-redirect-from]
-whitelists: 
-  _ jekyll-redirect-from
+plugins: [jekyll-paginate, jekyll-feed, jemoji, jekyll-sitemap, jekyll-redirect-from]
+
 feed:
   path: feed.xml
 

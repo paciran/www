@@ -50,7 +50,7 @@ Kita beralih ke **Miramar**, tepatnya berada di selatan **Los Leones** yang t
 
 ### 5. Spy Station
 
-[Spy Station](https://assets.jalantikus.com/assets/cache/560/270/userfiles/2018/08/23/spy-station-082bd.jpeg)
+![Spy Station](https://assets.jalantikus.com/assets/cache/560/270/userfiles/2018/08/23/spy-station-082bd.jpeg)
 
 Tempat rahasia lainnya di Miramar adalah **Spy Station**. Sayangnya tempat ini jarang berada pada area safe zone karena tempatnya yang sangat jauh, berada pada di pojok utara **El Pozo**. Bahkan medan tebing dengan beragam ukuran membuatnya semakin sulit dijangkau. Namun, pastinya semua hal itu akan terbayar saat kamu berhasil menemukan **Spy Station**, di mana item yang terdapat di sana didominasi oleh item kuat dan langka, seperti **Scope x8**, snapan runduk **Kar89k**, **Supressor Sniper** atau **AR**, **First Aid Kit**, dan berbagai aksesori dengan level tinggi. Namun, perlu diingat jika letak safe zone terlalu jauh dari tempat ini, lebih baik urungkan niatmu bro...
 

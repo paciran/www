@@ -7,6 +7,8 @@ date: 2018-08-08 09:00:00
 class: post-template
 subclass: 'post tag-tutorial'
 author: mukidi
+redirect_from:
+ - /2018/08/19/aplikasi-streaming-bola-eropa-paling-lengkap.html
 title: "Jagan Paten: Aplikasi Streming Bola Eropa"
 description: "Ketika tivi lokal tak siarkan klub bola favorit di malam minggu"
 tags: [internet, olahraga]

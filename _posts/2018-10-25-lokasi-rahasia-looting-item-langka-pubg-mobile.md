@@ -24,11 +24,11 @@ Lokasi _looting_ rahasia di **PUBG Mobile** pertama adalah dari map seluruh umat
 
 {% include youtube id="KI0vqPX6Epk" %}
 
-###!2. Erangel Hidden Place
+### 2. Erangel Hidden Place
 
 ![hidden palace](https://assets.jalantikus.com/assets/cache/500/241/userfiles/2018/08/23/erangel-hidden-place-83bd0.jpeg)
 
-Kalau yang satu ini lokasinya benar-benar susah dideteksi, karena tempat ini sering kali berpindah-pindah tempat dan tidak ada penanda khusus dalam mini map. **Erangel Hidden Place** sepertinya dirancang secara khusus oleh **PUBG Mobile** dengan mengacak letak kemunculannya. Namun biasanya tempat ini paling sering muncul di kaki belakang huruf **"m"** pada tulisan daerah **Farm** atau di bukit di sebelah kiri tulisan daerah **School**, tapi tidak menutup kemungkinan akan muncul juga di tempat lain, ~Tanjung Kodok, misalnya~. Tentu saja, karena tempat ini spesial, barang jarahan yang tersedia hampir semuanya adalah item spesial dan bahkan jumlahnya sangat banyak. Dengan banyaknya item terkuat, jelas sangat menguntungkan apalagi saat kalian bermain tim karena langsung berada pada kekuatan maksimal.
+Kalau yang satu ini lokasinya benar-benar susah dideteksi, karena tempat ini sering kali berpindah-pindah tempat dan tidak ada penanda khusus dalam mini map. **Erangel Hidden Place** sepertinya dirancang secara khusus oleh **PUBG Mobile** dengan mengacak letak kemunculannya. Namun biasanya tempat ini paling sering muncul di kaki belakang huruf **"m"** pada tulisan daerah **Farm** atau di bukit di sebelah kiri tulisan daerah **School**, tapi tidak menutup kemungkinan akan muncul juga di tempat lain. Tentu saja, karena tempat ini spesial, barang jarahan yang tersedia hampir semuanya adalah item spesial dan bahkan jumlahnya sangat banyak. Dengan banyaknya item terkuat, jelas sangat menguntungkan apalagi saat kalian bermain tim karena langsung berada pada kekuatan maksimal.
 
 {% include youtube id="uVcoYK3QcAk" %}
 

@@ -8,9 +8,9 @@ author: mukidi
 cover: assets/images/pubgmobile-1024x576.jpg
 title: "5 Lokasi Looting Rahasia di PUBG Mobile"
 description: Karena begitu luasnya peta permainan dalam **PUBG Mobile**, pemain sering salah memilih tempat untuk melakukan looting. Apalagi jika di awal permainan tidak mendapatkan senjata yang mumpuni, alamat kekalahan segera menghampiri di depan mata.
-date:
-----
-Saat memainkan game, kemenangan adalah tujuan utama. Kalau kamu juga pemain PUBG Mobile seperti Mukidi, pasti juga demikian, strategi, trik dan teknik dikerahkan untuk mendapatkan kalimat "Winner Chicken Dinner" di akhir permainan. Yang paling utama dari sekian banyak cara tersebut adalah menemukan tempat looting yang memiliki item bagus dan lengkap.
+date: 2018-10-25 20:40:30 +7
+---
+Saat memainkan game, kemenangan adalah tujuan utama. Kalau kamu juga pemain PUBG Mobile seperti Mukidi, pasti juga demikian, strategi, trik dan teknik dikerahkan untuk mendapatkan kalimat "Winner Chicken Dinner" di akhir permainan. Yang paling utama dari sekian banyak cara tersebut adalah menemukan tempat looting yang memiliki item bagus dan lengkap.
 
 Sayangnya, karena peta permainan dalam PUBG Mobile yang luasnya kebangetan, pemain sering salah memilih tempat untuk melakukan looting. Jika di awal permainan tidak segera mendapatkan senjata yang mumpuni, label _Too Soon_ hampir pasti jadi koleksi.
 

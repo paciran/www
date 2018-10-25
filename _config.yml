@@ -11,7 +11,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 highlighter: none
-paginate: 50 7# it will paginate after this number
+paginate: 50 # it will paginate after this number
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md,txt"
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -58,7 +58,7 @@ timezone: Indonesia/Jakarta
 
 # gems and other configs
 plugins_dir: [_plugins]
-plugins: [jekyll-paginate, jekyll-feed, jekyll-sitemap, jekyll-redirect-from]
+plugins: [jekyll-paginate, jekyll-feed, jemoji, jekyll-sitemap, jekyll-redirect-from]
 
 feed:
   path: feed.xml

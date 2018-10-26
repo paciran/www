@@ -10,7 +10,8 @@ author: mukidi
 date: 2018-09-16 03:28:09 +7
 class: post-template
 subclass: 'post tag-design'
-logo: assets/images/box.jpg
+redirect_from: 
+ - /2018/09/19/borongan-desain-banner-sketsel-piala-ppc-2.html
 ---
 Piye rasanae _ndisain_ banner sketsel yang akan dipasang pada event **Piala PPC II** yang digelar di GOR Ayu Indah pada tanggal 23 Agustus 2018? Tak cuma satu desain, _luweh teko saklosen (12+) seng tak garap_. Borongan lur. Sebenarnya, saya juga sudah menggarap desain-desain untuk event Piala PPC ke-2 ini secara **sukarela** sejak beberapa minggu yang lalu. Seperti desain untuk kaos seragam panitia, baliho dan pernik lain. Termasuk desain logo juga _Saia_ yang _nggarap_. Tetapi memang tidak ada niatan untuk ikut campur dalam pembuatan banner sketsel/pembatas antar lapangan.
 

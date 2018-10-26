@@ -4,11 +4,10 @@ layout: compress
 <!DOCTYPE html>
 <html>
 <head>
-
+	
     <!-- Document Settings -->
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-
     <!-- Base Meta -->
     {% include dynamic_title.html %}
     <title>{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% if site.tagline %} ~ {{ site.tagline }}{% endif %}{% endif %}</title>

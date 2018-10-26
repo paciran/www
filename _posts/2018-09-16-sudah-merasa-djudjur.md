@@ -11,7 +11,7 @@ editor: mukidi
 date: 2018-09-16 03:28:09 +7
 class: post-template
 subclass: 'post tag-sosial'
-redirect-from:
+redirect_from:
  - /2018/09/15/sudah-merasa-djudjur.html
 ---
 Pada salah satu riwajat, Saja pernah ketemu diskusi perkara keterbukaan informasi publik, bahasa sederhananja jakni kedjudjuran. Dimana situwasi dan kondisi komunitas saat itu sedang mentjari djalan keluwar terbaik, di achir diskusi lebih tepatnja rapat di warung kopi. Semua jang hadir sepakat untuk menegaskan kembali skema kedjudjuran pada publik.

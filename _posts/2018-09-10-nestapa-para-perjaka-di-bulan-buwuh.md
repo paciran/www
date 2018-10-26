@@ -11,7 +11,7 @@ title: Nestapa Perjaka di Bulan Buwuh
 description: "Ini adalah bulan buwuh, dimana sepanjang jalan pantura akan terlihat gang yang buntu mendadak: Resepsi, derita para perjaka."
 tags: [romansa, bulan buwuh]
 date: 2018-09-10 17:15:00
-redirect-from:
+redirect_from:
  - /2018/09/10/nestapa-para-perjaka-di-bulan-buwuh.html
 ---
 

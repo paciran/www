@@ -7,10 +7,12 @@ title: Sudah Merasa Djudjur
 description: Djudjur sih, tapi rela bagi-bagi? Mana mu-iin…
 tags: [sosial, paciran bergoyang]
 author: sukadi
+editor: mukidi
 date: 2018-09-16 03:28:09 +7
 class: post-template
 subclass: 'post tag-sosial'
-logo: assets/images/box.jpg
+redirect-from:
+ - /2018/09/15/sudah-merasa-djudjur.html
 ---
 Pada salah satu riwajat, Saja pernah ketemu diskusi perkara keterbukaan informasi publik, bahasa sederhananja jakni kedjudjuran. Dimana situwasi dan kondisi komunitas saat itu sedang mentjari djalan keluwar terbaik, di achir diskusi lebih tepatnja rapat di warung kopi. Semua jang hadir sepakat untuk menegaskan kembali skema kedjudjuran pada publik.
 
@@ -30,5 +32,4 @@ Pada achirnja Saja harus menghormati kedjudjuran jang seperti itu, sebuah kedjud
 Dalam situasi tertentu, kadang bentuk kedjudjuran itu mendjadi tidak terlalu penting, Saja merasa bentuk komunikasi jang sehat itu jang perlu diupajakan. Se-tidak2nja ada itikad baik untuk tidak saling melukai perasaan orang lain. Terlepas informasi jang terlontar itu djudjur, setengah djudjur atawa bohong sekalipun. Saja lebih memilih berdamai dengan kenjataan, dengan tjara menghormati hak bitjara orang lain.
 
 Salam.
-
 _editor: jon mukidi_{:.editor}

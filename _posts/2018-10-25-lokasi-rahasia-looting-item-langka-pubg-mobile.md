@@ -12,7 +12,9 @@ date: 2018-10-25 20:40:30 +7
 ---
 Saat memainkan game, kemenangan adalah tujuan utama. Kalau kamu juga pemain PUBG Mobile seperti Mukidi, pasti juga demikian, strategi, trik dan teknik dikerahkan untuk mendapatkan kalimat "Winner Chicken Dinner" di akhir permainan. Yang paling utama dari sekian banyak cara tersebut adalah menemukan tempat looting yang memiliki item bagus dan lengkap.
 
-Sayangnya, karena peta permainan dalam PUBG Mobile yang luasnya kebangetan, pemain sering salah memilih tempat untuk melakukan looting. Jika di awal permainan tidak segera mendapatkan senjata yang mumpuni, label _Too Soon_ hampir pasti jadi koleksi.
+{% include respo.html %}
+
+Sayangnya, karena peta permainan dalam PUBG Mobile yang luasnya kebangetan, pemain sering salah memilih tempat untuk melakukan looting. Jika di awal permainan tidak segera mendapatkan senjata yang mumpuni, label _Too Soon_ hampir pasti jadi koleksi.
 
 Nah, berbekal pengalaman tidak enak tersebut, Mukidi punya misi YouTube-an senalamam suntuk. Dan akhirnya menemukan 5 Lokasi Looting Rahasia di PUBG Mobile. Penasaran bukan? _Monggo_ langsung simak lokasi rahasia berikut:
 

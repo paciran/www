@@ -11,6 +11,7 @@ subclass: 'post tag-speeches'
 author: mukidi
 tags: [tutorial, padi reborn]
 redirect_from:
+ - /2018/08/29/audio-player-html5-playlist.html
  - /2018/08/30/audio-player-responsive-dengan-playlist-dengan-javascript-1.html
 ---
 Seperti biasa, karena _saking nganggure_, Saia butuh kegiatan yang membuat jari (secara spesifik: dua jempol) sibuk. Setelah dua hari tak ada hal baru dalam keseharian _saia_; ngopi, _jandon_, main game [War Robots](https://warrobots.net/en) atau [PUBG](http://www.pubgmobile.com/en-US) sambil tiduran tentu saja. Akhirnya ketemu juga yang belum pernah saya coba: **Membuat sebuah _audio player_ sederhana dengan fitur playlist**. 

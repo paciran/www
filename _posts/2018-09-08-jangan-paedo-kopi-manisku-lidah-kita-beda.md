@@ -12,6 +12,7 @@ date: 2018-09-08 03:30:00
 tags: [sosial, politik]
 redirect_from:
  - /2016/04/memilih-kades-paciran-memilih-masa-depan.html
+ - /2018/09/08/jangan-paedo-kopi-manisku-lidah-kita-beda.html
 ---
 Kopi, harus dinikmati dengan olahan yang sepahit-pahitnya. Kalau ada yang _ngopi_ dengan takaran gula yang plus-plus lantas dikritik. _Layoh_, hidup sudah pahit kok masih _diploro nguyup_ kopi pahit. _Plis deh_, kita punya tingkat hajat yang berbeda, definisi kenikmatan yang berbeda.
 

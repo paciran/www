@@ -10,7 +10,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-  highlighter: none
+  highlighter: rouge
 
 paginate: 50 # it will paginate after this number
 encoding: "utf-8"

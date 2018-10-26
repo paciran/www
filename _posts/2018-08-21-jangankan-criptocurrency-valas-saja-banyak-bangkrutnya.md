@@ -10,6 +10,8 @@ author: mukidi
 title: Jangankan Criptocurrency, Mainan Valas Saja Banyak Bangkrutnya
 description: Ada banyak cara untuk bangkrut, sayang hanya sedikit yang mau bangun dari tidur
 tags: [criptocurrency, ekonomi]
+redirect_from:
+ - /2018/08/21/jangankan-criptocurrency-valas-saja-banyak-bangkrutnya.html
 ---
 _**Criptocurrency**_. Bagi telinga awam, istilah itu mungkin terasa asing _bingits_. Tetapi, coba lafalkan kata: **bit-koooo-iiiinnn**, _Bitcoin_. Kata merdu Ooh... berbarengan dengan terbentuknya ekspresi "seolah paham" akan terpampang diwajah mereka. Padahal belum tentu tahu benar Bitcoin itu apa, setidaknya pernah dengar.
 

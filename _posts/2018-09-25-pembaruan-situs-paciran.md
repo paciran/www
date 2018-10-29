@@ -2,7 +2,7 @@
 layout: page
 current: about
 class: page-template
-cover: assets/images/
+#cover: assets/images/
 title: Pembaruan Website Paciran 
 description: Halaman artikel lama tidak semuanya di muat ulang.
 date: 2018-09-25
@@ -20,7 +20,7 @@ redirect_from:
  - /2018/03/cara-registrasi-kartu-prabayar-telkomsel.html
  - /2018/03/cara-registrasi-ulang-kartu-prabayar-indosat.html
  - /p/about.html
-----
+---
 
 Artikel lama yang pernah di terbitkan dengan format publikasi blogger (blogspot) tidak semua diterbitkan kembali. Hanya beberapa saja yang diterbitkan ulang dengan pengalihan dari format alamat tautan lama ke format alamat tautan yang baru.
 

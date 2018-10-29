@@ -3,12 +3,13 @@ layout: page
 current: about
 title: About
 decription: Kenalan dengan Jon Mukidi, penulis utama di blog Paciran Lamongan.
-navigation: true
 logo: 'assets/images/ghost.png'
 cover: assets/images/aboutPage.jpg
 class: page-template
 subclass: 'post page'
 navigation: True
+redirect_from:
+ - /p/about.html
 ---
 
 Blog ini secara umum adalah blog pribadi. Tidak memakai teknologi tracking (analitycs) apapun (1), tidak memasang iklan(2), dan sepenuhnya mandiri(3). Yang akan dijelaskan dibawah ini:

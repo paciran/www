@@ -3,9 +3,11 @@ layout: page
 current: kontak
 title: Formulir Kontak
 description: Hubungi redaksi Paciran Lamongan
-logo: assets/images/box.jpg
-cover: assets/images/writing.jpg
+# logo: assets/images/box.jpg
+# cover: assets/images/writing.jpg
 navigation: True
+redirect_from:
+ - /p/contact.html
 ---
 
 <form name="contact-form">

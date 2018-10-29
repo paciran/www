@@ -1,4 +1,5 @@
 ---
+permalink: pembaruan-situs-paciran
 layout: page
 current: about
 class: page-template

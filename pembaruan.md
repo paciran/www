@@ -3,7 +3,7 @@ permalink: pembaruan-situs-paciran
 layout: page
 current: about
 class: page-template
-cover: assets/images/
+cover: assets/images/update-image-1.jpg
 title: Pembaruan Website Paciran 
 description: Halaman artikel lama tidak semuanya di muat ulang.
 date: 2018-09-25

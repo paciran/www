@@ -11,7 +11,7 @@ date: 2018-10-29 23:00:32 +7
 ---
 ## Panduan Mangle Game On-line untuk Mikrotik
 
-{{ page.description }}. Selengkapnya buka [file ini](/assets/images/Panduan-Mangle-Game-Online-dan-Panduan-Mangle-Mikrotik.pdf) untuk mempelajari lebih lanjut.
+{{ page.description }}. Selengkapnya buka [file ini](/assets/pdf/Panduan-Mangle-Game-Online-dan-Panduan-Mangle-Mikrotik.pdf) untuk mempelajari lebih lanjut.
 
 {% include adsense1.html %}
 
@@ -24,7 +24,7 @@ DOTA 2
 TCP : 27000-28998
 UDP : 27000-28998
 
-PUBG (PLAYERUNKNOWN’S BATTLEGROUND)
+PUBG (PLAYERUNKNOWNâ€™S BATTLEGROUND)
 
 UDP : 7086-7995,12070-12460,41182-42474
 
@@ -175,7 +175,7 @@ DOMINO QQ
 TCP 9122, 11000-11150
 
 SEVEN KNIGHTS (NETMARBLE)
-TCP: 12000 – 12010
+TCP: 12000 â€“ 12010
 
 CLASH ROYALE (CRY)
 TCP: 9330-9340, UDP 9330-9340
@@ -197,7 +197,7 @@ TCP 10005-10020
 
 NARUTO LITTLE NINJA (CHINA)
 
-TCP 6170 – 6180
+TCP 6170 â€“ 6180
 
 RPG TORAM ONLINE
 
@@ -211,7 +211,7 @@ MOBILE LEGENDS: BANG BANG
 
 TCP 30097-30147
 
-ARENA OF VALOR (AOV) – GARENA
+ARENA OF VALOR (AOV) â€“ GARENA
 
 TCP : 10001-10094
 UDP : 10080,17000

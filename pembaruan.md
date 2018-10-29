@@ -20,7 +20,8 @@ redirect_from:
  - /2018/03/cara-registrasi-kartu-tri-lama-sms-dan-online.html
  - /2018/03/cara-registrasi-kartu-prabayar-telkomsel.html
  - /2018/03/cara-registrasi-ulang-kartu-prabayar-indosat.html
- - /p/about.html
+ - /p/iklan.html
+ - /p/privacy.html
 ---
 
 Artikel lama yang pernah di terbitkan dengan format publikasi blogger (blogspot) tidak semua diterbitkan kembali. Hanya beberapa saja yang diterbitkan ulang dengan pengalihan dari format alamat tautan lama ke format alamat tautan yang baru.

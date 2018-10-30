@@ -1,5 +1,5 @@
 ---
-cover: assets/images/mikrotik.svg
+cover: assets/images/mikrotik-mangle-game-online.jpg
 title: Panduan Mangle Game Online dan Port Game Online untuk Mikrotik
 description: Sebuah panduan lengkap untuk mengatur mangle untuk game online pada perangkat mikrotik beserta daftar port yang dipakai oleh game online
 layout: post

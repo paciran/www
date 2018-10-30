@@ -9,7 +9,7 @@ cover: assets/images/listrik-pln.jpg
 title: Update Tarif Dasar Listrik PLN 2018 Tebaru
 description: Update Tarif Dasar Listrik PLN Terbaru sesuai pembaruan TDL per Maret 2018
 date: 2018-04-01 00:00:00 +7
-last_updated: 2018-10-24 16:04:00 +7
+last_updated: 2018-10-25 16:04:00 +7
 ---
 Tarif dasar listrik (TDL) adalah tarif harga jual listrik yang dikenakan oleh pemerintah untuk para pelanggan PLN. Istilah Tarif Dasar Listrik bisa disebut pula Tarif Tenaga Listrik atau Tarif Listrik.
 

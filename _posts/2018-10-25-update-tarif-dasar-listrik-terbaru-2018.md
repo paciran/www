@@ -36,7 +36,8 @@ Jika terdapat kesalahan/pembaruan data, mohon kirimkan koreksi kepada redaksi at
 
 ### Tarif Dasar Listrik Rumah Tangga R1
 
-| Golongan Tarif/Daya | Keterangan | Tarif (Rp /kWh)  |
+| Golongan Tarif/Daya | Keterangan | Tarif (Rp /kWh) |
+|---|---|:---:|
 | R-1/450 VA | Subsidi | 415 |
 | R-1/900 VA | Subsidi | 586 |
 | R-1/900 VA-RTM | (Rumah Tangga Mampu) Non-Subsidi | 1352 |
@@ -49,7 +50,8 @@ Tarif 900 VA-RTM non-subsidi hampir sama dengan 6600 VA. Silakan bagi pelanggan 
 
 ### Tarif Dasar Listrik Bisnis B1 (Subsidi)
 
-Golongan Tarif/Daya Tarif (Rp /kWh)
+| Golongan Tarif/Daya | Tarif (Rp /kWh) |
+|---|:---:|
 | B-1/450 VA | 535 |
 | B-1/900 VA | 630 |
 | B-1/1300 VA | 966 |
@@ -66,6 +68,7 @@ Ingin tahu caranya? Simak cara migrasi dari tarif listrik R1 ke B1.
 ### Tarif Dasar Listrik Sosial (Subsidi)
 
 | Golongan Tarif/Daya | Tarif (Rp /kWh) |
+|---|:---:|
 | S-1/220 VA | ? |
 | S-2/450 VA | 325 |
 | S-2/900 VA | 455 |
@@ -79,6 +82,7 @@ Pengguna tarif sosial adalah masjid, sekolah, madrasah, puskesmas, panti asuhan,
 ### Tarif Dasar Listrik Industri (Subsidi)
 
 | Golongan Tarif/Daya | Tarif (Rp /kWh) |
+|---|:---:|
 | I-1/450 VA | 485 |
 | I-1/900 VA | 600 |
 | I-1/1300 VA | 930 |
@@ -91,6 +95,7 @@ Golongan tarif industri yang mendapatkan subsidi adalah I1 dan I2. Sedangkan I3 
 ### Tarif Dasar Listrik Publik (Subsidi)
 
 | Golongan Tarif/Daya | Tarif (Rp /kWh) |
+|---|:---:|
 | P-1/450 VA | 685 |
 | P-1/900 VA | 760 |
 | P-1/1300 VA | 1049 |

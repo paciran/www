@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.paciran.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.paciran.com/" rel="alternate" type="text/html" /><updated>2018-10-30T16:48:21+00:00</updated><id>https://www.paciran.com/</id><title type="html">Paciran ❤ Lamongan</title><subtitle>Antara Kebenaran Relatif, Keyakinan dan Kepalsuan</subtitle><entry><title type="html">Panduan Mangle Game Online dan Port Game Online untuk Mikrotik</title><link href="https://www.paciran.com/Panduan-Mangle-Game-Online-dan-Port-Game-Online" rel="alternate" type="text/html" title="Panduan Mangle Game Online dan Port Game Online untuk Mikrotik" /><published>2018-10-29T16:00:32+00:00</published><updated>2018-10-29T16:00:32+00:00</updated><id>https://www.paciran.com/Panduan-Mangle-Game-Online-dan-Port-Game-Online</id><content type="html" xml:base="https://www.paciran.com/Panduan-Mangle-Game-Online-dan-Port-Game-Online">&lt;h2 id=&quot;panduan-mangle-game-on-line-untuk-mikrotik&quot;&gt;Panduan Mangle Game On-line untuk Mikrotik&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.paciran.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.paciran.com/" rel="alternate" type="text/html" /><updated>2018-10-30T17:05:24+00:00</updated><id>https://www.paciran.com/</id><title type="html">Paciran ❤ Lamongan</title><subtitle>Antara Kebenaran Relatif, Keyakinan dan Kepalsuan</subtitle><entry><title type="html">Panduan Mangle Game Online dan Port Game Online untuk Mikrotik</title><link href="https://www.paciran.com/Panduan-Mangle-Game-Online-dan-Port-Game-Online" rel="alternate" type="text/html" title="Panduan Mangle Game Online dan Port Game Online untuk Mikrotik" /><published>2018-10-29T16:00:32+00:00</published><updated>2018-10-29T16:00:32+00:00</updated><id>https://www.paciran.com/Panduan-Mangle-Game-Online-dan-Port-Game-Online</id><content type="html" xml:base="https://www.paciran.com/Panduan-Mangle-Game-Online-dan-Port-Game-Online">&lt;h2 id=&quot;panduan-mangle-game-on-line-untuk-mikrotik&quot;&gt;Panduan Mangle Game On-line untuk Mikrotik&lt;/h2&gt;
 
-&lt;p&gt;Sebuah panduan lengkap untuk mengatur mangle untuk game online pada perangkat mikrotik beserta daftar port yang dipakai oleh game online. Selengkapnya buka &lt;a href=&quot;/assets/pdf/Panduan-Mangle-Game-Online-dan-Panduan-Mangle-Mikrotik.pdf&quot;&gt;file ini&lt;/a&gt; untuk mempelajari lebih lanjut.&lt;/p&gt;
+&lt;p&gt;Sebuah panduan lengkap untuk mengatur mangle untuk game online pada perangkat mikrotik beserta daftar port yang dipakai oleh game online.&lt;/p&gt;
+
+&lt;p&gt;Selengkapnya buka &lt;a href=&quot;/assets/pdf/Panduan-Mangle-Game-Online-dan-Panduan-Mangle-Mikrotik.pdf&quot;&gt;file ini&lt;/a&gt; untuk mempelajari lebih lanjut.&lt;/p&gt;
 
 &lt;p&gt;&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:block&quot; data-ad-client=&quot;ca-pub-8526606076277673&quot; data-ad-slot=&quot;7369031133&quot; data-ad-format=&quot;auto&quot; data-full-width-responsive=&quot;true&quot;&gt;&lt;/ins&gt;&lt;script&gt;(adsbygoogle = window.adsbygoogle || []).push({});&lt;/script&gt;&lt;/p&gt;
 
@@ -8,212 +10,216 @@
 
 &lt;h3 id=&quot;steam&quot;&gt;STEAM&lt;/h3&gt;
 
-&lt;p&gt;DOTA 2&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DOTA 2&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP : 27000-28998
 UDP : 27000-28998&lt;/p&gt;
 
-&lt;p&gt;PUBG (PLAYERUNKNOWN’S BATTLEGROUND)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PUBG (PLAYERUNKNOWN’S BATTLEGROUND)&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;UDP : 7086-7995,12070-12460,41182-42474&lt;/p&gt;
 
-&lt;p&gt;PALADINS&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PALADINS&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP : 9000-9999
 UDP : 9002-9999&lt;/p&gt;
 
-&lt;p&gt;BLACKRETRIBUTION&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BLACKRETRIBUTION&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;UDP : 7020-7050,8200-8220,9000-9020&lt;/p&gt;
 
-&lt;p&gt;LEFT4DEAD 2&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LEFT4DEAD 2&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;UDP : 4360-4390&lt;/p&gt;
 
-&lt;p&gt;WARFRAME&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;WARFRAME&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP : 6695-6699
 UDP : 4950-4955&lt;/p&gt;
 
-&lt;p&gt;LAST MAN STANDING&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LAST MAN STANDING&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;UDP : 34000-34025,3500&lt;/p&gt;
 
 &lt;h3 id=&quot;garena&quot;&gt;GARENA&lt;/h3&gt;
 
-&lt;p&gt;POINT BLANK&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;POINT BLANK&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP : 39190-39200,49001-49190
 UDP : 40000-40010&lt;/p&gt;
 
-&lt;p&gt;FIFA ONLINE&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FIFA ONLINE&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP : 7770-7790
 UDP : 16300-16350&lt;/p&gt;
 
-&lt;p&gt;LOL&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LOL&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP : 2080-2099
 UDP : 5100&lt;/p&gt;
 
-&lt;p&gt;HON&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HON&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP : 11031
 UDP : 11100-11125,11440-11460&lt;/p&gt;
 
 &lt;h3 id=&quot;gemscool&quot;&gt;GEMSCOOL&lt;/h3&gt;
 
-&lt;p&gt;DRAGONNEST&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DRAGONNEST&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP : 14300-14440
 UDP : 15000-15500&lt;/p&gt;
 
-&lt;p&gt;LOST SAGA&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LOST SAGA&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP : 14000-14050
 UDP : 14000-14050&lt;/p&gt;
 
-&lt;p&gt;BLACK SQUAD&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BLACK SQUAD&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP : 61000,62000
 UDP : 50000-50100&lt;/p&gt;
 
-&lt;p&gt;ECHO OF SOUL (EOS)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ECHO OF SOUL (EOS)&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP : 7800
 UDP : 5355&lt;/p&gt;
 
 &lt;h3 id=&quot;lyto&quot;&gt;LYTO&lt;/h3&gt;
 
-&lt;p&gt;CROSSFIRE&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CROSSFIRE&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP : 10009
 UDP : 12060-12070&lt;/p&gt;
 
-&lt;p&gt;IDOL STREET&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IDOL STREET&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP : 2001-2010&lt;/p&gt;
 
-&lt;p&gt;RF ONLINE&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RF ONLINE&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP : 27780&lt;/p&gt;
 
-&lt;p&gt;ROHAN ONLINE&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ROHAN ONLINE&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP : 22100&lt;/p&gt;
 
-&lt;p&gt;PERFECT WORLD&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PERFECT WORLD&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP : 29000&lt;/p&gt;
 
 &lt;h3 id=&quot;megaxus&quot;&gt;MEGAXUS&lt;/h3&gt;
 
-&lt;p&gt;AYODANCE&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AYODANCE&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP : 18900-18910&lt;/p&gt;
 
-&lt;p&gt;COUNTER-STRIKE ONLINE&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;COUNTER-STRIKE ONLINE&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP : 36567,8001,
 UDP : 8001&lt;/p&gt;
 
-&lt;p&gt;AYOOKE&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AYOOKE&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP : 28001-28010
 UDP : 26001-26010&lt;/p&gt;
 
 &lt;h3 id=&quot;game-lainnya&quot;&gt;GAME LAINNYA&lt;/h3&gt;
 
-&lt;p&gt;SPECIAL FORCE&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SPECIAL FORCE&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;UDP : 30000-30030
 TCP : 27920-27940&lt;/p&gt;
 
-&lt;p&gt;X-SHOT&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;X-SHOT&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP : 7320-7350
 UDP : 7800-7850, 30000&lt;/p&gt;
 
-&lt;p&gt;MERCENARY OPS&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MERCENARY OPS&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP : 6000-6125&lt;/p&gt;
 
-&lt;p&gt;PERFECT WORLD&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PERFECT WORLD&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP :  29000&lt;/p&gt;
 
-&lt;p&gt;ROBLOX&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ROBLOX&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;UDP : 56849-57729,60275-64632&lt;/p&gt;
 
 &lt;h3 id=&quot;port-game-online-android&quot;&gt;PORT GAME ONLINE ANDROID&lt;/h3&gt;
 
-&lt;p&gt;LINE GET RICH&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LINE GET RICH&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP: 10500-10515&lt;/p&gt;
 
-&lt;p&gt;RULES OF SURVIVAL&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RULES OF SURVIVAL&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;UDP : 24000-24050&lt;/p&gt;
 
-&lt;p&gt;CLASH OF CLANS&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CLASH OF CLANS&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP: 9330-9340&lt;/p&gt;
 
-&lt;p&gt;DOMINO QQ
-TCP 9122, 11000-11150&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DOMINO QQ&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;SEVEN KNIGHTS (NETMARBLE)
-TCP: 12000 – 12010&lt;/p&gt;
+&lt;p&gt;TCP 9122, 11000-11150&lt;/p&gt;
 
-&lt;p&gt;CLASH ROYALE (CRY)
-TCP: 9330-9340, UDP 9330-9340&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SEVEN KNIGHTS (NETMARBLE)&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;LAST EMPIRE WAR Z
-TCP: 9930-9940&lt;/p&gt;
+&lt;p&gt;TCP: 12000 – 12010&lt;/p&gt;
 
-&lt;p&gt;MOSTLY&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CLASH ROYALE (CRY)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;TCP: 9330-9340, UDP 9330-9340&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;LAST EMPIRE WAR Z&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;TCP: 9930-9940&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;MOSTLY&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP 9933&lt;/p&gt;
 
-&lt;p&gt;DREAM LEAGUE SOCCER&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DREAM LEAGUE SOCCER&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;UDP 60970-60980&lt;/p&gt;
 
-&lt;p&gt;SHINOBI HEROES&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SHINOBI HEROES&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP 10005-10020&lt;/p&gt;
 
-&lt;p&gt;NARUTO LITTLE NINJA (CHINA)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NARUTO LITTLE NINJA (CHINA)&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP 6170 – 6180&lt;/p&gt;
 
-&lt;p&gt;RPG TORAM ONLINE&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RPG TORAM ONLINE&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;UDP 30100-30110&lt;/p&gt;
 
-&lt;p&gt;POINT BLANK MOBILE / PB MOBILE&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;POINT BLANK MOBILE / PB MOBILE&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP 44590-44610&lt;/p&gt;
 
-&lt;p&gt;MOBILE LEGENDS: BANG BANG&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MOBILE LEGENDS: BANG BANG&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP 30097-30147&lt;/p&gt;
 
-&lt;p&gt;ARENA OF VALOR (AOV) – GARENA&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ARENA OF VALOR (AOV) – GARENA&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP : 10001-10094
 UDP : 10080,17000&lt;/p&gt;
 
-&lt;p&gt;DANCE UP INDO&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DANCE UP INDO&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP 10000-10010&lt;/p&gt;
 
-&lt;p&gt;BOOYA CAPSA SUSUN&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BOOYA CAPSA SUSUN&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP 7090-7100&lt;/p&gt;
 
-&lt;p&gt;BOOYA DOMINO QIUQIU&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BOOYA DOMINO QIUQIU&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;TCP 7020-7030&lt;/p&gt;</content><author><name>Jon Mukidi</name></author><category term="internet" /><category term="mikrotik" /><category term="tutorial" /><summary type="html">Panduan Mangle Game On-line untuk Mikrotik Sebuah panduan lengkap untuk mengatur mangle untuk game online pada perangkat mikrotik beserta daftar port yang dipakai oleh game online. Selengkapnya buka file ini untuk mempelajari lebih lanjut. Daftar PORT Game On-line untuk Mikrotik STEAM DOTA 2 TCP : 27000-28998 UDP : 27000-28998 PUBG (PLAYERUNKNOWN’S BATTLEGROUND) UDP : 7086-7995,12070-12460,41182-42474 PALADINS TCP : 9000-9999 UDP : 9002-9999 BLACKRETRIBUTION UDP : 7020-7050,8200-8220,9000-9020 LEFT4DEAD 2 UDP : 4360-4390 WARFRAME TCP : 6695-6699 UDP : 4950-4955 LAST MAN STANDING UDP : 34000-34025,3500 GARENA POINT BLANK TCP : 39190-39200,49001-49190 UDP : 40000-40010 FIFA ONLINE TCP : 7770-7790 UDP : 16300-16350 LOL TCP : 2080-2099 UDP : 5100 HON TCP : 11031 UDP : 11100-11125,11440-11460 GEMSCOOL DRAGONNEST TCP : 14300-14440 UDP : 15000-15500 LOST SAGA TCP : 14000-14050 UDP : 14000-14050 BLACK SQUAD TCP : 61000,62000 UDP : 50000-50100 ECHO OF SOUL (EOS) TCP : 7800 UDP : 5355 LYTO CROSSFIRE TCP : 10009 UDP : 12060-12070 IDOL STREET TCP : 2001-2010 RF ONLINE TCP : 27780 ROHAN ONLINE TCP : 22100 PERFECT WORLD TCP : 29000 MEGAXUS AYODANCE TCP : 18900-18910 COUNTER-STRIKE ONLINE TCP : 36567,8001, UDP : 8001 AYOOKE TCP : 28001-28010 UDP : 26001-26010 GAME LAINNYA SPECIAL FORCE UDP : 30000-30030 TCP : 27920-27940 X-SHOT TCP : 7320-7350 UDP : 7800-7850, 30000 MERCENARY OPS TCP : 6000-6125 PERFECT WORLD TCP : 29000 ROBLOX UDP : 56849-57729,60275-64632 PORT GAME ONLINE ANDROID LINE GET RICH TCP: 10500-10515 RULES OF SURVIVAL UDP : 24000-24050 CLASH OF CLANS TCP: 9330-9340 DOMINO QQ TCP 9122, 11000-11150 SEVEN KNIGHTS (NETMARBLE) TCP: 12000 – 12010 CLASH ROYALE (CRY) TCP: 9330-9340, UDP 9330-9340 LAST EMPIRE WAR Z TCP: 9930-9940 MOSTLY TCP 9933 DREAM LEAGUE SOCCER UDP 60970-60980 SHINOBI HEROES TCP 10005-10020 NARUTO LITTLE NINJA (CHINA) TCP 6170 – 6180 RPG TORAM ONLINE UDP 30100-30110 POINT BLANK MOBILE / PB MOBILE TCP 44590-44610 MOBILE LEGENDS: BANG BANG TCP 30097-30147 ARENA OF VALOR (AOV) – GARENA TCP : 10001-10094 UDP : 10080,17000 DANCE UP INDO TCP 10000-10010 BOOYA CAPSA SUSUN TCP 7090-7100 BOOYA DOMINO QIUQIU TCP 7020-7030</summary></entry><entry><title type="html">Cerpen: Kembali Pulang</title><link href="https://www.paciran.com/cerpen-kembali-pulang" rel="alternate" type="text/html" title="Cerpen: Kembali Pulang" /><published>2018-10-28T00:00:00+00:00</published><updated>2018-10-28T00:00:00+00:00</updated><id>https://www.paciran.com/cerpen-kembali-pulang</id><content type="html" xml:base="https://www.paciran.com/cerpen-kembali-pulang">&lt;p&gt;Kilau matahari pagi menerjang rumah berwarna biru, sinarnya masuk melalui cela-cela jendela kaca, menerobos tanpa terhalang kelambu. Pagi itu tepat pada pukul 08:39 WIB. Seperti biasa selama beberapa tahun belakangan, setelah mengantar anaknya ke sekolah, aktifitas rutin laki-laki paruh baya itu selanjutnya adalah membaca surat kabar di halaman belakang rumah.&lt;/p&gt;
 

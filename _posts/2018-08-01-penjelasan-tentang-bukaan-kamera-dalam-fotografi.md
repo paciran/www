@@ -12,12 +12,11 @@ class: post-template
 subclass: 'post tag-fotografi'
 author: mukidi
 ---
+Banyak orang menyukai fotografi, tetapi apakah Anda tahu pengetahuan paling dasar tentang fotografi? Artikel ini terutama memperkenalkan fungsi, jenis, dan metrik bukaan.
 
 {% include adsense1.html %}
 
-Banyak orang menyukai fotografi, tetapi apakah Anda tahu pengetahuan paling dasar tentang fotografi? Artikel ini terutama memperkenalkan fungsi, jenis, dan metrik bukaan.
-
-Bukaan (Inggris: Apperture) mengacu pada pembukaan diafragma lensa melalui cahaya yang lewat. Itu dikalibrasi dalam f /stop dan umumnya ditulis sebagai angka seperti 1,4, 2, 2,8, 4, 5,6, 8, 11 dan 16. **Semakin rendah f/ stop memberikan lebih banyak eksposur** karena mereka mewakili lubang yang lebih besar, sementara **f/stop yang lebih tinggi memberi lebih sedikit eksposur** karena mereka mewakili aperture yang lebih kecil. Ini mungkin tampak sedikit bertentangan pada awalnya tetapi akan menjadi lebih jelas ketika Anda mengambil gambar pada berbagai f/stop.
+Bukaan (Inggris: Apperture) mengacu pada pembukaan diafragma lensa melalui cahaya yang lewat. Itu dikalibrasi dalam f /stop dan umumnya ditulis sebagai angka seperti 1,4, 2, 2,8, 4, 5,6, 8, 11 dan 16. **Semakin rendah f/ stop memberikan lebih banyak eksposur** karena mereka mewakili lubang yang lebih besar, sementara **f/stop yang lebih tinggi memberi lebih sedikit eksposur** karena mereka mewakili aperture yang lebih kecil. Ini mungkin tampak sedikit bertentangan pada awalnya tetapi akan menjadi lebih jelas ketika Anda mengambil gambar pada berbagai f/stop.
 
 ![Figure 1 - Appertures](https://i0.wp.com/attach.en.miui.com/image/004/72/52/66_2000_550.jpg){:.align-center}
 

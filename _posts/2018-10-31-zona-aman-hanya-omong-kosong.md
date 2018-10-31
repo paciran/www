@@ -31,6 +31,8 @@ Berkumpulnya kedua orang kampung itu, lima hari setelah berita skandal sex yang 
 
 "Bukan maksud saya mengajak untuk bersikap apatis terhadap dunia perpolitikan dalam negeri, Kang. Kita tetap sadar politik namun tidak harus merespon isu yang ada dengan cuitan yang kemenyek dan gemesin." Kata Miun kalem dan gerak jemari tangannya lihai mengambil sebatang rokok milik Warso, tanpa minta ijin lebih dulu.
 
+![bhineka tunggal ika](https://bangakrie.files.wordpress.com/2014/11/021.jpg)
+
 "Ada baiknya kita diam dan tenang." Lanjut Miun.
 
 "Halah, Un, Un! Abaikan segala posisi aman, mau sampean milih posisi di kanan atau di kiri sama saja, sama-sama rawan, sama-sama berisiko. Rambu-rambunya jelas sekali. 'Jalanan licin, sering terjadi kecelakaan perdebatan.' Jangan pula sok bijak memposisikan diri di tengah, karena yang ada sampean nanti malah bisa jadi tumbal." Jawab Warso dengan bibir yang tak terkontrol, hingga ludahnya sesekali muncrat-muncrat.
@@ -43,6 +45,8 @@ Berkumpulnya kedua orang kampung itu, lima hari setelah berita skandal sex yang 
 
 "Bisa hiya dan bisa juga tidak. Kalau sampean serius mau melakukan itu dengan telaten tentu saja akan lebih nyaman dan teramat nyaman dan pastinya lebih aman sentosa." Jawab Miun dengan tersenyum-senyum sendiri.
 
+![cinta damai](https://bangakrie.files.wordpress.com/2014/11/003.jpg)
+
 Kopi di dalam gelas yang cuma satu-satunya itu tinggal ampas, sudah tandas. Tiba-tiba mereka berdua saling berpandangan lalu garuk-garuk kepala lantas kaki mereka otomatis beranjak pulang ke rumah masing-masing.
 
 Semenjak malam itu dua sahabat karib ini jarang terdengar lagi membahas isu-isu politik. Seakan sudah membuat kesepakatan untuk mengurangi jadwal ngopi di warung kopi yang ramai orang, itu dilakukan untuk menghindari paparan radiasi aktif isu-isu politik yang beredar luar biasa masifnya.
@@ -51,9 +55,10 @@ Dalam perjalanan pulang ke rumah masing-masing. Miun masih sempat-sempatnya meng
 
 "Wah, masuk juga idemu, boleh dicoba. Peluang usaha yang menjanjikan itu." Balas Warso kegirangan.
 
-Dua bulan kemudian Warso diciduk polisi dan kini meringkuk dalam hotel prodeo. 
+Dua bulan kemudian Warso diciduk polisi dan kini meringkuk dalam hotel prodeo.
 
 ![Hotel Kekinian](https://bangakrie.files.wordpress.com/2015/01/062.jpg)
-_gambar via bangakrie.wordpress.com_
 
 > Biar kamu tahu saja, **Prodeo** itu artinya gratis. Penjara jaman sekarang diumpamakan hotel, sebab napi bisa mendapat fasilitas mewah dan bisa bebas beraktivitas seperti biasa. Konon kabarnya beberapa gembong bandar narkoba masih bisa menjalankan bisnisnya dibalik tebalnya tembok jeruji besi. Begitu.
+
+_**dari editor:** gambar-gambar via bangakrie.wordpress.com, tidak dimaksudkan untuk ilustrasi cerita fiksi ini melainkan agar kamu "terhibur" saja._

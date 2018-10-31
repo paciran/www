@@ -1,6 +1,16 @@
 ---
+layout: post
+current: fiksi
+navigation: True
+cover: False
+class: post-template
+subclass: [post, post-fiksi]
 title: "Zona Aman? Omong Kosong"
-description:
+description: "'Loh! Situasi politik saat ini sangat-sangat berdampak ole isu-isu negatif nan provokatif.' Sahut Warso dengan cepat"
+author: sukadi
+editor: mukidi
+date: 2018-10-31 08:00:07 +7
+tags: [politik, fiksi]
 ---
 
 Pada masa itu seorang pembaca berita di salah satu stasiun televisi nasional, sedang mewartakan skandal sex yang melibatkan politisi kelas kakap, berita itu telah membikin heboh jagat maya dan imbasnya skandal sex yang sudah terlanjur bikin heboh itu menggelinding lancar ke pelosok desa-desa.
@@ -41,4 +51,9 @@ Dalam perjalanan pulang ke rumah masing-masing. Miun masih sempat-sempatnya meng
 
 "Wah, masuk juga idemu, boleh dicoba. Peluang usaha yang menjanjikan itu." Balas Warso kegirangan.
 
-Dua bulan kemudian Warso diciduk polisi dan kini meringkuk dalam hotel prodeo. (Prodeo artinya gratis. Penjara jaman sekarang diumpamakan hotel, sebab napi bisa mendapat fasilitas mewah dan bisa bebas beraktivitas seperti biasa. Konon kabarnya beberapa gembong bandar narkoba masih bisa menjalankan bisnisnya dibalik tebalnya tembok jeruji besi.)
+Dua bulan kemudian Warso diciduk polisi dan kini meringkuk dalam hotel prodeo. 
+
+![Hotel Kekinian](https://bangakrie.files.wordpress.com/2015/01/062.jpg)
+_gambar via bangakrie.wordpress.com_
+
+> Biar kamu tahu saja, **Prodeo** itu artinya gratis. Penjara jaman sekarang diumpamakan hotel, sebab napi bisa mendapat fasilitas mewah dan bisa bebas beraktivitas seperti biasa. Konon kabarnya beberapa gembong bandar narkoba masih bisa menjalankan bisnisnya dibalik tebalnya tembok jeruji besi. Begitu.

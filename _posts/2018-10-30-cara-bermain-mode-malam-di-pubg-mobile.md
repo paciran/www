@@ -12,7 +12,7 @@ description: Kendati mode ini muncul secara acak, pemain bisa memprediksi kapan 
 date: 2018-10-30 04:18:20 +7
 ---
 
-[PUBG Mobile](https://asset.kompas.com/crop/30x50:705x449/640x340/data/photo/2018/06/20/3520580516.jpg)
+![PUBG Mobile](https://asset.kompas.com/crop/30x50:705x449/640x340/data/photo/2018/06/20/3520580516.jpg)
 
 Game Player Unknown's Battlegrounds (PUBG) Mobile menggulirkan beberapa pembaruan dalam menyambut event **Hallowen** yang jatuh pada 31 Oktober. Salah satunya adalah mode malam (Night Mode) yang sudah dapat dinikmati para pemain sejak beberapa hari yang lalu.
 
@@ -29,6 +29,7 @@ Cara untuk memainkan mode malam ini cukup mudah. Pertama-tama, pengguna harus me
 Jika sudah selesai, pemain pun harus mengunduh ulang peta-peta yang tersedia pada game tersebut mulai dari _Erangel_, _Miramar_, hingga _Sanhok_. Setelah itu pemain pun bisa langsung dapat memainkan mode malam ini, tetapi ada beberapa hal yang perlu diingat.
 
 {% include adsense1.html %}
+
 **Pertama**, mode malam ini hanya dapat dinikmati pada peta _Erangel_ dengan mode _Classic_. Mode malam akan dapat hadir baik dalam permainan solo, duo, maupun tim. **Kedua**, mode malam ini hanya akan dapat dimainkan secara random. Tidak setiap kali bermain selalu masuk night mode.
 
 Artinya, pemain tidak dapat memilih untuk bermain dalam mode malam sendiri. Keadaan lingkungan game, apakah siang atau malam, akan ditentukan secara acak untuk tiap ronde. Biasanya night mode akan berlangsung ketika masuk ke pertengahan batas waktu permainan.

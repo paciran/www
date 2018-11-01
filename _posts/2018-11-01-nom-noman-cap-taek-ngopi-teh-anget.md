@@ -18,7 +18,7 @@ Panggilan telepon itu aku terima dan suara setan bengkorengan di seberang sana t
 
 "Sebenarnya apa yang mau kau selesaikan?" Jawabku pelan, sengaja aku memelankan suara. Sambil berharap setan yang ada di sana tidak mendengar apa yang aku katakan.
 
-"Berdamai, maksudku mencoba kompromi dengan kenyataan yang berlaku, nyata-nyatanya tak juga memperbaiki apa yang aku kira akan lebih baik. Bisa jadi aku yang tidak bisa dengan mudah menerima, maksudku setiap alur drama-drama cengeng yang sudah terjadi." Suara makhluk aneh di ujung telepon itu memelas.
+"Berdamai, maksudku [mencoba kompromi](https://www.paciran.com/ketika-angka-bisa-saling-baku-hantam) dengan kenyataan yang berlaku, nyata-nyatanya tak juga memperbaiki apa yang aku kira akan lebih baik. Bisa jadi aku yang tidak bisa dengan mudah menerima, maksudku setiap alur drama-drama cengeng yang sudah terjadi." Suara makhluk aneh di ujung telepon itu memelas.
 
 Aku bahkan lupa dan kami berdua memang belum sempat mengucapkan kalimat sapaan basa-basi "Hallo" atau salam. Tapi dia, maksudku si Suki sudah lebih dulu nyerocos, bocor dan meracau, bukan maksudku menggerutu, ah, bukan juga, lebih mirip suara kecoa yang menggonggong dengan sendu.
 
@@ -26,7 +26,7 @@ Aku bahkan lupa dan kami berdua memang belum sempat mengucapkan kalimat sapaan b
 
 "kapan kapokmu!" tentu saja kalimat itu tak terucap oleh mulut ceroboh saya, lagipula hari masih terlalu pagi untuk merutuki nasib sial seorang kawan.
 
-"Kau kira, aku ini orang sakit yang nyaman dan tentram hanya dengan Teh hangat. Aku tak sudi mengikuti tradisi bodohmu itu setan koak." Katanya berang dan berontak, suara di seberang terdengar mendesah dan risau, suara itu suara khas milik sobatku Suki, celotehnya sudah seperti komandan gerilya yang gagal menyiapkan serangan penghabisan ke kubu lawan.
+"Kau kira, aku ini orang sakit yang nyaman dan tentram hanya dengan Teh hangat. Aku tak sudi mengikuti tradisi bodohmu itu setan koak." Katanya berang dan berontak, suara di seberang terdengar mendesah dan risau, suara itu suara khas milik sobatku Suki, celotehnya sudah seperti [komandan gerilya yang gagal](https://www.paciran.com/hikajat-tjatjing-undjuk-rasa-radikal) menyiapkan serangan penghabisan ke kubu lawan.
 
 Tiap kali nongkrong di warung kopi, aku lebih suka menikmati teh hangat daripada kopi, dan para temanku selalu berpikir bahwa aku adalah salah satu manusia yang menyedihkan hanya karena tidak senang menikmati kopi. Selagi kita berbincang lewat telepon, dendang musik dangdut koplo terdengar keras di seberang sana hingga terdengar di gawai, dan Suki sesekali ikut menyanyi mengikuti irama lagu yang didominasi suara gendang itu.
 
@@ -50,7 +50,7 @@ Suki telah duduk dengan posisi yang tak pernah nyaman, pantatnya bergerak ke kan
 
 "Bukannya semalam kau sedang bersenang-senang." Balasku, memancing bajingan tengik ini.
 
-"Aku kira dengan bersenang-senang itu akan mengalihkan kenangan tentangnya, tapi bayangan dan kenangan itu mengejarku terus." Ucapnya nelangsa.
+"Aku kira dengan bersenang-senang itu akan [mengalihkan kenangan](https://www.paciran.com/kangen-djuga-kadang-redup-lur) tentangnya, tapi bayangan dan kenangan itu mengejarku terus." Ucapnya nelangsa.
 
 Aku mendekati setan di depanku ini, sambil berucap kencang di telinganya aku berkata. "Nom-nom'an taek. Kapan kapokmu!"
 
@@ -72,7 +72,7 @@ Aku mendekati setan di depanku ini, sambil berucap kencang di telinganya aku ber
 
 "Apa maksudmu!"
 
-"Kamu baru sekali patah hati sudah kayak setan dibacakan ayat suci. Coba kau hitung, sudah berapa perempuan yang kau bikin patah hatinya, sebab aku curiga! jangan-jangan patah hatimu ini baru permulaan, masih banyak drama patah hati yang akan kau alami di masa depan."
+"Kamu baru sekali patah hati sudah kayak setan dibacakan ayat suci. Coba kau hitung, sudah berapa perempuan yang kau bikin patah hatinya, sebab aku curiga! jangan-jangan patah hatimu ini baru permulaan, masih banyak [drama patah hati](https://www.paciran.com/resensi-tjinta-imensi-kehilangam) yang akan kau alami di masa depan."
 
 "Sepertinya masa depanku akan suram jika apa yang kau ramalkan itu benar-benar terjadi. Mereka, perempuan-perempuan baik itu jika dijumlahkan lebih dari jari tangan ditambah jari kaki."
 

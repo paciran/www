@@ -1,8 +1,8 @@
 mukidi:
   username: mukidi
   name: Jon Mukidi
-  url_full: https://www.paciran.com/author/mukidi
-  url: /author/mukidi
+  url_full: https://www.knoacc.org
+  url: www.knoacc.org
   bio: Jon Mukidi is a real-designer, not-photographer, nyocot-er, author of a couple of blogs and the founder of the some-kind-of-stupidity
   picture: assets/images/mukidi.jpg
   facebook: nasyrih
@@ -11,21 +11,21 @@ mukidi:
 sukadi:
   username: sukadi
   name: Kaji Sukadi
-  url_full: https://www.paciran.com/author/sukadi
-  url: /author/sukadi
+  url_full: https://a1nu22ohman,blogspot.com
+  url: a1nu22ohman,blogspot.com
   bio: Generasi pesisir Paciran jang tidak soeka maboek laoet, njambi bakoel boekoe Ce-O-De-an
   picture: assets/images/koradi.jpg
   facebook: A1nu22ohman
   twitter: a1nu22ohman
   cover: assets/images/senja-laut-paciran.jpg
 oneng:
-  username: oneng
-  name: Neng Oneng
-  url_full: https://www.paciran.com/author/sukadi
-  url: False
+  username: muhlisin
+  name: Sien Chan
+  url_full: https://kakshien.blogspot.com
+  url: kakshien.blogspot.com
   bio: False
-  picture: assets/images/oneng.jpg
-  facebook: holy
+  picture: assets/images/muhlisin.jpg
+  facebook: ShienChan
   twitter: False
 #  cover: assets/images/senja-laut-paciran.jpg
 itmam:

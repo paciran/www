@@ -1,7 +1,7 @@
 ---
 layout: post
 current: internet
-cover: assets/images/og_default.jpg
+cover: assets/images/og-default.jpg
 navigation: True
 date: 2018-08-08 09:00:00
 last_update: 2018-11-06 09:34:32

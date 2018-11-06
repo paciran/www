@@ -1,7 +1,7 @@
 ---
 layout: post
 current: internet
-cover: assets/images/Premier-League-Logos.jpg
+cover: assets/images/og_default.jpg
 navigation: True
 date: 2018-08-08 09:00:00
 last_update: 2018-11-06 09:34:32
@@ -27,6 +27,8 @@ Tapi apa _latjur_, ternyata tak semua tivi lokal mau menayangkan pertandingan te
 Loh, itu kan menurutmu wahai para jomblo. Mestinya kalian berusaha sedikit dengan membayar tivi-kabel. Kan di Paciran sudah banyak juga yang _narik-kabel_. Penyedia layanan [tivi kabel partikelir](https://www.google.co.id/amp/s/m.jpnn.com/amp/news/duh-layanan-tv-kabel-ilegal-marak-di-rusunawa-dan-apartemen) yang biaya sewa perbulannya cuma puluhan ribu saja itu loh _cak_. Tapi ya itu channel-nya _ndak_ bisa milih, _opo jare_ sang pemilik. Jangan tanya saya siapa namanya _lur_, aku _gak_ promosi. Nek _riko_ ngerti, bilang suruh pasang iklan di sini biar tak sebut nama dan alamatnya hehe... Judulnya tetep duwit.
 
 ### Gawai Cerdas nan canggih
+
+![Premier League](/assets/images/Premier-League-Logos.jpg)
 
 Hemm.. Jaman sekarang, siapa yang tak punya gawai-cerdas? Entah itu gawai yang mahalnya seharga sapi seperti produk buatan Apple Inc., atau semurah kripik tempe lokal ber-OS Android semacam Adv•n. Yang kalau _saia_ disuruh makek pun mualess gara-gara disisipi **adware**. Bukan apa-apa, aplikasi semcam ini penyebab utama _malware_ menerobos masuk lewat kode jahat yang diselundupkan lewat iklan (entah bagaimana caranya), yang kalau sudah dipakai beberapa bulan menjadi _naudubilah_ lemotnya. 
 

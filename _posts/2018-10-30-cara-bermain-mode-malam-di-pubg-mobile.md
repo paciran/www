@@ -22,7 +22,7 @@ Dalam mode malam ini, para pemain akan disuguhkan arena pertandingan dalam kondi
 
 Dalam Night Mode, para pemain akan kesulitan untuk melihat kondisi arena dengan jelas. Kendati demikian para pemain bisa mendapatkan teropong night vision ketika bermain dalam mode ini.
 
-![Night Mode](https://asset.kompas.com/crop/0x0:1000x667/750x420/data/photo/2018/10/30/1374846775.jpgkl)
+![Night Mode](https://asset.kompas.com/crop/0x0:1000x667/750x420/data/photo/2018/10/30/1374846775.jpg)
 
 Cara untuk memainkan mode malam ini cukup mudah. Pertama-tama, pengguna harus melakukan pembaruan [PUBG Mobile](https://www.paciran.com/lokasi-rahasia-looting-item-langka-pubg-mobile) ke versi **0.9.0**. Pembaruan dapat dilakukan lewat Google PlayStore maupun dari halaman muka game _PUBG Mobile_ ketika game pertama kali dibuka.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 current: internet
-cover: assets/images/streaming.jpg
+cover: assets/images/Premier-League-Logos.jpg
 navigation: True
 date: 2018-08-08 09:00:00
 last_update: 2018-11-06 09:34:32
@@ -16,7 +16,7 @@ redirect_from:
 ---
 Di saat liga-liga di Eropa sana mulai bergulir lagi di musim 2018/2019, jenis manusia berbatang yang _single_, baik yang terang-terangan mengaku _jomblo_ atau meng-iya-kan ke _single_ annya dalam tunduk malu, Minggu dini-hari adalah waktu sakral untuk melampiaskan kejengkelannya pada nasib dengan nonton bola selain (tentu saja) mobalog yang b••s•t itu.
 
-![Liga Inggris](https://i0.wp.com/setanmerah.net/wp-content/uploads/2017/07/Premier-League-Logos.jpg)
+![Streaming Liga Champions](/assets/images/streaming.jpg)
 
 Sebagai yang pertama bergulir, adalah [_Premier League_](//www.google.co.uk/search?q=Premier+League) nya Inggris di susul [_Liga Calcio_](//www.google.it/search?q=Liga+Calcio) nya Italia. Baru kemudian Spanyol dengan [_La Liga_](www.google.se/search?q=La+Liga), dan [_Fubball Bundesliga_](//www.google.de/search?q=Fubbal+Bundesliga). Setidaknya empat liga itu yang pernah tayang di tivi lokal, dan masih ditonton.
 

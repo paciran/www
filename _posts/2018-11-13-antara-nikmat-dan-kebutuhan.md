@@ -7,7 +7,7 @@ tags: [sosial, tragedi, menulis]
 current: posts
 class: post-template
 subclasd: [post, tag-sosial]
-date: 2018-11-01 03:24:31 
+date: 2018-11-13 03:24:31 
 ---
 Mulai hari senin kemarin saya sudah tidak pegang gawai, ada peristiwa tragis, gawai saya satu-satunya jatuh, layarnya pecah dan imbas dari insiden itu gawai macet total, benar-benar sudah tidak bisa menyala. Kepalang tanggung, sekalian saya banting, biar modyar. Artinya nomor telepon saya tidak bisa sampean hubungi, baik telepon langsung maupun pesan singkat.
 

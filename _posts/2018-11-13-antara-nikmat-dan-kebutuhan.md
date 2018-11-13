@@ -13,7 +13,7 @@ Mulai hari senin kemarin saya sudah tidak pegang gawai, ada peristiwa tragis, ga
 
 Menjelang siang ini sudah lebih dari dua puluh empat jam tidak memegang gawai. Alur waktu terasa pelan dan sejenak arus kehidupan terasa nikmat. Batin ini merasa ada banyak kenikmatan yang saya lewatkan jika pegang gawai, justru di saat ada yang _krowak_, bolong, kosong, tidak lengkap dan ganjil.
 
-Tapi dilemanya, jika terkait dengan sumber penghidupan, saya benar-benar membutuhkan gawai untuk menjalin komunikasi agar lebih efektif. Ada banyak pekerjaan saya yang langsung berkaitan dengan gawai. Terutama komunikasi pesan singkat lewat aplikasi WhatsApp, sialan gawai sudah seperti candu. Ha-ha-ha.
+Tapi dilemanya, jika terkait dengan sumber penghidupan, saya benar-benar membutuhkan gawai untuk menjalin komunikasi agar lebih efektif. Ada [banyak pekerjaan saya](https://www.paciran.com/cara-membuat-npwp-untuk-melamar-kerja) yang langsung berkaitan dengan gawai. Terutama komunikasi pesan singkat lewat aplikasi WhatsApp, sialan gawai sudah seperti candu. Ha-ha-ha.
 
 Karena hidup di pulau tropis ini tidak sepenuhnya bisa memilih bebas, untuk sementara saya hendak bersikap egois dengan memutuskan ingin menikmati tiga hari mungkin lebih tanpa pegang gawai. Jika sampean ada urusan serius, sila menghubungi saya di [kolom pesan akun facebook](https://www.paciran.com/diskusi-di-media-sosial-bukan-diskusi-sehat) (baca: Inbok) ini. Tentu saja, saya hanya akan membaca pesan yang masuk saat ada jaringan wifi. Karena saya daring menggunakan laptop.
 

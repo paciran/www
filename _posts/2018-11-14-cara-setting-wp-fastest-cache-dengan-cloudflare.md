@@ -4,7 +4,8 @@ description: "Cara melakukan pengaturan untuk menghubungkan plugin WP Fastest Ca
 author: mukidi
 editor: mukidi
 tags: [menulis, tutorial, internet]
-class: post
+current: posts
+class: post-template
 subclass: [post, tag-tutorial]
 date: 2018-11-14 17:00:50
 cover: False

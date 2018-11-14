@@ -16,7 +16,7 @@ Kamu tentu saja ingin pengunjung blog kamu semakin hari semakin banyak, selain m
 
 Tutorial ini sangat cocok untuk pemula karna pengaturan yang sangat cepat dan sederhana, tentu saja hal ini sangat membantu dalam mempercepat blog kamu.
 
-**Syarat:** Memiliki blog [wordpress](https://www.wordpress.org) dan akun [Cloudflare](https://www.cloudflare.com
+**Syarat:** Memiliki blog [wordpress](https://www.wordpress.org) dan akun [Cloudflare](https://www.cloudflare.com)
 
 ## Mengkombinasikan WP Fastest Cache dengan CDN Cloudflare
 Agar blog wordpress semakin cepat ketika diakses, bisa memanfaatkan CDN milik Cloudflare melalui plugin WP Fastest Cache. Berikut ini adalah cara untuk menghubungkan kedua-nya dan mendapatkan manfaat dari _caching_ konten dari CDN Cloudflare

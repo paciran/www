@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://www.paciran.com/author/mukidi/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://www.paciran.com/" rel="alternate" type="text/html" />
-  <updated>2018-11-14T11:59:18+00:00</updated>
+  <updated>2018-11-14T12:19:04+00:00</updated>
   <id>https://www.paciran.com/author/mukidi/feed.xml</id>
 
   
@@ -38,6 +38,86 @@
   
   
 
+  
+    <entry>
+      <title type="html">Cara Setting WP Fastest Cache Dengan Cloudflare</title>
+      <link href="https://www.paciran.com/cara-setting-wp-fastest-cache-dengan-cloudflare" rel="alternate" type="text/html" title="Cara Setting WP Fastest Cache Dengan Cloudflare" />
+      <published>2018-11-14T10:00:50+00:00</published>
+      <updated>2018-11-14T10:00:50+00:00</updated>
+      <id>https://www.paciran.com/cara-setting-wp-fastest-cache-dengan-cloudflare</id>
+      <content type="html" xml:base="https://www.paciran.com/cara-setting-wp-fastest-cache-dengan-cloudflare">&lt;p&gt;Kecepatan blog atau website sangat berpengaruh terhadap peringkat artikel pada pencarian google dan tentu saja jumlah pengunjung suatu blog dan website dipengaruhi oleh mesin pencari.&lt;/p&gt;
+
+&lt;p&gt;Kamu tentu saja ingin pengunjung blog kamu semakin hari semakin banyak, selain menerapkan teknik SEO yang baik kita bisa mempercepat akses ke situs, oleh karena itu kali ini saya menulis tutorial mempercepat wordpress dengan plugin WP Fastest Cache dan Cloudflare.&lt;/p&gt;
+
+&lt;p&gt;Tutorial ini sangat cocok untuk pemula karna pengaturan yang sangat cepat dan sederhana, tentu saja hal ini sangat membantu dalam mempercepat blog kamu.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Syarat:&lt;/strong&gt; Memiliki blog &lt;a href=&quot;https://www.wordpress.org&quot;&gt;wordpress&lt;/a&gt; dan akun &lt;a href=&quot;https://www.cloudflare.com&quot;&gt;Cloudflare&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;mengkombinasikan-wp-fastest-cache-dengan-cdn-cloudflare&quot;&gt;Mengkombinasikan WP Fastest Cache dengan CDN Cloudflare&lt;/h2&gt;
+&lt;p&gt;Agar blog wordpress semakin cepat ketika diakses, bisa memanfaatkan CDN milik Cloudflare melalui plugin WP Fastest Cache. Berikut ini adalah cara untuk menghubungkan kedua-nya dan mendapatkan manfaat dari &lt;em&gt;caching&lt;/em&gt; konten dari CDN Cloudflare&lt;/p&gt;
+
+&lt;h3 id=&quot;1-buat-akun-cloudflare&quot;&gt;1. Buat Akun Cloudflare&lt;/h3&gt;
+&lt;p&gt;Lakukan pendaftaran akun Cloudflare pada &lt;a href=&quot;https://dash.cloudflare.com/register&quot;&gt;link ini&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2-install-plugin-wp-fastest-cache&quot;&gt;2. Install Plugin WP Fastest Cache&lt;/h3&gt;
+&lt;p&gt;Buka Dashboard situs wordpress kamu, ke menu plugin dan tambahkan plugin baru &lt;strong&gt;WP Fastest Cache&lt;/strong&gt;. Lakukan instalasi dan aktifkan plugin tersebut.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-pengaturan-wp-fastest-cache&quot;&gt;3. Pengaturan WP Fastest Cache&lt;/h3&gt;
+&lt;p&gt;Setelah instalasai dan aktifasi, kamu bisa masuk ke menu WP Fastest Cache dan ikuti pengaturan sesuai gambar dibawah ini:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i2.wp.com/www.ramitan.com/wp-content/uploads/2018/07/WP-Fastest-Cache-e1535542367236.png?w=750&amp;amp;ssl=1&quot; alt=&quot;pengaturan wp fastest cache&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;4-atur-cache-time-out&quot;&gt;4. Atur Cache Time-out&lt;/h3&gt;
+&lt;p&gt;Lakukan pengaturan &lt;em&gt;cache timeout&lt;/em&gt; seperti gambar berikut:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i1.wp.com/www.ramitan.com/wp-content/uploads/2018/07/WP-Fastest-Cache2-e1535542388737.png?w=750&amp;amp;ssl=1&quot; alt=&quot;tentukan cache time out ideal&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;5-dapatkan-api-key-cloudflare&quot;&gt;5. Dapatkan API Key Cloudflare&lt;/h3&gt;
+&lt;p&gt;Untuk mendapatkan API Cloudflare, silahkan login ke dashboard Cloudflare kemudian klik pada My Profile. API Key akan terlihat seperti gambar di bawah:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i1.wp.com/www.ramitan.com/wp-content/uploads/2018/07/CF-e1535542380263.png?w=750&amp;amp;ssl=1&quot; alt=&quot;cara melihat api key cloudflare&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Klik pada &lt;strong&gt;View&lt;/strong&gt; untuk melihat API Key yang diberikan.&lt;/p&gt;
+
+&lt;h3 id=&quot;6-koneksikan-wp-fastest-cache-dengan-cloudflare&quot;&gt;6. Koneksikan WP Fastest Cache dengan Cloudflare&lt;/h3&gt;
+&lt;p&gt;Kembali pada pengaturan plugin WP Fastest Cache pada tab CDN, kamu bisa memasukan email dan API Key Cloudflare, setelah memasukan email dan API Key ikuti saja langkahnya dengan menekan tombol Next. Pengaturan akan terlihat seperti gambar dibawah ini:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i2.wp.com/www.ramitan.com/wp-content/uploads/2018/07/WP-Fastest-Cache3-e1535542396865.png?w=750&amp;amp;ssl=1&quot; alt=&quot;WP Fastets Cache + Cliudflare CDN&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;7-delete-cache-dan-minified-jscss&quot;&gt;7. Delete Cache Dan Minified JS/CSS&lt;/h3&gt;
+&lt;p&gt;Sebagai langkah terakhir, setelah semua pengaturan diatas selesai, silahkan Delete Cache And Minified JS/CSS pada WP Fastest Cache dan &lt;strong&gt;Purge Everything&lt;/strong&gt; Pada Caching Cloudflare.&lt;/p&gt;
+
+&lt;p&gt;Dengan menghubungkan plugin WP Fastest Cache dengan Cloudflare seperti yang dijelaskan di atas, diharapkan mampu membuat website/blog wordpres kamu semakin cepat dimuat oleh browser. Dengan begitu bisa menambah atau meningkatkan pengunjung.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Jon Mukidi</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="menulis" />
+      
+        <category term="tutorial" />
+      
+        <category term="internet" />
+      
+
+      
+        <summary type="html">Kecepatan blog atau website sangat berpengaruh terhadap peringkat artikel pada pencarian google dan tentu saja jumlah pengunjung suatu blog dan website dipengaruhi oleh mesin pencari.</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Main PUBG Mobile Mode Malam? Begini Ternyata</title>
@@ -1117,88 +1197,6 @@ Dalam file corel ada 2 halaman. Halaman 1 hanya kata “Paciran Mesuwur” warna
 
       
         <summary type="html">Pencak silat atau silat adalah suatu seni bela diri tradisional yang berasal dari Kepulauan Nusantara. Seni bela diri ini secara luas dikenal di Indonesia, Malaysia, Brunei, dan Singapura, Filipina selatan, dan Thailand selatan sesuai dengan penyebaran berbagai suku bangsa Nusantara. wikipedia</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Menikmati Seramnya Dunia Maya dalam Film Searching (2018)</title>
-      <link href="https://www.paciran.com/film-searching-kriminal-misteri-milenial" rel="alternate" type="text/html" title="Menikmati Seramnya Dunia Maya dalam Film Searching (2018)" />
-      <published>2018-10-11T21:23:00+00:00</published>
-      <updated>2018-10-11T21:23:00+00:00</updated>
-      <id>https://www.paciran.com/film-searching-kriminal-misteri-milenial</id>
-      <content type="html" xml:base="https://www.paciran.com/film-searching-kriminal-misteri-milenial">&lt;blockquote&gt;
-  &lt;p&gt;Film kriminal misteri millenial ini layaknya &lt;em&gt;guide&lt;/em&gt; bagi orang awam untuk melakukan &lt;em&gt;stalking&lt;/em&gt; alias ngasih &lt;em&gt;sampeyan&lt;/em&gt; cara untuk mencari rekam jejak digital seseorang. Film ini juga membuat &lt;em&gt;sampeyan&lt;/em&gt; cerdas dalam berselancar di dunia maya.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:block&quot; data-ad-client=&quot;ca-pub-8526606076277673&quot; data-ad-slot=&quot;8771412334&quot; data-ad-format=&quot;auto&quot; data-full-width-responsive=&quot;true&quot;&gt;&lt;/ins&gt;&lt;script&gt;
-(adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;Sudah nonton Film Searching (2018)? Sebuah film misteri yang bercerita tentang pembunuhan, penculikan, dan detektif boleh dikata &lt;em&gt;tricky&lt;/em&gt;. Alasannya, tidak semua film misteri mampu membuat penonton tetap fokus sepanjang film. Apalagi jika isinya hanya seputar pencarian sesuatu atau seseorang, dengan bumbu adegan &lt;em&gt;gepuk-gepuk-an&lt;/em&gt; (baku hantam). Tampaknya, plot tersebut sudah &lt;em&gt;buuuppiyasa&lt;/em&gt;. Namun, berbeda dengan film &lt;em&gt;Searching&lt;/em&gt;. Film yang sudah muncul b4j4kannya ini digarap dengan brilian meski plotnya &lt;em&gt;sodok pasaran&lt;/em&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Sinopsis:&lt;/strong&gt; Bercerita tentang David Kim, seorang ayah yang tengah kehilangan anak semata wayangnya bernama Margot Kim. David pun melaporkan peristiwa kehilangan putrinya pada pihak keamanan. Kemudian, dia mendapat bantuan dari seorang detektif untuk memecahkan masalah kehilangan anaknya. Namun, dalam waktu 37 jam, Margot tidak kunjung ditemukan. Hingga, David mendapatkan cara sendiri untuk menemukan putrinya.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;iframe src=&quot;//www.youtube-nocookie.com/embed/3Ro9ebQxEOY?rel=0&amp;amp;showinfo=0&amp;amp;controls=0&quot; frameborder=&quot;0&quot; mozallowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Sekilas, membaca sinopsisnya, &lt;em&gt;sampeyan&lt;/em&gt; bakal &lt;em&gt;ngroso&lt;/em&gt; film &lt;em&gt;Searching&lt;/em&gt; punya plot yang umum: penculikan yang melibatkan detektif. Begitu pula ketika &lt;em&gt;sampeyan&lt;/em&gt; lihat cuplikannya di Youtube, &lt;em&gt;jekene&lt;/em&gt; kok biasa saja. Nah, hal ini menimbulkan dua persepsi. Pertama, bisa membuat orang penasaran dengan filmnya karena ulasan di media luar negeri yang positif. Kedua, justru bisa jadi &lt;em&gt;boomerang&lt;/em&gt; buat penonton yang tertarik nonton film karena sinopsis dan video cuplikannya.&lt;/p&gt;
-
-&lt;p&gt;Film yang disutradarai oleh Aneesh Chaganty ini bisa dibilang berpotensi masuk Academy Awards 2019. Soalnya, film ini mampu membuat penonton (saya) ikut larut dalam cerita. Film &lt;em&gt;Searching&lt;/em&gt; tidak membuat &lt;em&gt;sampeyan&lt;/em&gt; sekadar jadi penonton yang lagi butuh hiburan. Film ini justru membuat &lt;em&gt;sampeyan&lt;/em&gt; ikutan mikir soal masalah di dalamnya. Yap, dengan kata lain, film ini juga mengajak &lt;em&gt;sampeyan&lt;/em&gt; merasakan hal yang dialami pemeran utama.&lt;/p&gt;
-
-&lt;p&gt;Kalau &lt;em&gt;sampeyan&lt;/em&gt; pernah nonton film &lt;em&gt;Unfriended&lt;/em&gt; (2014), film ini punya &lt;em&gt;treatment&lt;/em&gt; yang hampir sama. penonton tidak diberikan kesempatan untuk melihat para pemeran tanpa perantara. Maksudnya, sepanjang film, &lt;em&gt;sampeyan&lt;/em&gt; cuma melihat para pemeran melalui media seperti, layar laptop, ponsel, televisi, dan dunia &lt;em&gt;cyber&lt;/em&gt; lainnya. Bedanya, film &lt;em&gt;Searching&lt;/em&gt; tidak menyuguhkan kesadisan dari makhluk tak kasat mata seperti di film &lt;em&gt;Unfriended&lt;/em&gt; (2014). Sebaliknya, film ini menampilkan sisi seram manusia yang bisa kapan saja menyerang &lt;em&gt;sampeyan&lt;/em&gt;. Film ini bertutur tentang sebuah pencarian. Tidak hanya pencarian yang dilakukan para pemeran, tapi juga mengajak &lt;em&gt;sampeyan&lt;/em&gt; ikut melakukan “pencarian”. Sutradara Chaganty bisa dibilang berhasil membuat &lt;em&gt;sampeyan&lt;/em&gt; ikutan hadir dalam film.&lt;/p&gt;
-
-&lt;p&gt;Uniknya, film ini &lt;em&gt;relate&lt;/em&gt; abis dengan perilaku manusia di internet. Kalau &lt;em&gt;sampeyan&lt;/em&gt; suka &lt;em&gt;stalking&lt;/em&gt; seseorang, film ini layaknya &lt;em&gt;guide&lt;/em&gt; bagi orang awam untuk melakukan &lt;em&gt;stalking&lt;/em&gt;. Lebih tepatnya, film ini ngasih &lt;em&gt;sampeyan&lt;/em&gt; cara untuk mencari rekam jejak digital seseorang. Film ini juga membuat &lt;em&gt;sampeyan&lt;/em&gt; cerdas dalam berselancar di dunia maya.&lt;/p&gt;
-
-&lt;p&gt;Kalau banyak film yang cuma mengandalkan satu plot &lt;em&gt;twist&lt;/em&gt; demi mengejutkan penonton, film ini justru sebaliknya. &lt;em&gt;Searching&lt;/em&gt; malah memiliki banyak plot &lt;em&gt;twist&lt;/em&gt; yang membuat &lt;em&gt;sampeyan&lt;/em&gt; terus dikasih kejutan. Di akhir film &lt;em&gt;sampeyan&lt;/em&gt; bakal takjub kepada Chaganty. Kok bisa-bisanya dia kepikiran membuat plot sederhana tapi &lt;em&gt;mind-blowing&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;penokohan&quot;&gt;Penokohan&lt;/h3&gt;
-
-&lt;p&gt;Hebatnya, Chaganty tidak memakai orang yang benar-benar awam soal internet sebagai pemeran utamanya. Dipilihnya John Cho sebagai pemeran utama, David Kim, tidak membuat &lt;em&gt;sampeyan&lt;/em&gt; kesel tentang perilakunya. Sebaliknya, &lt;em&gt;sampeyan&lt;/em&gt; malah dibuat salut oleh akting Cho. Dia bisa jadi bapak yang peka dan logis. Dalam waktu yang bersamaan, &lt;em&gt;sampeyan&lt;/em&gt; bisa merasakan kekhawatiran seorang ayah ketika anaknya menghilang secara misterius.&lt;/p&gt;
-
-&lt;p&gt;&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:block&quot; data-ad-client=&quot;ca-pub-8526606076277673&quot; data-ad-slot=&quot;7712851534&quot; data-ad-format=&quot;auto&quot; data-full-width-responsive=&quot;true&quot;&gt;&lt;/ins&gt;&lt;script&gt;(adsbygoogle = window.adsbygoogle || []).push({});&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;Dibintangi oleh Michele La sebagai Margot remaja yang &lt;em&gt;garai&lt;/em&gt; &lt;em&gt;sampeyan&lt;/em&gt; &lt;em&gt;gregetan&lt;/em&gt;, penasaran, sekaligus prihatin dengan hilangnya remaja 16 tahun itu. Sebenarnya, pemeran Margot ada tiga orang lagi. Mereka adalah Alex Jayne Go sebagai Margot lima tahun, Megan Liu sebagai Margot tujuh tahun, dan Kya Dawn Lau sebagai Margot sembilan tahun.&lt;/p&gt;
-
-&lt;p&gt;Lalu, ada Debra Messing sebagai detektif yang menolong David Kim. Ada satu kejutan darinya yang membuat &lt;em&gt;sampeyan&lt;/em&gt; &lt;em&gt;godek-godeg&lt;/em&gt;. Ada Sara Sohn sebagai Pamela Kim alias nyokap Margot yang membuat &lt;em&gt;sampeyan&lt;/em&gt; terharu di awal film. Memang, tidak banyak pemain yang tampil, tapi justru membuat film makin fokus.&lt;/p&gt;
-
-&lt;h3 id=&quot;audio-visual&quot;&gt;Audio Visual&lt;/h3&gt;
-
-&lt;p&gt;Soal visual, &lt;em&gt;sampeyan&lt;/em&gt; tidak bakal mendapati gambar layaknya film-film lain. Satu waktu &lt;em&gt;sampeyan&lt;/em&gt; seakan jadi orang di depan layar yang mengetahui setiap perilaku pemeran utama. &lt;em&gt;Sampeyan&lt;/em&gt; juga seakan jadi orang yang ikut dalam film karena seluruh kejadian di &lt;em&gt;desktop&lt;/em&gt; laptop terekam tanpa ada jeda. Yap, film ini pakai sudut pandang monitor atau &lt;em&gt;screencast&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Sedangkan efek suara yang ditampilkan benar-benar sudut pandang media komunikasi. Seperti rekaman suara saat menelepon, rekaman suara di laptop, dan suara-suara yang dihasilkan perangkat media komunikasi. Ditambah, suara notifikasi media pun terasa nyata.Meski penuh teka-teki dan ketegangan, Chaganty mampu memberikan sedikit komedi yang membuat ngakak tapi tidak murahan. Film plot sederhana ini terasa lebih spesial karena mampu memanfaatkan semua sisi dari internet dengan cukup lengkap. Bahkan tanpa harus menggunakan pemain terkenal. Selain itu kejadian di film ini berjalan secara &lt;em&gt;real-time&lt;/em&gt; yang dapat dengan msudah kita pahami.&lt;/p&gt;
-
-&lt;h3 id=&quot;nonton-karo-sopo-enak-e&quot;&gt;Nonton Karo Sopo Enak-e?&lt;/h3&gt;
-
-&lt;p&gt;Film &lt;em&gt;Searching&lt;/em&gt; ditujukan untuk penonton 13 tahun ke atas. Jadi, kalau &lt;em&gt;sampeyan&lt;/em&gt; pengen mengajak &lt;em&gt;dedek kecil&lt;/em&gt; di bawah usia tersebut, ojo! &lt;em&gt;Sampeyan&lt;/em&gt; gak pengen toh, kalau fokus &lt;em&gt;sampeyan&lt;/em&gt; terganggu dengan kerewelan mereka? Satu lagi, sebelum nonton, pastikan &lt;em&gt;sampeyan&lt;/em&gt; tidak sedang murus-murus atau tidak minum banyak. &lt;em&gt;Soale nek sampeyan klewat sak scene&lt;/em&gt;, &lt;em&gt;sampeyan&lt;/em&gt; bakal rugi. Film ini sudah ditayangkan sejak 24 Agustus 2018 lalu. Tetapi ya itu, saya baru bisa nonton baru-baru ini karena menunggu &lt;a href=&quot;https://goo.gl/veWtHH&quot;&gt;&lt;strong&gt;versi b4j4k4nnya&lt;/strong&gt;&lt;/a&gt; berkualitas bagus.&lt;/p&gt;
-
-&lt;p&gt;&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:block&quot; data-ad-client=&quot;ca-pub-8526606076277673&quot; data-ad-slot=&quot;7369031133&quot; data-ad-format=&quot;auto&quot; data-full-width-responsive=&quot;true&quot;&gt;&lt;/ins&gt;&lt;script&gt;(adsbygoogle = window.adsbygoogle || []).push({});&lt;/script&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Jon Mukidi</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="internet" />
-      
-        <category term="film" />
-      
-
-      
-        <summary type="html">Film kriminal misteri millenial ini layaknya guide bagi orang awam untuk melakukan stalking alias ngasih sampeyan cara untuk mencari rekam jejak digital seseorang. Film ini juga membuat sampeyan cerdas dalam berselancar di dunia maya.</summary>
       
 
       

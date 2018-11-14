@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://www.paciran.com/tag/internet/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://www.paciran.com/" rel="alternate" type="text/html" />
-  <updated>2018-11-14T11:59:18+00:00</updated>
+  <updated>2018-11-14T12:19:04+00:00</updated>
   <id>https://www.paciran.com/tag/internet/feed.xml</id>
 
   
@@ -38,6 +38,86 @@
   
   
 
+  
+    <entry>
+      <title type="html">Cara Setting WP Fastest Cache Dengan Cloudflare</title>
+      <link href="https://www.paciran.com/cara-setting-wp-fastest-cache-dengan-cloudflare" rel="alternate" type="text/html" title="Cara Setting WP Fastest Cache Dengan Cloudflare" />
+      <published>2018-11-14T10:00:50+00:00</published>
+      <updated>2018-11-14T10:00:50+00:00</updated>
+      <id>https://www.paciran.com/cara-setting-wp-fastest-cache-dengan-cloudflare</id>
+      <content type="html" xml:base="https://www.paciran.com/cara-setting-wp-fastest-cache-dengan-cloudflare">&lt;p&gt;Kecepatan blog atau website sangat berpengaruh terhadap peringkat artikel pada pencarian google dan tentu saja jumlah pengunjung suatu blog dan website dipengaruhi oleh mesin pencari.&lt;/p&gt;
+
+&lt;p&gt;Kamu tentu saja ingin pengunjung blog kamu semakin hari semakin banyak, selain menerapkan teknik SEO yang baik kita bisa mempercepat akses ke situs, oleh karena itu kali ini saya menulis tutorial mempercepat wordpress dengan plugin WP Fastest Cache dan Cloudflare.&lt;/p&gt;
+
+&lt;p&gt;Tutorial ini sangat cocok untuk pemula karna pengaturan yang sangat cepat dan sederhana, tentu saja hal ini sangat membantu dalam mempercepat blog kamu.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Syarat:&lt;/strong&gt; Memiliki blog &lt;a href=&quot;https://www.wordpress.org&quot;&gt;wordpress&lt;/a&gt; dan akun &lt;a href=&quot;https://www.cloudflare.com&quot;&gt;Cloudflare&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;mengkombinasikan-wp-fastest-cache-dengan-cdn-cloudflare&quot;&gt;Mengkombinasikan WP Fastest Cache dengan CDN Cloudflare&lt;/h2&gt;
+&lt;p&gt;Agar blog wordpress semakin cepat ketika diakses, bisa memanfaatkan CDN milik Cloudflare melalui plugin WP Fastest Cache. Berikut ini adalah cara untuk menghubungkan kedua-nya dan mendapatkan manfaat dari &lt;em&gt;caching&lt;/em&gt; konten dari CDN Cloudflare&lt;/p&gt;
+
+&lt;h3 id=&quot;1-buat-akun-cloudflare&quot;&gt;1. Buat Akun Cloudflare&lt;/h3&gt;
+&lt;p&gt;Lakukan pendaftaran akun Cloudflare pada &lt;a href=&quot;https://dash.cloudflare.com/register&quot;&gt;link ini&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2-install-plugin-wp-fastest-cache&quot;&gt;2. Install Plugin WP Fastest Cache&lt;/h3&gt;
+&lt;p&gt;Buka Dashboard situs wordpress kamu, ke menu plugin dan tambahkan plugin baru &lt;strong&gt;WP Fastest Cache&lt;/strong&gt;. Lakukan instalasi dan aktifkan plugin tersebut.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-pengaturan-wp-fastest-cache&quot;&gt;3. Pengaturan WP Fastest Cache&lt;/h3&gt;
+&lt;p&gt;Setelah instalasai dan aktifasi, kamu bisa masuk ke menu WP Fastest Cache dan ikuti pengaturan sesuai gambar dibawah ini:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i2.wp.com/www.ramitan.com/wp-content/uploads/2018/07/WP-Fastest-Cache-e1535542367236.png?w=750&amp;amp;ssl=1&quot; alt=&quot;pengaturan wp fastest cache&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;4-atur-cache-time-out&quot;&gt;4. Atur Cache Time-out&lt;/h3&gt;
+&lt;p&gt;Lakukan pengaturan &lt;em&gt;cache timeout&lt;/em&gt; seperti gambar berikut:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i1.wp.com/www.ramitan.com/wp-content/uploads/2018/07/WP-Fastest-Cache2-e1535542388737.png?w=750&amp;amp;ssl=1&quot; alt=&quot;tentukan cache time out ideal&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;5-dapatkan-api-key-cloudflare&quot;&gt;5. Dapatkan API Key Cloudflare&lt;/h3&gt;
+&lt;p&gt;Untuk mendapatkan API Cloudflare, silahkan login ke dashboard Cloudflare kemudian klik pada My Profile. API Key akan terlihat seperti gambar di bawah:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i1.wp.com/www.ramitan.com/wp-content/uploads/2018/07/CF-e1535542380263.png?w=750&amp;amp;ssl=1&quot; alt=&quot;cara melihat api key cloudflare&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Klik pada &lt;strong&gt;View&lt;/strong&gt; untuk melihat API Key yang diberikan.&lt;/p&gt;
+
+&lt;h3 id=&quot;6-koneksikan-wp-fastest-cache-dengan-cloudflare&quot;&gt;6. Koneksikan WP Fastest Cache dengan Cloudflare&lt;/h3&gt;
+&lt;p&gt;Kembali pada pengaturan plugin WP Fastest Cache pada tab CDN, kamu bisa memasukan email dan API Key Cloudflare, setelah memasukan email dan API Key ikuti saja langkahnya dengan menekan tombol Next. Pengaturan akan terlihat seperti gambar dibawah ini:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i2.wp.com/www.ramitan.com/wp-content/uploads/2018/07/WP-Fastest-Cache3-e1535542396865.png?w=750&amp;amp;ssl=1&quot; alt=&quot;WP Fastets Cache + Cliudflare CDN&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;7-delete-cache-dan-minified-jscss&quot;&gt;7. Delete Cache Dan Minified JS/CSS&lt;/h3&gt;
+&lt;p&gt;Sebagai langkah terakhir, setelah semua pengaturan diatas selesai, silahkan Delete Cache And Minified JS/CSS pada WP Fastest Cache dan &lt;strong&gt;Purge Everything&lt;/strong&gt; Pada Caching Cloudflare.&lt;/p&gt;
+
+&lt;p&gt;Dengan menghubungkan plugin WP Fastest Cache dengan Cloudflare seperti yang dijelaskan di atas, diharapkan mampu membuat website/blog wordpres kamu semakin cepat dimuat oleh browser. Dengan begitu bisa menambah atau meningkatkan pengunjung.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Jon Mukidi</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="menulis" />
+      
+        <category term="tutorial" />
+      
+        <category term="internet" />
+      
+
+      
+        <summary type="html">Kecepatan blog atau website sangat berpengaruh terhadap peringkat artikel pada pencarian google dan tentu saja jumlah pengunjung suatu blog dan website dipengaruhi oleh mesin pencari.</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Diskusi Sehat di Media Sosial? Pikir Lagi</title>

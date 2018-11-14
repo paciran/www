@@ -22,10 +22,10 @@ Tutorial ini sangat cocok untuk pemula karna pengaturan yang sangat cepat dan se
 Agar blog wordpress semakin cepat ketika diakses, bisa memanfaatkan CDN milik Cloudflare melalui plugin WP Fastest Cache. Berikut ini adalah cara untuk menghubungkan kedua-nya dan mendapatkan manfaat dari _caching_ konten dari CDN Cloudflare
 
 ### 1. Buat Akun Cloudflare
-Lakukan pendaftaran akun Cloudflare pada [link ini](https://dash.cloudflare.com/register)
+Lakukan pendaftaran akun Cloudflare pada [link ini](https://dash.cloudflare.com/sign-up){: target="_blank" rel="nofollow noopener"}
 
 ### 2. Install Plugin WP Fastest Cache
-Buka Dashboard situs wordpress kamu, ke menu plugin dan tambahkan plugin baru **WP Fastest Cache**. Lakukan instalasi dan aktifkan plugin tersebut.
+Buka **Dashboard** situs wordpress kamu, buka/klik menu **plugin** dan tambahkan plugin baru **WP Fastest Cache**. Lakukan instalasi dan aktifkan plugin tersebut.
 
 ### 3. Pengaturan WP Fastest Cache
 Setelah instalasai dan aktifasi, kamu bisa masuk ke menu WP Fastest Cache dan ikuti pengaturan sesuai gambar dibawah ini:

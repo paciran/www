@@ -7,7 +7,7 @@ tags: [menulis, tutorial, internet]
 current: posts
 class: post-template
 subclass: [post, tag-tutorial]
-date: 2018-11-14 17:00:50 +7
+date: 2018-11-14 10:00:50
 
 ---
 Kecepatan blog atau website sangat berpengaruh terhadap peringkat artikel pada pencarian google dan tentu saja jumlah pengunjung suatu blog dan website dipengaruhi oleh mesin pencari.

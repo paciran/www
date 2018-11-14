@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://www.paciran.com/tag/menulis/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://www.paciran.com/" rel="alternate" type="text/html" />
-  <updated>2018-11-14T12:19:53+00:00</updated>
+  <updated>2018-11-14T12:23:05+00:00</updated>
   <id>https://www.paciran.com/tag/menulis/feed.xml</id>
 
   
@@ -57,10 +57,10 @@
 &lt;p&gt;Agar blog wordpress semakin cepat ketika diakses, bisa memanfaatkan CDN milik Cloudflare melalui plugin WP Fastest Cache. Berikut ini adalah cara untuk menghubungkan kedua-nya dan mendapatkan manfaat dari &lt;em&gt;caching&lt;/em&gt; konten dari CDN Cloudflare&lt;/p&gt;
 
 &lt;h3 id=&quot;1-buat-akun-cloudflare&quot;&gt;1. Buat Akun Cloudflare&lt;/h3&gt;
-&lt;p&gt;Lakukan pendaftaran akun Cloudflare pada &lt;a href=&quot;https://dash.cloudflare.com/register&quot;&gt;link ini&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lakukan pendaftaran akun Cloudflare pada &lt;a href=&quot;https://dash.cloudflare.com/sign-up&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener&quot;&gt;link ini&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;2-install-plugin-wp-fastest-cache&quot;&gt;2. Install Plugin WP Fastest Cache&lt;/h3&gt;
-&lt;p&gt;Buka Dashboard situs wordpress kamu, ke menu plugin dan tambahkan plugin baru &lt;strong&gt;WP Fastest Cache&lt;/strong&gt;. Lakukan instalasi dan aktifkan plugin tersebut.&lt;/p&gt;
+&lt;p&gt;Buka &lt;strong&gt;Dashboard&lt;/strong&gt; situs wordpress kamu, buka/klik menu &lt;strong&gt;plugin&lt;/strong&gt; dan tambahkan plugin baru &lt;strong&gt;WP Fastest Cache&lt;/strong&gt;. Lakukan instalasi dan aktifkan plugin tersebut.&lt;/p&gt;
 
 &lt;h3 id=&quot;3-pengaturan-wp-fastest-cache&quot;&gt;3. Pengaturan WP Fastest Cache&lt;/h3&gt;
 &lt;p&gt;Setelah instalasai dan aktifasi, kamu bisa masuk ke menu WP Fastest Cache dan ikuti pengaturan sesuai gambar dibawah ini:&lt;/p&gt;

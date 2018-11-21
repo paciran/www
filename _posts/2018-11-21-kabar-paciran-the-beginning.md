@@ -4,7 +4,7 @@ current: internet
 navigation: true
 date: 2018-11-21 10:30:00 +7
 title: Kabar Paciran, The Beginning
-cover: false
+cover: /assets/images/Kabar-Paciran.jpeg
 description: Cerita singkat berdirinya Halaman Kabar Paciran di Facebook
 class: post-template
 tags: [internet, menulis]

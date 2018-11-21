@@ -2,7 +2,7 @@
 layout: post
 current: internet
 navigation: true
-date: 2018-11-22 10:30:00 +7
+date: 2018-11-21 10:30:00 +7
 title: Kabar Paciran, The Beginning
 cover: false
 description: Cerita singkat berdirinya Halaman Kabar Paciran di Facebook

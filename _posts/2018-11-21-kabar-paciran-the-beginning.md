@@ -4,7 +4,7 @@ current: internet
 navigation: true
 date: 2018-11-21 10:30:00 +7
 title: Kabar Paciran, The Beginning
-cover: /assets/images/Kabar-Paciran.jpeg
+cover: false
 description: Cerita singkat berdirinya Halaman Kabar Paciran di Facebook
 class: post-template
 tags: [internet, menulis]
@@ -26,6 +26,8 @@ Usulan saya diterima, segera kepala saya langsung _puyeng_ tujuh keliling, karen
 Beban pun kian bertambah; sang kepala suku memberi target dalam satu bulan harus mendapatkan 500 "like", dengan berat hati saya menyatakan kepada beliau begini, ini seingat saya, ini juga kalau saya gak salah ingat loh ya. "Prediksi saya 1000 like itu minimal tiga bulan, itu pun belum pasti. Tiga bulan dapat 1000 like, sudah sangat bagus Pak."
 
 "Pokoknya 500 like dalam sebulan harus dapat." Ujar kepala suku penuh dengan keyakinan. Saya manut saja. meskipun ada rasa _pesimisme_ dalam hati.
+
+![Halaman Kabar Paciran](/assets/images/Kabar-Paciran.jpeg)
 
 Halaman pun dirilis ke publik pada bulan Desember tahun itu, dan diluar dugaan, dalam satu bulan halaman **Kabar Paciran** (KaPa) bisa mendapatkan _like_ lebih dari seribu akun. Sungguh beruntung, saya mengira begitu saat itu. Dan hampir tiap bulan pertumbuhan _like_ selalu menanjak. Dengan rata-rata 1.000 like perbulan di awal-awal rilis.
 

@@ -7,6 +7,7 @@ title: Kabar Paciran, The Beginning
 cover: false
 description: Cerita singkat berdirinya Halaman Kabar Paciran di Facebook
 class: post-template
+tags: [internet, menulis]
 subclass: [post, tag-internet]
 author: sukadi
 editor: mukidi

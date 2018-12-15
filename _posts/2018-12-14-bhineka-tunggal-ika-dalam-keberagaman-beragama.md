@@ -4,7 +4,7 @@ description: "Sepenggal kenangan penunggu lapangan futsal menyoal toleransi dala
 author: beny
 editor: mukidi
 cover: assets/images/bhineka-tunggal-ika.jpg
-tags: [romansa, sosial, internet]
+tags: [romansa, sosial,]
 current: posts
 class: post-template
 subclass: [post, tag-romansa]

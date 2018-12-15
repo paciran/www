@@ -22,10 +22,11 @@ beny:
   username: beny
   name: Kepala Suku
   bio: 
-  picture: 
+  picture: assets/images/benyhasyim.jpeg
   facebook: beny.hasyim
+  twitter: False
   instagram: hasyimbeny
-  cover: assets/images/senja-laut-paciran.jpg
+  cover: assets/images/lintech-paciran.jpg
 muhlisin:
   username: muhlisin
   name: Shien Chan

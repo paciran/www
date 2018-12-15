@@ -18,12 +18,20 @@ sukadi:
   facebook: A1nu22ohman
   twitter: a1nu22ohman
   cover: assets/images/senja-laut-paciran.jpg
+beny:
+  username: beny
+  name: Kepala Suku
+  bio: 
+  picture: 
+  facebook: beny.hasyim
+  instagram: benyhasyim
+  cover: assets/images/senja-laut-paciran.jpg
 muhlisin:
   username: muhlisin
   name: Shien Chan
   url_full: https://kakshien.blogspot.com
   url: kakshien.blogspot.com
-  bio: Bojone Badi', Pakne Hannah lan Iklyla
+  bio: "Bojone Badi', Pakne Hannah lan Iklyla"
   picture: assets/images/muhlisin.jpg
   facebook: ShienChan
   twitter: False

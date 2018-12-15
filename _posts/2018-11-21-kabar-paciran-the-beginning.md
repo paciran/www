@@ -13,7 +13,7 @@ author: sukadi
 editor: mukidi
 ---
 
-Dua tahun yang lalu, sebelum lahir dan terbitnya halaman Kabar Paciran di facebook. Gus Beny Hasyim sebagai kepala suku, suka bikin pengumuman yang normal-normal saja di dinding facebook pribadinya, namun pengumunan itu bisa memantik publik untuk berargumentasi panjang, lebar, kali luas.
+Dua tahun yang lalu, sebelum lahir dan terbitnya halaman Kabar Paciran di facebook. Gus Beny Hasyim sebagai [kepala suku](https://www.paciran.com/author/beny/), suka bikin pengumuman yang normal-normal saja di dinding facebook pribadinya, namun pengumunan itu bisa memantik publik untuk berargumentasi panjang, lebar, kali luas.
 
 Suka tidak suka, saya selalu ditandai oleh beliau, yang terhormat. Berawal dari kericuhan yang tidak selayaknya berada di dinding akun Facebook pribadi tersebut, pemangku kebijakan lapangan Futsall ini mengharapkan kepada tim yang beliau bina agar dibuatkan grup di Facebook.
 

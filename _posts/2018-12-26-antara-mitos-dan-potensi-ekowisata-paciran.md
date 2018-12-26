@@ -8,7 +8,7 @@ tags: [romansa, wisata, budaya]
 current: posts
 class: post-template
 subclass: [post, tag-wisata]
-date: 2018-12-26 10:00:50
+date: 2018-12-26 10:00:50 +7
 
 ---
 

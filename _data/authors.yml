@@ -29,13 +29,13 @@ beny:
   cover: assets/images/lintech-paciran.jpg
 baihaqi:
   username: baihaqi
-  name: Amir Baihaqi
+  name: Aming Sastravaganza
   url_full: https://sastravaganza-17.blogspot.com
   url: sastravaganza-17.blogspot.com
   bio: Jurnalis senior di Kabar Paciran
-  picture: /assets/imaged/baihaqi.jpg
+  picture: assets/imaged/baihaqi.jpg
   facebook: Aming.Sastravaganza
-  cover: /assets/images/lintech-paciran.jpg
+  cover: assets/images/lintech-paciran.jpg
 muhlisin:
   username: muhlisin
   name: Shien Chan

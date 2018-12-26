@@ -38,4 +38,4 @@ Paciran memang penuh dengan mitos dari Watu Tumpang, Gua Maharani, Tanjung Kodok
 
 Anda pernah mendengar wisata gunung batu kapur di Madura atau ekowisata mangrove Wonorejo di Surabaya? Paciran bisa sekali dijadikan tempat wisata alam yang nantinya bisa menjadi tempat konservasi alam desa.
 
-_Foto: Dewinta Larasati_
+_Foto: [Dewinta Larasati](https://fb.me/dhewiintha.lharasatyypartii)_

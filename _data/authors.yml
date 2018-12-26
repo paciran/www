@@ -21,12 +21,21 @@ sukadi:
 beny:
   username: beny
   name: Kepala Suku
-  bio: 
+  bio: Kepala Suku Kabar Paciran
   picture: assets/images/benyhasyim.jpeg
   facebook: beny.hasyim
   twitter: False
   instagram: hasyimbeny
   cover: assets/images/lintech-paciran.jpg
+baihaqi:
+  username: baihaqi
+  name: Amir Baihaqi
+  url_full: https://sastravaganza-17.blogspot.com
+  url: sastravaganza-17.blogspot.com
+  bio: Jurnalis senior di Kabar Paciran
+  picture: /assets/imaged/baihaqi.jpg
+  facebook: amir.baihaqi
+  cover: /assets/images/lintech-paciran.jpg
 muhlisin:
   username: muhlisin
   name: Shien Chan

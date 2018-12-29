@@ -3,7 +3,8 @@ title: "Penagih Hutang di Tengah Gerimis Bulan Desember"
 description: "Hingga akhirnya suara keberanian Ibu penjual nasi Boran itu menyeruak dan seperti kentut tak bisa dipendam lebih lama lagi."
 author: sukadi
 editor: mukidi
-cover: assets/images/sego-boran-terminal-paciran.jpg
+cover: False
+#assets/images/sego-boran-terminal-paciran.jpg
 tags: [kuliner, sosial]
 current: posts
 class: post-template

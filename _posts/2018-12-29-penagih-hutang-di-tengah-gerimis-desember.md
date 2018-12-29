@@ -56,6 +56,8 @@ Aku berpikir sejenak, kemudian menyalakan gawai dan membuka aplikasi WhatsApp da
 
 "Nggih Bu... Sekedap kulo sanjangi tiyange." Jawabku sambil menahan geram dan marah kepada orang yang dimaksud Ibu penjual nasi Boran.
 
+![Penagihan Hutang](/assets/images/chat-whatsapp-penagih-hutang.jpg){:.align-center}
+
 Melalui pesan singkat aku mengkonfirmasi dakwaan Ibu tadi ke tersangka, dan ia mau mengakuinya. Aku bersyukur karena ia mau mengaku dan lebih bersyukur lagi karena ia hendak membayar hutangnya kepada Ibu penjual nasi Boran.
 
 Informasi itu aku teruskan ke Ibu penjual nasi Boran, dan guratan wajahnya kembali tersenyum sumringah. Karena sudah mendapatkan kejelasan yang pasti.

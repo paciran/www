@@ -12,7 +12,7 @@ kramdown:
   enable_coderay: false
   highlighter: rouge
 
-paginate: 50 # it will paginate after this number
+paginate: 100 # it will paginate after this number
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md,txt"
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)

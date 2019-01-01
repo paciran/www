@@ -6,14 +6,14 @@ rvm:
 
 install:
   # Install Jekyll and dependencies
-  #- gem install jekyll
-  #- gem install github-pages
-  #- gem install rake
+  - gem install jekyll
+  - gem install github-pages
+  - gem install rake
   - gem install safe_yaml
-  #- gem install jekyll-feed
+  - gem install jekyll-feed
   - gem install jekyll-paginate
-  #- gem install jekyll-redirect-from
-  - bundle install
+  - gem install jekyll-redirect-from
+  #- bundle install
 
 script: bundle exec rake site:deploy --quiet #--trace
 

@@ -16,7 +16,6 @@ Laki-laki itu merasakan sesuatu yang tidak nyaman, gusar, antara yakin dan tak y
 Pikiran laki-laki itu tak tenang, ia merasa ada sebuah dorongan dari luar yang menyeret-nyeret tubuhnya untuk bergerak keluar dari sarang (baca: rumah). Dan semakin ia menolak dan menahan dorongan itu perasaanya semakin tak jenak. Ia resah sekaligus bimbang. Ia merasa sebal jika harus menuruti dorongan itu dan lebih-lebih kesal lagi jika turut melakukan arahannya. Arahan dan panggilan yang ia tidak tahu dari mana.
 
 Laki-laki itu aku.
-
 Dalam situasi pikiran yang tidak tenang seperti ini, biasanya, aku mencari kawan untuk kuajak makan atau ngopi berdua, minimal ada kawan yang mau menampung keluh kesahku, atau minimal ada kawan yang mau memberi peringatan tanda bahaya, jika aku berbuat sesuatu di luar kontrol. Begitu pikir pendekku.
 
 Malam itu, aku menghubungi kawan Dendi lewat telepon genggam, rencananya sederhana. Aku mengajak kawan yang satu ini untuk ngopi, awalnya kawan Dendi menolak ajakanku, karena dia sedang merajang air untuk masak mie instan. Aku memberinya saran untuk mematikan kompor dan berganti cari menu makan di luar. Dan di luar dugaanku dia bersedia mematikan kompor dan bersedia diajak makan di luar rumah.
@@ -34,9 +33,7 @@ Tak berapa lama kami sudah sampai di tujuan. Segera kawan Dendi memesan dua pors
 Seperti sebuah keberuntungan yang beruntun, aku bisa ketemu orang itu, satu malam yang aku rasakan sungguh-sungguh ajaib, bisa dikatakan aku cukup beruntung malam itu. Aku mendapatkan informasi yang diperlukan dari laki-laki itu dan aku juga sekaligus mengkonfirmasi suatu kejadian kepadanya, keterangan yang diberikan sudah lebih dari cukup untuk verifikasi data yang selama ini aku terima. Kala itu aku belum menyadari kenapa tubuhku diseret-seret ke sini.
 
 Selesai urusan dengan laki-laki paruh baya itu, aku melanjutkan makan nasi Boran. Dengan lahap dan cepat. Satu porsi nasi Boran telah rela berpisah dari piring dan lebih memilih bersemayam di dalam perut buncitku.
-
-![sego boran asdp paciran](https://www.paciran.com/assets/images/penjual-nasi-boran.jpg)
-
+![sego boran asdp paciran](/assets/images/penjual-nasi-boran.jpg)
 Ketika badan sedang mencari posisi terbaik untuk bernafas dan sedikit selonjoran. Ibu penjual nasi Boran datang menghampiriku. Sedikitpun aku tidak curiga, bahkan tidak punya firasat apapun. Tak ada angin kencang, tak ada deras hujan, tak ada petir yang bersahut-sahutan. Dan jalan raya yang menampung hiruk pikuk segala macam moda transportasi malam itu tak menampilkan insiden yang berarti, tak ada tragedi yang menyita perhatian publik. Semua berjalan lancar, tak ada hambatan. Semua yang terasa, terdengar, dan yang tampak di mata terlihat normal-normal saja.
 
 Hingga akhirnya suara keberanian Ibu penjual nasi Boran itu menyeruak sebagaimana kentut yang tak bisa dipendam lebih lama lagi. Mulutnya mulai terbuka dengan raut wajah memelas bercampur dengan ragu-ragu.
@@ -60,9 +57,7 @@ Aku berpikir sejenak, kemudian menyalakan gawai dan membuka aplikasi WhatsApp da
 "Nggih Bu... Sekedap kulo sanjangi tiyange." Jawabku sambil menahan geram dan marah kepada orang yang dimaksud Ibu penjual nasi Boran.
 
 Melalui pesan singkat aku mengkonfirmasi dakwaan Ibu tadi ke tersangka, dan ia mau mengakuinya. Aku bersyukur karena ia mau mengaku dan lebih bersyukur lagi karena ia hendak membayar hutangnya kepada Ibu penjual nasi Boran.
-
-![Penagih Hutang](https://www.paciran.com/assets/images/chat-whatsapp-penagih-hutang.jpg)
-
+![Penagih Hutang](/assets/images/chat-whatsapp-penagih-hutang.jpg)
 Informasi itu aku teruskan ke Ibu penjual nasi Boran, dan guratan wajahnya kembali berseri-seri, dan kemudian tersenyum lega. Karena sudah mendapatkan kejelasan yang pasti.
 
 Lantas timbul rasa penasaran dalam pikiranku. Kenapa drama seperti itu masih bisa terjadi. 

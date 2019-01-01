@@ -35,6 +35,8 @@ Seperti sebuah keberuntungan yang beruntun, aku bisa ketemu orang itu, satu mala
 
 Selesai urusan dengan laki-laki paruh baya itu, aku melanjutkan makan nasi Boran. Dengan lahap dan cepat. Satu porsi nasi Boran telah rela berpisah dari piring dan lebih memilih bersemayam di dalam perut buncitku.
 
+![sego boran asdp paciran](https://www.paciran.com/assets/images/penjual-nasi-boran.jpg)
+
 Ketika badan sedang mencari posisi terbaik untuk bernafas dan sedikit selonjoran. Ibu penjual nasi Boran datang menghampiriku. Sedikitpun aku tidak curiga, bahkan tidak punya firasat apapun. Tak ada angin kencang, tak ada deras hujan, tak ada petir yang bersahut-sahutan. Dan jalan raya yang menampung hiruk pikuk segala macam moda transportasi malam itu tak menampilkan insiden yang berarti, tak ada tragedi yang menyita perhatian publik. Semua berjalan lancar, tak ada hambatan. Semua yang terasa, terdengar, dan yang tampak di mata terlihat normal-normal saja.
 
 Hingga akhirnya suara keberanian Ibu penjual nasi Boran itu menyeruak sebagaimana kentut yang tak bisa dipendam lebih lama lagi. Mulutnya mulai terbuka dengan raut wajah memelas bercampur dengan ragu-ragu.

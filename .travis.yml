@@ -10,6 +10,7 @@ install:
   - gem install github-pages
   - gem install rake
   - gem install safe_yaml
+  - gem install jekyll-feed
   - gem install jekyll-paginate
   - gem install jekyll-redirect-from
   - bundle install

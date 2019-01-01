@@ -33,7 +33,9 @@ Tak berapa lama kami sudah sampai di tujuan. Segera kawan Dendi memesan dua pors
 Seperti sebuah keberuntungan yang beruntun, aku bisa ketemu orang itu, satu malam yang aku rasakan sungguh-sungguh ajaib, bisa dikatakan aku cukup beruntung malam itu. Aku mendapatkan informasi yang diperlukan dari laki-laki itu dan aku juga sekaligus mengkonfirmasi suatu kejadian kepadanya, keterangan yang diberikan sudah lebih dari cukup untuk verifikasi data yang selama ini aku terima. Kala itu aku belum menyadari kenapa tubuhku diseret-seret ke sini.
 
 Selesai urusan dengan laki-laki paruh baya itu, aku melanjutkan makan nasi Boran. Dengan lahap dan cepat. Satu porsi nasi Boran telah rela berpisah dari piring dan lebih memilih bersemayam di dalam perut buncitku.
-![sego boran asdp paciran](/assets/images/penjual-nasi-boran.jpg)
+
+![sego boran asdp paciran](/assets/images/penjual-nasi-boran.jpg){:.align-center}
+
 Ketika badan sedang mencari posisi terbaik untuk bernafas dan sedikit selonjoran. Ibu penjual nasi Boran datang menghampiriku. Sedikitpun aku tidak curiga, bahkan tidak punya firasat apapun. Tak ada angin kencang, tak ada deras hujan, tak ada petir yang bersahut-sahutan. Dan jalan raya yang menampung hiruk pikuk segala macam moda transportasi malam itu tak menampilkan insiden yang berarti, tak ada tragedi yang menyita perhatian publik. Semua berjalan lancar, tak ada hambatan. Semua yang terasa, terdengar, dan yang tampak di mata terlihat normal-normal saja.
 
 Hingga akhirnya suara keberanian Ibu penjual nasi Boran itu menyeruak sebagaimana kentut yang tak bisa dipendam lebih lama lagi. Mulutnya mulai terbuka dengan raut wajah memelas bercampur dengan ragu-ragu.

@@ -59,7 +59,7 @@ timezone: Indonesia/Jakarta
 
 # gems and other configs
 plugins_dir: [_plugins]
-plugins: [jekyll-paginate, jekyll-feed] #, jemoji, jekyll-sitemap, jekyll-redirect-from]
+plugins: [jekyll-paginate, jekyll-feed, jemoji, jekyll-sitemap, jekyll-redirect-from]
 
 feed:
   path: feed.xml

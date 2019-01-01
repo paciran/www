@@ -2,7 +2,7 @@ sudo: false
 language: ruby
 cache: bundler
 rvm:
-- 2.5.1
+- 2.5.3
 
 install:
   # Install Jekyll and dependencies
@@ -13,7 +13,7 @@ install:
   - gem install jekyll-feed
   - gem install jekyll-paginate
   - gem install jekyll-redirect-from
-  #- bundle install
+  - bundle install
 
 script: bundle exec rake site:deploy --quiet #--trace
 

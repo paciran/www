@@ -10,8 +10,8 @@ install:
   - gem install github-pages
   - gem install rake
   - gem install safe_yaml
-  - gem install jekyll-paginate
-  - gem install jekyll redirect-from
+  #- gem install jekyll-paginate
+  #- gem install jekyll+redirect-from
   - bundle install
 
 script: bundle exec rake site:deploy --quiet #--trace

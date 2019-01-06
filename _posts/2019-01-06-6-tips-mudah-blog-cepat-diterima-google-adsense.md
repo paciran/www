@@ -5,7 +5,7 @@ layout: post
 current: menulis
 cover: assets/images/google-Adsense.png
 navigation: True
-date: 2018-08-08 09:00:00
+date: 2019-01-06 09:00:00 +7
 class: post-template
 subclass: 'post tag-menulis'
 author: mukidi

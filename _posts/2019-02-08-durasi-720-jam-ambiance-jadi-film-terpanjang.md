@@ -3,8 +3,13 @@ layout: post
 title: Trailer 7 Jam, Filmnya punya Durasi 720 Jam
 description: Trailer filmnya saja berdurasi 7 jam. Ambiance manjadi film berdurasi terpanjang sepanjang masa dengan durasi 720 jam atau 30 hari.
 author: mukidi
-current: fiksi
-image: https://i0.wp.com/viralnesia.org/wp-content/uploads/2018/07/ambiance-1-768x576.jpg
+tags: [fiksi, film]
+cover: https://i0.wp.com/viralnesia.org/wp-content/uploads/2018/07/ambiance-1-768x576.jpg
+current: posts
+class: post-template
+subclass: [post, tag-fiksi]
+date: 2019-02-97 23:20:50 +7
+
 ---
 Sebagian dari kamu mungkin pernah tertidur saat menonton sebuah film. Meski film tersebut "hanya" berdurasi dua jam, kita bisa saja tertidur saat di tengah-tengah alur film. Sekarang coba bayangkan, apa jadinya bila film yang diputar memiliki durasi 720 jam?
 

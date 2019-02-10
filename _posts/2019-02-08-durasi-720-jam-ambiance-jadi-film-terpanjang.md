@@ -5,6 +5,8 @@ description: Trailer filmnya saja berdurasi 7 jam 20 menit. Ambiance manjadi fil
 author: mukidi
 tags: [fiksi, film]
 cover: assets/images/sutradara-film-ambiance.jpg
+coverwidth: 1280
+coverheight: 720
 current: fiksi
 class: post-template
 subclass: [post, tag-fiksi]

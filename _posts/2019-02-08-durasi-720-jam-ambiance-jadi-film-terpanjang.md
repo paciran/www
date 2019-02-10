@@ -8,7 +8,7 @@ cover: assets/images/sutradara-film-ambiance.jpg
 current: fiksi
 class: post-template
 subclass: [post, tag-fiksi]
-date: 2019-02-97 23:20:50 +7
+date: 2019-02-07 23:20:50 +7
 navigation: true
 
 ---

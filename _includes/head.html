@@ -40,7 +40,7 @@
 <meta property="og:updated_time" content="{% if page.last_update %}{{ page.last_update | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}" />
 <meta property="article:modified_time" content="{% if page.last_modified %}{{ page.last_modified | date_to_xmlschema }}{% elsif page.last_updated %}{{ page.last_updated | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}" />
 {% endif %}
-<meta content='720457594754641' property='fb:app_id'/>
+<meta content='543868259431959' property='fb:app_id'/>
 <meta content='100000581627394' property='fb:admins'/>
 {% if page.tags.size > 0 %}
 <meta property="article:tag" content="{{ page.tags | first | capitalizeall }}" />{% endif %}
@@ -55,10 +55,10 @@
 <meta name="twitter:data2" content="{{ page.tags | first | capitalizeall }}" />{% endif %}
 <meta name="twitter:site" content="@{{ site.twitter }}" />
 <meta name="twitter:creator" content="@{{ site.twitter }}" />{% if excerpt %}
-<meta property="og:image:width" content="1200" />
-<meta property="og:image:height" content="630" />{% else %}
-<meta property="og:image:width" content="1024" />
-<meta property="og:image:height" content="576" />{% endif %}
+<meta property="og:image:width" content="{% if page.coverwidth %}{{ page.coverwidth }}{% else %}1200{% endif %}" />
+<meta property="og:image:height" content="{% if page.coverheight %}{{ page.coverheight }}{% else %}630{% endif %}" />{% else %}
+<meta property="og:image:width" content="{% if page.coverwidth %}{{ page.coverwidth }}{% else %}1024{% endif %}" />
+<meta property="og:image:height" content="{% if page.coverheight %}{{ page.coverheight }}{% else %}576{% endif %}" />{% endif %}
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
@@ -72,8 +72,8 @@
     "image": {
         "@type": "ImageObject",
         "url": "{{ site.url }}{{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% else %}{{ site.cover }}{% endif %}",
-        "width": 1200,
-        "height": 630
+        "width": {% if page.coverwidth %}{{ page.coverwidth }}{% else %}1200{% endif %},
+        "height": {% if page.coverheight %}{{ page.coverheight }}{% else %}630{% endif %}
     },
     "mainEntityOfPage": {
         "@type": "WebPage",

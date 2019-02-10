@@ -4,6 +4,8 @@ description: "Terlepas benar atau tidak, selama sekian puluh tahun saat kita mas
 author: baihaqi
 editor: mukidi
 cover: assets/images/kayu-anakan-lorena.jpg
+coverwidth: 720
+coverheight: 540
 tags: [romansa, wisata, budaya]
 current: posts
 class: post-template

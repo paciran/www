@@ -17,6 +17,8 @@ Liverpool bikin geger. Setelah digilas 0-3 pada leg sebelumnya di Camp Nou, ma
 
 Alhasil, laga berakhir 4-0, “The Reds” membalikkan agregat jadi 4-3 dan melaju ke final. Penampilan itu jadi salah satu comeback terhebat Liverpool dalam sejarah Liga Champions setelah yang dilakukannya pada 2005 ketika membalik skor AC Milan di final. Klopp dan anak-anak asuhnya lantas tenggelam dalam selebrasi dan bersama saling menyanyikan anthem mereka. “Walk on, walk on. With hope in hour heart. And you’ll never walk alone…You’ll never walk alone.”’
 
+<iframe src="https://www.youtube-nocookie.com/embed/vAahveVE2O8?rel=0&showinfo=0&controls=0" frameborder="0" mozallowfullscreen webkitAllowFullScreen allowfullscreen></iframe>
+
 ### Lagu Teater Musikal
 
 Lagu yang populer disingkat YNWA itu aslinya merupakan salah satu lagu pengiring teater musikal Broadway bertajuk Carousel!. Diciptakan duet Richard Rodgers dan Oscar Hammerstein II pada April 1945, YNWA mengisahkan kehidupan seorang janda yang ditinggal mati suaminya akibat perang. Masa itu Perang Dunia II memasuki babak akhir.

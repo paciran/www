@@ -15,7 +15,7 @@ Koor lirik lagu itu bergema di segenap pelosok Stadion Anfield. Nada dan maknany
 
 Liverpool bikin geger. Setelah digilas 0-3 pada leg sebelumnya di Camp Nou, markas Barcelona, “The Reds” membalik keadaan Anfield kendati tampil tanpa trio “Firmansah” alias Firmino, Mané, Salah. “Gempa lokal” terjadi beberapakali setelah Divock Origi dan Giorginio Wijnaldum, masing-masing mencetak dua gol, bergantian menjebol gawang Marc-André ter Stegen.
 
-Alhasil, laga berakhir 4-0, “The Reds” membalikkan agregat jadi 4-3 dan melaju ke final. Penampilan itu jadi salah satu comeback terhebat Liverpool dalam sejarah Liga Champions setelah yang dilakukannya pada 2005 ketika membalik skor AC Milan di final. Klopp dan anak-anak asuhnya lantas tenggelam dalam selebrasi dan bersama saling menyanyikan anthem mereka. _“Walk on, walk on. With hope in hour heart. And you’ll never walk alone…You’ll never walk alone.”’_
+Alhasil, laga berakhir 4-0, “The Reds” membalikkan agregat jadi 4-3 dan melaju ke final. Penampilan itu jadi salah satu comeback terhebat Liverpool dalam sejarah Liga Champions setelah yang dilakukannya pada 2005 ketika membalik skor AC Milan di final. Klopp dan anak-anak asuhnya lantas tenggelam dalam selebrasi dan bersama saling menyanyikan _anthem_ mereka. _“Walk on, walk on. With hope in hour heart. And you’ll never walk alone…You’ll never walk alone.”’_
 
 <iframe src="https://www.youtube-nocookie.com/embed/vAahveVE2O8?rel=0&showinfo=0&controls=0" frameborder="0" mozallowfullscreen webkitAllowFullScreen allowfullscreen></iframe>
 

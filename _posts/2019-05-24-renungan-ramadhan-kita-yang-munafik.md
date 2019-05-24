@@ -7,7 +7,7 @@ layout: post
 current: romansa
 class: post-template
 subclass: post, tag-romansa
-tags: religi, romansa
+tags: [religi, romansa]
 navigation: true
 ---
 

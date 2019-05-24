@@ -13,6 +13,8 @@ navigation: true
 
 Ramadhan, separuh bulan sudah terlewati. Dan kemudian di telinga ini mendengung-dengung perkataan dari seorang kawan.
 
+![buka bersama siapa?](http://1.bp.blogspot.com/-Bn3uxUWxQYU/XOg7xKPPNnI/AAAAAAAAOmo/y0AmphQ1-48oG364thS6vRtCbMe2VCARQCLcBGAs/s600-c/FB_IMG_1558723379368.jpg)
+
 > Sebenarnya saya malu kalau ikut acara bukber. Malu sama orang miskin dimana di bulan puasa ini, kita sedang mencoba memahami kelaparan mereka, ketiadaan mereka.
 > 
 > Karena kita sedang berpura-pura menjadi mereka (berpuasa), tanpa sedikitpun menjadi mereka.

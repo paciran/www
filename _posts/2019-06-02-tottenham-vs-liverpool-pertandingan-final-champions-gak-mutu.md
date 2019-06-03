@@ -1,6 +1,6 @@
 ---
-title: Tottenham vs Liverpool: Pertandingan Final Gak Mutu!
-description: Maksudku Tottenham Hotspur lebih seperti sekumpulan pemain lapis kedua Barca atau Madrid yang dipaksa untuk tampil di final liga champion. Ini pinal yang sangat tidak menarik bagiku, tapi tidak bagi para Bandar. Aku rasa mereka lebih banyak ketawa sekarang.
+title: "Tottenham vs Liverpool: Pertandingan Final Gak Mutu!"
+description: "Maksudku Tottenham Hotspur lebih seperti sekumpulan pemain lapis kedua Barca atau Madrid yang dipaksa untuk tampil di final liga champion. Ini pinal yang sangat tidak menarik bagiku, tapi tidak bagi para Bandar. Aku rasa mereka lebih banyak ketawa sekarang"
 author: sukadi
 layout: post
 current: olahraga

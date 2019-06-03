@@ -33,4 +33,6 @@ Sebagai wasit untuk pertandingan final, UEFA menunjuk Damir Skomina dari Sloveni
 
 Menjadi finalis kedelapan dari Inggris, Tottenham Hotspur mencapai babak final Liga Champions untuk pertama kali. Tim yang mampu menguasai bola sebanyak 61% di babak pinal. 8 tendangan ke arah gawang, dengan total 16 tendangan yang mematikan.
 
+<iframe src="https://www.youtube-nocookie.com/embed/6IIEMlxuFE8?rel=0&showinfo=0&controls=0" frameborder="0" mozallowfullscreen webkitAllowFullScreen allowfullscreen></iframe>
+
 Sementara Liverpool mencapai babak final untuk kali kedua secara beruntun dan kali kesembilan secara keseluruhan (rekor mentereng untuk tim dari Inggris). Dan sang juara itu hanya mampu menguasai bola tak lebih dari 39%. Dan Alisson si penjaga gawang Liverpool itu melakukan aksi penyelamatan sebanyak 8 kali.

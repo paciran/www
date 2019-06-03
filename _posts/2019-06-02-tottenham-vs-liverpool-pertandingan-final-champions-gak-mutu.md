@@ -8,7 +8,7 @@ current: olahraga
 class: post-template
 sub-class: [post, tag-olahraga]
 navigation: true
-cover: /assets/image/Champions-league-2019.jpg
+cover: /assets/images/Champions-league-2019.jpg
 ---
 
 Otto Rehagel orang tua yang membuat tim kesebelasan nasional Yunani juara piala Eropa itu, lebih tahu dengan kemampuan anak asuhnya yang secara kwalitas dibawah rata-rata, tapi Ia mampu memaksimalkan kemampuan timnya, hingga negeri para dewa itu berhak meraih gelar juara kompetisi yang diselenggarakan empat tahunan tersebut.

@@ -11,7 +11,7 @@ cover: /assets/images/Liverpool-six-times-europe-champions.jpg
 ---
 Kemenangan heroik Liverpool pada Final Liga Champions mendominasi tajuk berita di hampir semua media daring hingga luring. Beberap statistik luar-biasa tercipta dari helatan pertandingan final hajatan bola antar klub paling bergengsi di dunia tersebut. Menjadi European Champions untuk ke-enam kalinya, menegaskan bahwa The Reds belum berakhir.
 
-Pemain asuhan Jurgen Klopp merengkuh status legendaris di sabtu malam waktu setempat ketika mengalahkan Tottenham di Madrid sembari menutup musim yang luar-biasa. Menjadi malam yang patut diingat sejak final di Istambul, mengikutiIt was the most significant night since Istanbul, harapan sebagai pembuka jalan untuk kesuksesan yang lebih besar dengan Klopp di pucuk pimpinan pun kembali melambung.
+Pemain asuhan Jurgen Klopp merengkuh status legendaris di sabtu malam waktu setempat ketika mengalahkan Tottenham di Madrid sembari menutup musim yang luar-biasa. Menjadi malam yang patut diingat sejak final di Istambul, harapan sebagai pembuka jalan untuk kesuksesan yang lebih besar dengan Klopp di pucuk pimpinan pun kembali melambung.
 
 Berikut ini adalah 5 statistik paling menarik dari pertandingan _final gak mutu_ yang akan tetap tercatat dalam buku legenda.
 
@@ -29,7 +29,7 @@ Situs analis statistik Infogol, memberikan tembakan Origi nila 4 persen peluang 
 
 ## Magic Matip
 
-![matip van dijk with hchampions tropyh]https://i0.wp.com/www.thisisanfield.com/wp-content/uploads/20190601-098-UEFA_Champions_League_Final-1143x915.jpg?resize=640,440)
+![matip van dijk with champions tropyh](https://i0.wp.com/www.thisisanfield.com/wp-content/uploads/20190601-098-UEFA_Champions_League_Final-1143x915.jpg?resize=640,440)
 
 Joel Matip, menjadi salah satu dari deretan pemain yang peruntungannya menjadi lebih baik, setelah mampu mempersembahkan penampilan terbaiknya selama berseragam Liverpool di saat yang tepat, pertandingan penutup puasa gelar!
 

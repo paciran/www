@@ -29,7 +29,7 @@ Situs analis statistik Infogol, memberikan tembakan Origi nila 4 persen peluang 
 
 ## Magic Matip
 
-![matip van dijk with hchampions tropyh]https://i0.wp.com/www.thisisanfield.com/wp-content/uploads/20190601-098-UEFA_Champions_League_Final-1143x915.jpg?resize=720,
+![matip van dijk with hchampions tropyh]https://i0.wp.com/www.thisisanfield.com/wp-content/uploads/20190601-098-UEFA_Champions_League_Final-1143x915.jpg?resize=640,440)
 
 Joel Matip, menjadi salah satu dari deretan pemain yang peruntungannya menjadi lebih baik, setelah mampu mempersembahkan penampilan terbaiknya selama berseragam Liverpool di saat yang tepat, pertandingan penutup puasa gelar!
 

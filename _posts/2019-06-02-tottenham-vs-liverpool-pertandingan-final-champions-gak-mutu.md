@@ -8,6 +8,7 @@ current: olahraga
 class: post-template
 sub-class: [post, tag-olahraga]
 navigation: true
+cover: /assets/image/Champions-league-2019.jpg
 ---
 
 Otto Rehagel orang tua yang membuat tim kesebelasan nasional Yunani juara piala Eropa itu, lebih tahu dengan kemampuan anak asuhnya yang secara kwalitas dibawah rata-rata, tapi Ia mampu memaksimalkan kemampuan timnya, hingga negeri para dewa itu berhak meraih gelar juara kompetisi yang diselenggarakan empat tahunan tersebut.
@@ -18,7 +19,7 @@ Aku tidak berniat membandingkan kwalitas kepelatihan, tapi pertandingan pinal li
 
 Pada saat laga berlangsung. Sang jawara bermainan dengan gagap dan sering kehilangan bola, itu memang pertandingan pinal yang sangat menyebalkan. Padahal untuk lawan yang sering ketemu di liga domestik, tim kesayangan  itu bahkan masih ragu-ragu antara menyerang atau bertanya ke Man Maduwan (baca: bertahan) hanya karena bermain di babak pinal liga champion.
 
-![sambung ayam](https://akcdn.detik.net.id/visual/2017/02/01/2048df7d-74de-4a98-afd6-be051f842edc_169.jpg?w=720&q=90)
+![sabung ayam](https://akcdn.detik.net.id/visual/2017/02/01/2048df7d-74de-4a98-afd6-be051f842edc_169.jpg?w=720&q=90)
 
 Keraguan demi keraguan itu menunjukkan Liverpool tanpa keyakinan, bahkan secara kemampuan masih tak percaya dengan kemampuan sendiri. Main yang serba kedodoran, dan cukup beruntung karena dapat jatah berkah bulan Ramadhan (baca: hadiah penalti).
 

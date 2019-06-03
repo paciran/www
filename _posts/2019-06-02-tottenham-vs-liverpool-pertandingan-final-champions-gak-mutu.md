@@ -17,11 +17,11 @@ Otto si orang tua yang berwajah intimidatif itu mengantarkan Yunani pulang denga
 
 Aku tidak berniat membandingkan kwalitas kepelatihan, tapi pertandingan pinal liga Champions kemarin itu bukan  laga beda kelas. Ya... memang harus aku akui bahwa Tottenham Hotspur tak layak untuk menang. Tapi kita juga tahu, sejarah klise yang tercipta pada dinihari itu; aromanya tak sedap. Dan piala itu dibawa Liverpool pulang dengan berurai air mata. Alih-alih terharu, daya ketawa sinisku lebih sering muncul secara alami.
 
-Pada saat laga berlangsung. Sang jawara bermainan dengan gagap dan sering kehilangan bola, itu memang pertandingan pinal yang sangat menyebalkan. Padahal untuk lawan yang sering ketemu di liga domestik, tim kesayangan  itu bahkan masih ragu-ragu antara menyerang atau bertanya ke Man Maduwan (baca: bertahan) hanya karena bermain di babak pinal liga champion.
+Pada saat laga berlangsung. Sang jawara bermainan dengan gagap dan sering kehilangan bola, itu memang pertandingan pinal yang sangat menyebalkan. Padahal untuk lawan yang sering ketemu di liga domestik, tim kesayangan itu bahkan masih ragu-ragu antara menyerang atau bertanya ke Man Maduwan (baca: bertahan) hanya karena bermain di babak pinal liga champion.
 
 ![sabung ayam](https://akcdn.detik.net.id/visual/2017/02/01/2048df7d-74de-4a98-afd6-be051f842edc_169.jpg?w=720&q=90)
 
-Keraguan demi keraguan itu menunjukkan Liverpool tanpa keyakinan, bahkan secara kemampuan masih tak percaya dengan kemampuan sendiri. Main yang serba kedodoran, dan cukup beruntung karena dapat jatah berkah bulan Ramadhan (baca: hadiah penalti).
+Keraguan demi keraguan itu menunjukkan Liverpool tanpa keyakinan, bahkan secara kemampuan masih tak percaya dengan kemampuan sendiri. Main yang serba kedodoran, dan cukup beruntung karena dapat jatah [berkah bulan Ramadhan](https://www.paciran.com/renungan-ramadhan-kita-yang-munafik) (baca: hadiah penalti).
 
 Di saat yang sama, si lawan yang dihadapi tampil kurang greget, aksi-aksinya masih tipikal tim-tim labil di liga Inggris. Maksudku Tottenham Hotspur lebih seperti sekumpulan pemain lapis kedua Barca atau Madrid yang dipaksa untuk tampil di final liga champion. Ini pinal yang sangat tidak menarik bagiku, tapi tidak bagi para Bandar. Aku rasa mereka lebih banyak ketawa sekarang.
 

@@ -69,7 +69,7 @@ Coba perhatikan statistik akurasi umpan pasukan Klopp yang cuma menyentuh angka 
 
 Anehnya, di tengah kinerja tim yang bobrok, Gini Wijnaldum malah mampu menyelesaikan operan dengan tingkat keberhasilan 100 persen. Tapi tetapi dengan hanya 12 operan dalam 60 menit di lapangan, tak ada pengaruh signifikan. Menunjukkan betapa rendahnya kinerja lini tengah Liverpool
 
-![Six Times](/assets/images/lfc-six-times.jpg)
+![Six Times](/assets/images/lfc-sixth-times.jpg)
 
 Terlepas dari betapa belum pernah ada tim-tim lain yang mampu memenangi gelar jawara Liga Champions dengan permainan sejelek itu. Terlebih penting dari itu semua, Liverpool mampu memenangi pertarungan, merebut kemenangan dan membawa pulang Si Kuping besar keenam kalinya, itu yang paling penting. Tak ada hal lain yang memuaskan hati para Kopites selain mengakhiri puasa gelar! 
 

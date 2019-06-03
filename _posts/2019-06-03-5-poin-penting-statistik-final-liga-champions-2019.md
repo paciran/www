@@ -29,6 +29,8 @@ Situs analis statistik Infogol, memberikan tembakan Origi nila 4 persen peluang 
 
 ## Magic Matip
 
+![matip van dijk with hchampions tropyh]https://i0.wp.com/www.thisisanfield.com/wp-content/uploads/20190601-098-UEFA_Champions_League_Final-1143x915.jpg?resize=720,
+
 Joel Matip, menjadi salah satu dari deretan pemain yang peruntungannya menjadi lebih baik, setelah mampu mempersembahkan penampilan terbaiknya selama berseragam Liverpool di saat yang tepat, pertandingan penutup puasa gelar!
 
 Setahun lalu, tak sedikit fans yang  rela melepas pemain asal Kamerun ini keluar dari Anfield. Tentu sekarang berbeda setelah penampilan gemilangya. Bola dari sentuhan kaki Matip-lah yang membuat Origi menuntaskan kemenangan dengan skor 2-0 di akhir pertandingan di Madrid itu. Yang menjadi asis pertamanya sejak memakai jersey si-merah. Membutuhkan hingga 98 penampilan untuk membuat asis, sebuah waktu yang tepat untuk mengakhiri kemandulan.

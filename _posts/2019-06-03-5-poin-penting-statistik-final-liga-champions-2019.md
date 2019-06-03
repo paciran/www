@@ -13,7 +13,7 @@ Kemenangan heroik Liverpool pada Final Liga Champions mendominasi tajuk berita 
 
 Pemain asuhan Jurgen Klopp merengkuh status legendaris di sabtu malam waktu setempat ketika mengalahkan Tottenham di Madrid sembari menutup musim yang luar-biasa. Menjadi malam yang patut diingat sejak final di Istambul, harapan sebagai pembuka jalan untuk kesuksesan yang lebih besar dengan Klopp di pucuk pimpinan pun kembali melambung.
 
-Berikut ini adalah 5 statistik paling menarik dari pertandingan _final gak mutu_ yang akan tetap tercatat dalam buku legenda.
+Berikut ini adalah 5 catatan statistik paling menarik dari pertandingan [_final gak mutu_](https://www.paciran.com/tottenham-vs-liverpool-pertandingan-final-champions-gak-mutu) yang akan tetap tercatat dalam buku legenda.
 
 ## Clinical Origi
 
@@ -25,7 +25,7 @@ Origi menutup musim sebagai pemain Liverpool paling berarti dalam laga-laga pent
 
 Setelah pencapaian-pencapaian luar biasa itu, ada bisik bisik yang menyebar bahwa Orihi bakal ditawari kontrak baru oleh Liverpool, _fair_, mengingat keputusannya bertahan meskipun tidak menjadi pilihan utama dalam skuad Jurgen Klopp.
 
-Situs analis statistik Infogol, memberikan tembakan Origi nila 4 persen peluang untuk masuk gawang. Asal tahu saja, itu sama dengan akurasi tembakan tendangan bebas Messi pada pertandingan leg pertama di Camp-Nou, akurasi yang luar biasa!
+Situs analis statistik _Infogol_, memberikan tembakan Origi nila 4 persen peluang untuk masuk gawang. Asal tahu saja, itu sama dengan akurasi tembakan tendangan bebas Messi pada pertandingan leg pertama di Camp-Nou, akurasi yang luar biasa!
 
 ## Magic Matip
 

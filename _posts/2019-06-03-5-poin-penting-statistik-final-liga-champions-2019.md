@@ -19,7 +19,7 @@ Berikut ini adalah 5 statistik paling menarik dari pertandingan _final gak mutu_
 
 ![Lord Origol](/assets/images/lord-origi.jpg)
 
-Karir Divock Origi di Liverpool mengalami titik balik yang tak terduga dan hampir tak dapat dipercaya, setelah berbagai rumor mengenai kepindahannya pada akhir musim panas lalu. Alih-alih keluar, pemain berpaspor Belgia itu tetap di Anfield dan malah menyumbang gol penting saat lawan Everton, Newcastle, Barcelona, dan tentu saja,  stayed put and he has scored huge goals against Everton, Newcastle, Barcelona and, of course, gol pengunci gelar juara.
+Karir Divock Origi di Liverpool mengalami titik balik yang tak terduga dan hampir tak dapat dipercaya, setelah berbagai rumor mengenai kepindahannya pada akhir musim panas lalu. Alih-alih keluar, pemain berpaspor Belgia itu tetap di Anfield dan malah menyumbang gol penting saat lawan Everton, Newcastle, Barcelona, dan tentu saja, gol pengunci gelar juara.
 
 Origi menutup musim sebagai pemain Liverpool paling berarti dalam laga-laga penting. Menurut analis **Andrew Beasley**, dia mencetak gol atau asis setiap 84 menit dalam penampilannya yang terbatas di musim ini. Tak ada satupun pemain yang mampu menyamai keganasan Origi, baik itu Mo Salah, Mane atau Firminho sekalipun. Lord Origoal!
 

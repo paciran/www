@@ -7,7 +7,6 @@ cover: /assets/images/genuk-penampung-air.webp
 tags: [romansa, psikologi]
 class: post-template
 subclass: [post, tag-romansa]
-date: 2019-12-13 12:00:50 +07:00
 ---
 
 Aku punya sebuah kenangan tentang sesuatu pada masa kecilku di kampung halaman Bapak, yang kini, sudah almarhum, bertahun-tahun lalu. Sebuah _genuk_ besar tempat untuk menampung air yang berada di belakang rumah. Yang kalau mau, genuk itu bisa kupakai sebagai pengganti kolam renang, masuk dan _kungkum_ di dalamnya di siang yang panas ketika matahari sedang semangat-semangatnya membakar dirinya sendiri sepulang dari Madrasah. Yang ketika kulakukan akan semakin menegaskan kebandelanku dengan kalimat: "_O.. anake-wong jawatimur kiye nakale kok yo ra lumrah kae._" dan sederet sumpah serapah, yang uniknya tidak berpengaruh. _Lha piye, misuhi kok koyo nyinden_.

@@ -1,6 +1,6 @@
 ---
 layout: post
-current: romansa8
+current: romansa
 cover: False
 navigation: True
 title: Kangen Djuga Kadang Redup, Lur

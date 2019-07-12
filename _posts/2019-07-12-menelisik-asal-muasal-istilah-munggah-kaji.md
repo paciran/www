@@ -21,8 +21,8 @@ Berawal dari orang-orang Eropa yang menerjemahkan perjalanan haji ini dengan ist
 Dalam bahasa Melayu, istilah Haji atau Aji berbeda dengan hajj dalam bahasa Arab yang berarti mengunjungi atau menuju. Dalam bahasa Melayu, aji dapat diartikan sebagai mulia atau utama. Hal ini memberikan pemahaman terhadap pentingnya perjalanan ke tanah suci dan para petinggi agama Islam mempermudah pemahaman degan istilah _munggah kaji_. Jadi bukan hanya sekedar bepergian, namun mencapai suatu yang mulai dan utama.
 
 ![Suasana musim Haji](/assets/images/suasana-musim-haji.jpg)
-
-_Suasana musim haji jaman dulu | **Kemenag**_{:style='font-size:11px;text-align:right;'}
+_Suasana musim haji jaman dulu | **Kemenag**_
+{:.align-center style='font-size:11px'}
 
 Orang Jawa mempunyai komitmen tersendiri dan alasan tersendiri untuk bepergian haji. Hal itu tertulis dalam _**Seta Kandhaning Ringgit Purwa**_ yang ditulis sekitar awal abad 17, bahwasanya orang Jawa mempunyai versi tersendiri tentang Mekah.
 
@@ -40,7 +40,7 @@ Tak sampai di situ, catatan ini menggambarkan situasi kota Jeddah kala itu yang 
 
 ![Kapal haji](/assets/images/kapal-haji.jpg)
 _Kapal haji | **Journals**_
-{:style='font-size:11px;text-align:right;'}
+{:.align-center style='font-size:11px;'}
 
 Kisah-kisah tersebut menggambarkan sulitnya mencapai negeri Arab kala itu. Selain itu, ditemukan catatan milik Pigeaud pada tahun 1938 dalam penelitiannya tentang selera kebudayaan orang-orang Jawa memandang munggah kaji merupakan komitmen yang lebih tinggi dibandingkan sunat atau khitan.
 
@@ -52,4 +52,4 @@ Saat ini, pergi ke negeri Arab bukanlah hal sulit, siapapun bisa melakukannya ji
 
 > Lihat artikel yang lebih lengkap di 
 [indonesia.go.id](https://indonesia.go.id/ragam/budaya/kebudayaan/munggah-kaji-perjalanan-mencapai-keutamaan).
-{:style="text-align:right:font-size:11px"}
+{: style="font-size:11px"}

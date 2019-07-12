@@ -12,6 +12,7 @@ layout: post
 Bagi orang Indonesia yang memeluk agama Islam, bepergian ke Mekah merupakan hal yang istimewa. Perjalanan rohani menuju negeri Arab memang tidak mudah karena jaraknya yang jauh.
 
 Orang-orang Jawa sering menyebutnya dengan “_munggah kaji_” yang berarti naik atau pencapaian yang tinggi. Namun bagaimana asal muasal kata “naik” digunakan untuk menyebut kegiatan spesifik umat Muslim ini?
+
 ![Rombongan Haji menaiki kapal](https://indonesia.go.id/assets/img/content_image/1562815939_Jemaah_haji_di_Pulau_Onrust,_1930.jpeg)
 _Perjalanan jemaah haji Nusantara di Pulau Onrust, 1930 — **ANRI**_{: style='font-size:11px'}
 

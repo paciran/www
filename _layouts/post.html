@@ -33,7 +33,7 @@ into the {body} of the default.hbs template -->
                             {% if forloop.index == page.tags.size %}
                                <a href="{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/">{{ tag | upcase }}</a>
                             {% else %}
-                               <a href="{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/">{{ tag | upcase }}</a>,
+                               <a href="{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/">{{ tag | upcase }}</a>, 
                             {% endif %}
                         {% endfor %}
                     {% endif %}
@@ -42,7 +42,7 @@ into the {body} of the default.hbs template -->
             </header>
 
             {% if page.cover %}
-            <figure class="post-full-image" style="background-image: url(https://i1.wp.com/www.paciran.com/{{ page.cover }}?resize=1200,800)">
+            <figure class="post-full-image" style="background-image: url(https://i0.wp.com/www.paciran.com{{ page.cover }}?ssl=1)">
             </figure>
             {% endif %}
 

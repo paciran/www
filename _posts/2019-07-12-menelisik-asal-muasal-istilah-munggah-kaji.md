@@ -39,7 +39,7 @@ Abdullah mencatat perjalanannya yang berlangsung 109 hari, dan naskah itu dibawa
 Tak sampai di situ, catatan ini menggambarkan situasi kota Jeddah kala itu yang memiliki sistem pengangkutan kargo yang buruk dari kapal pemiliknya. Banyak barang yang dibiarkan remuk, hancur, dibuka paksa, bahkan hilang.
 
 ![Kapal haji](/assets/images/kapal-haji.jpg)
-_ Kapal haji | **Journals**_{:style='font-size:11px;text-align:right;'}
+_Kapal haji | **Journals**_{:style='font-size:11px;text-align:right;'}
 
 Kisah-kisah tersebut menggambarkan sulitnya mencapai negeri Arab kala itu. Selain itu, ditemukan catatan milik Pigeaud pada tahun 1938 dalam penelitiannya tentang selera kebudayaan orang-orang Jawa memandang munggah kaji merupakan komitmen yang lebih tinggi dibandingkan sunat atau khitan.
 

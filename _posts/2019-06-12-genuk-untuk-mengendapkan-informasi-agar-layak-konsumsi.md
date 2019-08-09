@@ -3,7 +3,7 @@ title: Sebuah Genuk untuk Mengendapkan Informasi yang Keruh dan ber-Najis
 description: Seberapa banyak informasi yang kita dapatkan di era yang sudah pecah selaput-selaput pembatasnya ini? Banyak, dan tidak semua informasi itu layak konsumsi.
 author: mukidi
 editor: mukidi
-cover: "/assets/images/genuk-penampung-air.webp"
+cover: "/assets/images/genuk-penampung-air.jpg"
 tags: [romansa, psikologi]
 class: post-template
 subclass: [post, tag-romansa]

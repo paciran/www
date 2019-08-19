@@ -6,6 +6,7 @@ author: mukidi
 navigation: true
 class: post-template
 subclass: [post, tag-sejarah]
+tags: [sejarah]
 current: post
 layout: post
 ---

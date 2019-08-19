@@ -1,9 +1,16 @@
 ---
 title: "Rahwana, Antagonis Yang Lebih Tulus Mencintai Shinta"
+layout: post
+categories: [romansa]
+author: mukidi
+editor: mukidi
+class: post-template
+subclass: [post, tag-romansa]
+excerpt: Dalam sebuah kisah lalu diceritakan Rahwana hanya mencintai satu wanita, istrinya.. Dewi Setyawati. Hingga kemudian sang dewi meninggal dan kemudian menitis ke dewi Sinta. 
 ---
 Rahwana adalah Penjahat. 
 Rama adalah pahlawan. 
-Pemahaman ini sdh meluas dlm masyarakat. 
+Pemahaman ini sudah meluas dalam masyarakat. 
 Namun dalam urusan cinta, bisa saja pemahaman ini diperdebatkan. 
 
 Saya percaya bahwa manusia itu punya dua sisi (tidak ada yang sepenuhnya hitam, tidak ada yang sepenuhnya putih), 

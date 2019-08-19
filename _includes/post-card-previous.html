@@ -1,8 +1,13 @@
 
     <article class="post-card {{ page.previous.class }}{% unless page.previous.cover %} no-image{% endunless %}">
         {% if page.previous.cover %}
+{% if page.previous.cover contains "://" %}
+  {% capture img_path %}{{ page.previous.cover }}{% endcapture %}
+{% else %}
+  {% capture img_path %}{{ page.prebious.cover | relative_url }}{% endcapture %}
+{% endif %}
             <a class="post-card-image-link" href="{{ site.baseurl }}{{ page.previous.url | remove_first: '/' }}">
-                <div class="post-card-image" style="background-image: url({{ site.baseurl }}{{ page.previous.cover }})"></div>
+                <div class="post-card-image" style="background-image: url({{ img_path }})"></div>
             </a>
         {% endif %}
         <div class="post-card-content">

@@ -5,8 +5,8 @@ cover: "/assets/images/munggah-kaji.jpg"
 author: mukidi
 navigation: true
 class: post-template
-subclass: [post, tag-sejarah]
-tags: [sejarah]
+subclass: [post, tag-religi]
+tags: [sejarah, religi]
 current: post
 layout: post
 ---

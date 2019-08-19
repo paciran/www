@@ -9,8 +9,10 @@ class: post-template
 subclass: [post, tag-romansa]
 excerpt: Dalam sebuah kisah lalu diceritakan Rahwana hanya mencintai satu wanita, istrinya.. Dewi Setyawati. Hingga kemudian sang dewi meninggal dan kemudian menitis ke dewi Sinta. 
 ---
-Rahwana adalah Penjahat. 
-Rama adalah pahlawan. 
+Rahwana adalah Penjahat.
+
+Rama adalah pahlawan.
+
 Pemahaman ini sudah meluas dalam masyarakat. 
 Namun dalam urusan cinta, bisa saja pemahaman ini diperdebatkan. 
 
@@ -26,8 +28,10 @@ Dan, Rahwana memilih pilihan kedua.
 Sinta pun diculiknya dan dibawa pulang ke Alengka. Selama tiga tahun disekap, Sinta diperlakukan bak ratu oleh Rahwana. Meski dia bisa memaksa atau bahkan memperkosa Sinta, Rahwana tak pernah mau melakukannya. 
 Rahwana tahu, cinta sejati tak butuh dipaksa.
 
-Dia tak pernah menyentuhnya. 
-Dia menunggu. 
+Dia tak pernah menyentuhnya.
+
+Dia menunggu.
+
 Menunggu adalah hal terbaik agar sang dewi tak terluka hatinya. 
 Agar sang dewi mencintainya sepenuh hati. Suatu saat nanti... Walaupun itu entah kapan..
 Padahal dia tahu benar bahwa titisan Dewi Setyawati itu terlahir begitu setia pada suaminya.
@@ -54,7 +58,8 @@ Jika dia bisa mengalahkanku, maka aku akan mengembalikanmu kepadanya"
 Ketika Rama datang dengan balatentara wanara plus hanoman, dengan gagah berani Rahwana menyambutnya. 
 “Aku mencintai Sinta, Rama! Aku akan melakukan apa pun untuknya. Aku benar-benar mencintainya, bukan sepertimu yang menikahinya hanya karena berhasil memenangkan sayembara. Semua perbuatanku yang kau sebut ‘mengacau’ sebenarnya adalah usahaku dalam rangka mendapatkan cintaku kembali"
 
-Pertarungan pun terjadilah. 
+Pertarungan pun terjadilah.
+
 Dengan dibantu Hanoman, Rama berhasil mengalahkan Rahwana dan membunuhnya. Sinta pun kembali jadi miliknya.
 Dia lari menghambur ke pelukan Rama. 
 Namun, sambutan Rama justru tak dia duga.. Rama curiga, jangan-jangan Sinta telah dinodai Rahwana.
@@ -65,8 +70,11 @@ Karena dia masih suci, api tak bisa membunuhnya. Barulah setelah itu Rama mau me
 
 Tinggal kemudian sukma Rahwana yang menangis sejadinya karena nestapa cinta. Kenapa takdir tidak memilihnya? Andai dia ikut perlombaan pasti Sinta menjadi miliknya, bukankah kesaktian Rama masih jauh di bawahnya. 
 Kenapa pula Sinta memilih pria yang tidak mempercayainya 100 persen? Sementara bagi Rahwana, Sinta ternoda atau tidak, cantik atau tidak dia tetap akan mencintainya.
-------
-Disudut lain yangg tak terlihat..  Sinta tersedu pilu karena Rahwana sudah tak ada lagi di dunia yang ditempatinya, tak menghirup lagi udara yang dihirupnya... 
+
+****
+
+Disudut lain yangg tak terlihat..
+Sinta tersedu pilu karena Rahwana sudah tak ada lagi di dunia yang ditempatinya, tak menghirup lagi udara yang dihirupnya... 
 Sosok yang mencintainya tanpa tapi. 
 
 _Tulisan dari **Puspita Artha Trisnano**_

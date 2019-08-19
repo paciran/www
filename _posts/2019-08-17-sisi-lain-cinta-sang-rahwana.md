@@ -2,6 +2,7 @@
 title: "Rahwana, Antagonis Yang Lebih Tulus Mencintai Shinta"
 layout: post
 categories: [romansa]
+cover: https://cdn0-production-images-kly.akamaized.net/UP2LMqmo8HvVASuqmoupgoiaBA0=/750x416/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/529522/original/rahwana-131215b.jpg
 author: mukidi
 editor: mukidi
 class: post-template

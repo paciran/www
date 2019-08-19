@@ -27,9 +27,9 @@
 {% else %}
   {% capture cover_path %}{{ page.header.image | relative_url }}{% endcapture %}
 {% endif %}
-<meta property="og:image" content="cover_path" />
+<meta property="og:image" content="{{ cover_path }}" />
 {% else %}
-<meta property="og:image" content="site.cover" />
+<meta property="og:image" content="{{ site.cover }}" />
 {% endif %}
 <meta property="og:image:alt" content="{{ page.title }}" />
 {% if page.layout =='post' %}

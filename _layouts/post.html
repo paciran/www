@@ -42,7 +42,12 @@ into the {body} of the default.hbs template -->
             </header>
 
             {% if page.cover %}
-            <figure class="post-full-image" style="background-image: url(https://i0.wp.com/www.paciran.com{{ page.cover }}?ssl=1)">
+{% if page.cover contains "://" %}
+  {% capture img_path %}{{ page.cover }}{% endcapture %}
+{% else %}
+  {% capture img_path %}{{ page.cover | relative_url }}{% endcapture %}
+{% endif %}
+            <figure class="post-full-image" style="background-image: url({{ img_path }})">
             </figure>
             {% endif %}
 

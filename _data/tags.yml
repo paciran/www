@@ -13,6 +13,7 @@ religi:
 sejarah:
   name: sejarah
   description: "Sejarah juga dapat mengacu pada bidang akademis yang menggunakan narasi untuk memeriksa dan menganalisis urutan peristiwa masa lalu, dan secara objektif menentukan pola sebab dan akibat yang menentukan mereka. Ahli sejarah terkadang memperdebatkan sifat sejarah dan kegunaannya dengan membahas studi tentang ilmu sejarah sebagai tujuan itu sendiri dan sebagai cara untuk memberikan 'pandangan' pada permasalahan masa kini." 
+  cover: False
 fiksi:
   name: fiksi
   description: Kisah-kisah imajiner dan fiksi (film, novel, cerpen) yang tidak dimaksudkan untuk hiburan semata.

@@ -8,7 +8,6 @@ author: sukadi
 editor: mukidi
 title: "Baca Cerpen “Ajak Aku Mandi”"
 description: "Sambil berharap si Kecoa betina mau mengajak ia mandi di genangan air."
-author: koradi
 ---
 Ia seekor tikus jantan, tidak jantan-jantan amat. Tetapi tetap saja jantan. Namanya Suki, tidak jelas, kapan Ia mendapatkan nama itu.
 

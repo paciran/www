@@ -41,6 +41,6 @@ Contoh diatas mungkin biasa saja, akan tetapi yang lebih _keki_ kalau ada yang n
 
 Atau; "tuh khan cuma gak sampai sejaman selesai, jadi harganya jangan segitu ya plis"
 
-Hai.. _If i do a job 30 minutes it's because i spent 10 years learning how to do that in 30 minutes. You owe me for the years, not the minutes, Dude!"
+> Hai.. If i do a job 30 minutes it's because i spent 10 years learning how to do that in 30 minutes. **You owe me for the years, not the minutes**, Dude!"
 
 Ketahuilah _semua project matur tengkyu_ bisa membuat utang semakin menumpuk dan janji-janji ke (calon) anak istri sering tidak terpenuhi. You hurt me.

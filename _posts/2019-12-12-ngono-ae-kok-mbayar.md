@@ -25,6 +25,8 @@ Jadi _please deh_, jangan seenaknya ngomong ilmu itu milik Allah, masak harus ba
 
 Bahannya bisa jadi gratessss... Menuju untuk mendapatkan yang gratis itu bisa berdarah-darah mas bro...
 
+![Miyabi dukung Timnas Indonesia](https://cdn0-production-images-kly.akamaized.net/wiXQTFT5gNImw5xGFbv5oKNTJC4=/673x373/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2978219/original/020854600_1574760845-20191126IQ_Timnas_Indonesia_U-22_Vs_Thailand_04.jpg)
+
 Penuntut ilmu pasti paham, kalau dari "bodoh" menjadi "pintar" itu perjuangannya luar biasa. Bisa ada tangisan, luka, kurang tidur, rasa gelisah, mental dan fisik ditempa.
 
 Anda boleh membayar selembar kertas kosong seharga satu rim kertas, akan tetapi saat selembar kertas diisi dengan desain arsitektur atau grafis, maka  anda tidak bisa lagi menghargakannya seharga kertas kosong melompong itu. 

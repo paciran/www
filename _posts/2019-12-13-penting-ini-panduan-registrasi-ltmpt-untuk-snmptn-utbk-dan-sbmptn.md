@@ -16,7 +16,9 @@ Namun sebelumnya, setiap sekolah dan siswa yang ingin mengikuti SNMPTN, UTBK, da
 
 Kebijakan ini merupakan aturan baru yang telah dikeluarkan LTMPT untuk siswa yang ingin mengikuti SNMPTN, UTBK, dan SBMPTN pada tahun 2020. Aturan tersebut juga berlaku bagi siswa lulusan tahun 2018 dan 2019 yang nantinya ingin mendaftarkan diri mengikuti SBMPTN.
 
-Dilansir dari akun Instagram resmi Kemendikbud @Kemdikbud.ri, berikut ini tahapan pendaftaran untuk registrasi akun LTMPT 2020:
+![LTMPT](https://dummyimage.com/720x360/00/f.gif&text=LTMPT){: style="display:block;clear:both"}
+
+Dilansir dari akun Instagram resmi Kemendikbud [@Kemdikbud.ri](https://www.instagram.com/kemendikbud.ri), berikut ini tahapan pendaftaran untuk registrasi akun LTMPT 2020:
 
 ## Registrasi Akun LTMPT
 

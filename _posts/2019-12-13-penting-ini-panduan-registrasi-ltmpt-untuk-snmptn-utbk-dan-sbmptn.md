@@ -1,11 +1,18 @@
 ---
 title: "Penting, Ini Panduan Registrasi LTMPT untuk SNMPTN, UTBK, dan SBMPTN"
-description: ""
+description: "Dilansir dari akun Instagram resmi Kemendikbud @Kemdikbud.ri, berikut ini tahapan pendaftaran untuk registrasi akun LTMPT 2020"
+layout: post
+current: post
+tags: [edukasi, ltmpt]
+class: post-template
+subclass: 'post tag-edukasi'
+logo: assets/images/box.jpg
 author: mukidi
+editor: mukidi
 ---
 Seleksi Nasional Masuk Perguruan Tinggi Negeri (SNMPTN), Ujian Tulis Berbasis Komputer (UTBK), dan Seleksi Bersama Masuk Perguruan Tinggi Negeri (SBMPTN) merupakan proses yang harus dilalui siswa SMA/sederajat untuk dapat melanjutkan studi ke perguruan tinggi negeri (PTN).
 
-Namun sebelumnya, setiap sekolah dan siswa yang ingin mengikuti SNMPTN, UTBK, dan SBMPTN sangat wajib melakukan registrasi di laman Lembaga Tes Masuk Perguruan Tinggi (LTMPT) https://portal. ltmpt.ac.id/reg
+Namun sebelumnya, setiap sekolah dan siswa yang ingin mengikuti SNMPTN, UTBK, dan SBMPTN sangat wajib melakukan registrasi di laman Lembaga Tes Masuk Perguruan Tinggi (LTMPT) https://portal.ltmpt.ac.id/reg
 
 Kebijakan ini merupakan aturan baru yang telah dikeluarkan LTMPT untuk siswa yang ingin mengikuti SNMPTN, UTBK, dan SBMPTN pada tahun 2020. Aturan tersebut juga berlaku bagi siswa lulusan tahun 2018 dan 2019 yang nantinya ingin mendaftarkan diri mengikuti SBMPTN.
 

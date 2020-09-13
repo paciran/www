@@ -1,0 +1,96 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+body {
+    background: #fff;
+    color: #444;
+    height: 100%;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+header{
+    text-align: center;
+    display: block;
+    background: #f69bff;
+    padding: 5% 0;
+    color: #334;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 200%;
+}
+header span.link a {
+    font-size: 61%;
+    display: block;
+    margin: 1em 0 0;
+    color: #443;
+    text-decoration: none;
+}
+.content{
+    margin:1em;
+    padding: 0 5% ;
+}
+
+.content p {
+    text-align: justify;
+}
+
+/* heading - link */
+
+h1.title{padding:0 0 1em;font-weight:400;font-size:calc(1em + 1.4641288433382138vw);line-height:normal}
+h1.title a{color:#424242}
+h1.title a:hover{margin:0}
+.artikel{padding:0 1.25em;border-radius:0.1875em;line-height:1.875em;font-size:calc(1em + 0.29282576866764276vw);overflow:hidden}
+.artikel a{color:#1976d2}
+.artikel a:hover{color:#2a91e2c2;margin-left:12px}
+.artikel h1,.artikel h2{font-size:calc(1em + 0.7320644216691069vw)}
+.artikel h3{font-size:calc(1em + 0.5124450951683748vw)}
+.artikel h4{font-size:calc(1em + 0.36603221083455345vw)}
+.artikel h5,.artikel h6{font-size:calc(1em + 0.21961932650073207vw)}
+.artikel h2,.artikel h3,.artikel h4,.artikel h5,.artikel h6{margin:0.5em 0}
+
+/* gambar */
+figure{
+    margin:0;
+    text-align:center;
+}
+img{
+    display:block;
+    margin:auto;
+    border-radius: 5%;
+}
+figcaption{
+    color: #ddd;
+    font-style: italic;
+    font-size: 12px;
+}
+
+/* menu sticky */
+
+.sticky.is-active{
+  position:fixed;
+  top: 0;
+  left: 0;
+  width: 100%
+}
+nav.sticky{
+  background: #9599e7;
+}
+.sticky ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: block;
+    text-align: center;
+}
+.sticky ul li{
+  display: inline-block;
+}
+.sticky ul li a{
+  display: block;
+  padding: 0.6em 1em;
+  text-decoration: navajowhite;
+  color: #fafafa;
+}

@@ -3,7 +3,7 @@ title: "Lirik Bara Api Senyummu - Dian Piesesha"
 description: "Lirik lagu kenangan dian piesesha bara api senyummu"
 layout: post
 current: post
-tags: [edukasi, ltmpt]
+tags: [lirik, romansa]
 class: post-template
 subclass: 'post tag-romansa'
 logo: assets/images/box.jpg
@@ -57,4 +57,4 @@ Jangan kau biarkan diriku sendiri
 
 _fade out_
 
-Putar lagu lewat YT Music: [play](https://music.youtube.com/watch?v=f0idNZJ9kVE)
+Putar lagu **Dian Piesesha - Bara Api Senyummu di YT Music: [play](https://music.youtube.com/watch?v=f0idNZJ9kVE)

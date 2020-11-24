@@ -1,6 +1,6 @@
 ---
 title: "Lirik Ku Pasrahkan Padamu - Dian Piesesha"
-description: "Lirik lagu kenangan dian piesesha bara api senyummu"
+description: "Lirik lagu kenangan dian piesesha ku pasrahkan padamu"
 layout: post
 current: post
 tags: [lirik, romansa]

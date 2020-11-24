@@ -6,7 +6,7 @@
 
 ## Paciran Lamongan
 
-[![Build Status](https://travis-ci.org/paciran/www.svg?branch=master)](https://travis-ci.org/paciran/www.svg?branch=master)
+[![Build Status](https://travis-ci.org/paciran/www.svg?branch=master)](https://travis-ci.org/paciran/www)
 [![Ruby](https://img.shields.io/badge/ruby-2.5.1-blue.svg?style=flat)](http://travis-ci.org/paciran/www)
 [![Jekyll](https://img.shields.io/badge/jekyll-3.7.4-blue.svg?style=flat)](http://travis-ci.org/paciran/www)
 

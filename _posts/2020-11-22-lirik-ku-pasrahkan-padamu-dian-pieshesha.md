@@ -14,50 +14,79 @@ editor: mukidi
 ![dian piesesha](https://media.suara.com/pictures/480x260/2019/10/01/34081-dian-piesesha-dokumentasi-pribadi.jpg)
 
 Ku serahkan padamu kasih
+
 S'gala yang ku miliki
 
+
 Ku pasrahkan hidupku
+
 Penuh ketulusan hati
 
+
 Walaupun ku sadari sayang
+
 Jalan masih berliku
 
+
 Namun aku percaya
+
 Tak kan nanti kau tinggalkan diriku
 
+
 Kadangkala memang
+
 Keraguan hadir
 
+
 Mungkinkah cinta dalam hatimu
+
 Akan berubah
 
+
 Seringkali memang
+
 Ku tanya hatiku
 
+
 Adakah mungkih
+
 Engkau berlalu dari sisiku
 
 ...
 
 Ku serahkan padamu kasih
+
 S'gala yang ku miliki
 
+
 Ku pasrahkan hidupku
+
 Penuh ketulusan hati
 
+
 Kadangkala memang
+
 Keraguan hadir
 
+
 Mungkinkah cinta dalam hatimu
+
 Akan berubah
 
+
 Seringkali memang
+
 Ku tanya hatiku
 
 Adakah mungkih
+
 Engkau berlalu dari sisiku
 
-Adakah mungkih
+
+Adakah mungkin
+
 Engkau berlalu dari sisiku
 
-Putar lagu **Dian Piesesha - Ku Pasrahkan Padamu** di YT Music [play](https://music.youtube.com/watch?v=BL16_Oer9a8)
+
+
+_Putar lagu **Dian Piesesha - Ku Pasrahkan Padamu** di [YT Music](https://music.youtube.com/watch?v=BL16_Oer9a8)_

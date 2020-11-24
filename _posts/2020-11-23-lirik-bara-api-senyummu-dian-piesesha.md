@@ -14,51 +14,75 @@ editor: mukidi
 ![dian piesesha](https://cdn.statically.io/img/media.suara.com/pictures/480x260/2019/10/01/34081-dian-piesesha-dokumentasi-pribadi.jpg)
 
 Kau pernah ucapkan janji
+
 Janji janji manis untukku
+
 Saat itu aku terbuai
+
 Bayangan hayal dalam diriku
 
 
 Bara api dalam senyummu
+
 Kuterbakar kemesraanmu
+
 Walau lama tiada kabar berita
+
 Kumaafkan karena senyummu
 
 
 Masih ada butir rindu dihatiku
+
 Kisah kisah indah kenanganku
+
 Setiap malam ku s'lalu berdoa
+
 Mungkinkah kita dapat berdua
 
 
 Desir angin di malam dingin
+
 Embun sirna di mentari pagi
+
 Selama masih adabkasih sayang
+
 Jangan kau biarkan diriku sendiri
 
 ..
 
 Kau pernah ucapkan janji
+
 Janji janji manis untukku
+
 Saat itu aku terbuai
+
 Bayangan hayal dalam diriku
 
 
 Bara api dalam senyummu
+
 Kuterbakar kemesraanmu
+
 Walau lama tiada berita
+
 Kumaafkan karena senyummu
 
 
-Masih ada butir rindu dihatiku
+Masih ada butir rindu di hatiku
+
 Kisah kisah indah kenanganku
+
 Setiap malam ku s'lalu berdoa
+
 Mungkinkah kita dapat berdua
 
 
 Desir angin di malam dingin
+
 Embun sirna di mentari pagi
+
 Selama masih ada kasih sayang
+
 Jangan kau biarkan diriku sendiri
 
 

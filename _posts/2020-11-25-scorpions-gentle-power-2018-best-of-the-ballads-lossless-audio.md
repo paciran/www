@@ -1,5 +1,13 @@
 ---
+layout: post
 title: "Lossless Audio: Scorpions - Gentle Power (Best Of The Ballads) (2018)"
+description: "Album Gentle Power dari band rock Scorpions. Rilisan 2018. Riping audio format lossless"
+author: mukidi
+tags: [audio, romansa]
+current: [romansa]
+class: post-template
+subclass: [post, tag-romansa]
+navigation: true
 ---
 
 ![cover album gentle power scorpoins](https://cdn.statically.io/img/lossless-flac.com/uploads/posts/2018-12/1545934484_cover.jpg)

@@ -1,6 +1,15 @@
 ---
+layout: post
+current: romansa
+class: post-template
+#cover: "https://cdn.statically.io/img/asset.kompas.com/data/photo/2016/04/14/1249138ThinkstockPhotos-484058790780x390.jpg"
 title: "Cara Membuat Motivation Letter : Pengertian, Fungsi, Tujuan, Struktur, dan Contohnya"
-description: " Bagaimana Cara Membuat Motivation Letter? Berikut Pengertian, Fungsi, Tujuan, Struktur, dan Contoh Mitivation Letter yang bisa dijadikan acuan"
+description: "Bagaimana Cara Membuat Motivation Letter? Berikut Pengertian, Fungsi, Tujuan, Struktur, dan Contoh Mitivation Letter yang bisa dijadikan acuan"
+author: mukidi
+editor: mukidi
+tags: [menulis, kampus]
+subclass: 'post tag-menulis'
+navigation: True
 ---
 Sebagian besar program universitas, mulai dari gelar sarjana dan seterusnya, mengharapkan kesiapan dari para pelamar untuk memenuhi persyaratan tertentu. Tidak hanya setiap kursus telah menetapkan persyaratan akademik dan formulir untuk diisi sebagian besar pelamar juga akan diminta untuk memberikan contoh pekerjaan mereka, CV, dan bahkan mengikuti ujian persiapan khusus kursus.
 

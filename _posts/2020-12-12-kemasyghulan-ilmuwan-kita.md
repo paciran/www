@@ -1,4 +1,16 @@
----
+------
+layout: post
+current: romansa
+cover: False
+navigation: True
+description: 'Dunia iptek adalah dunia yang sunyi dan sepi, makanya secara politis tidak seksi seperti kesenian dan olah raga...'
+date: 2020-12-12 13:00:07
+tags: [politik, iptek]
+class: post-template
+subclass: 'post tag-politik'
+logo: assets/images/box.jpg
+author: mukidi
+editor: mukidi
 title: "Kemasygulan Ilmuwan Kita"
 ---
 MELALUI Peraturan Presiden No. 112 tahun 2020, Dewan Riset Nasional (DRN) dengan resmi dinyatakan bubar. Alasan pembubaran adalah untuk efisensi, padahal dana DRN hanya Rp 4 miliar.
@@ -60,3 +72,5 @@ Mari kita nikmati saja seanandung dari Didi Kempot: “Aku nelongso mergo kebacu
 **Suherman**
 
 _Analis Data dan Dokumentasi Ilmiah LIPI_
+
+_(tulisan dipublikasikan di kompas.com dengan judul yang sama)_

@@ -21,13 +21,13 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md,txt"
 title: Paciran ❤ Lamongan
 description: "Antara Kebenaran Relatif, Keyakinan dan Kepalsuan"
 tagline: "Truth, Faith & Fakes"
-url: "https://www.paciran.com"
+url: "https://pcr.gootech.my.id"
 baseurl: /
 cover: assets/images/sunset-di-paciran.jpg
 logo: # assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://www.paciran.com
+production_url: https://pcr.gootech.my.id
 source_url: https://github.com/paciran/www/
 CNAME: www.paciran.com
 
@@ -89,7 +89,7 @@ repo: www
 branch: master
 relative_source: ../www/
 destination: _site/
-production_url: https://www.paciran.com
+production_url: https://pcr.gootech.my.id
 source_url: https://github.com/paciran/www/
 
 exclude:
